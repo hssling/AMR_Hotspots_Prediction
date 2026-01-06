@@ -1,0 +1,3640 @@
+
+==================================================
+FILE: 1720315291_annual_report_amr_jan2017-18.pdf
+==================================================
+
+--- PAGE 1 ---
+ 
+ 
+1 AMR surveillance network Indian Council of Medical Research 2017 
+ 
+ 
+  
+Compiled by:  
+Dr Kamini Walia,  Ph D MPH 
+Maj Gen(Dr) V C Ohri, MD 
+Dr Harpreet Singh, PhD 
+Nodal centre  
+Principal investigators 
+Regional  centre  
+Principal investigators 
+Typhoid: 
+Dr Arti Kapil, AIIMS, New Delhi 
+Dr Camilla Rodriques. 
+Hinduja , Mumbai 
+Fungal pathogens:  
+Dr  Arunaloke Chakarabarty, PGIMER, 
+Chandigarh 
+Dr Chand Wattal, 
+SGRH, New Delhi 
+Diarreal pathogens and GNNF: 
+Dr V Balaji, CMC Vellore 
+Dr Sanjay Bhattacharya, 
+TMC, Kolkata 
+Gram positive pathogens:  
+Dr Sujatha Sistla, 
+JIPMER, Pondicherry 
+Dr Sourav Sen, 
+AFMC, Pune 
+ 
+Enterobacteriaceae spp: 
+Dr Pallab Ray, 
+PGIMER, Chandigarh 
+Dr Thirunarayan, 
+Apollo Chennai 
+Dr Vijayshree Deotale, 
+MGIMS Wardha 
+Annual report 
+Antimicrobial Resistance Surveillance Network 
+January 2017-December 2017 
+
+...
+
+--- PAGE 2 ---
+ 
+ 
+2 AMR surveillance network Indian Council of Medical Research 2017 
+ 
+ 
+Summary of results of ICMR surveillance data from 
+January 2017 to December 2017 
+Of the total number of 45,930 isolates, 55% were from in -patients in wards, 18% were 
+from ICUs and 27% were from outpatients. Outpatient isolates (12,336) were 
+predominantly from pus (39%) and urine (23%), ward isolates were predominantly 
+from pus (32%) and blood (23%) and ICU isolates were predominantly from blood 
+(25%), pus and lower respiratory tract (16% each).  Gram negatives constituted major 
+share (74%) of the isolates o verall. Gram negatives were responsible for 98% of fecal, 
+96% of LRT, 87% of urinary, 80% of CSF, 76% of surgical site, and 62% each of blood 
+and pus isolates. This will have bearing in empiric choice of antibiotics. Most 
+importantly, the fact that 76% of surgical site infections were due to gram negatives will 
+demand revising antibiotic prophylaxis guidelines for such infections which had 
+targeted Staphylococci as the predominant organism for decades. Specimen wise, 
+predominant group of isolates included Enterobacteriaceae (37%) and Staphylococci 
+(30%) from blood, Enterobacteriaceae (73%) from urine, non-fermenting gram negative 
+bacteria(GNB) (61%) and Enterobacteriaceae (34%) from LRT, Enterobacteriaceae 
+(38%) and Staphylococci (33%) from pus, non -fermenting GNB (40%) and 
+Enterobacteriaceae (39%) from CSF, Enterobacteriaceae (46%) and non -fermenting 
+GNB (27%) from surgical sites, and fecal pathogens (68%) from feces. The isolates from 
+blood comprised of Enterobacteriaceae (37%) followed by Staphylococci (30%) and 
+nonfermenting GNB (19%). Of the Enterobacteriaceae, E. coli was the commonest (46%) 
+followed by K. pneumoniae (42%) and Enterobacter species (7%).  
+Among the typhoidal organisms, S. typhi is the most common etiological agent followed 
+by S. paratyphi  A. The ciprofloxacin susceptibility percentage was 15 -18% only.  
+Resistance in S. paratyphi  A is high
+...
+
+--- PAGE 5 ---
+ 
+ 
+5 AMR surveillance network Indian Council of Medical Research 2017 
+ 
+ 
+Table i: Isolation rates of different pathogens from different specimens January 2017 to December 2017.  
+ 
+Isolate Culture positive 
+Total  
+n=45930 
+Blood  
+n=9427 
+Urine  
+n=7282 
+LRT  
+n=5122 
+Pus  
+n=14294 
+CSF  
+n=435 
+SS  
+n=1177 
+Faeces  
+n=478 
+Others  
+n=7715 
+n % n % n % n % n % n % n % n % n % 
+No. culture 
+positive 
+45930 
+(100) 
+100 9427 
+(100) 
+20.5 7282 
+(100) 
+15.9 5122 
+(100) 
+11.2 14294 
+(100) 
+31.1 435 
+(100) 
+0.9 1177 
+(100) 
+2.6 478 
+(100) 
+1 7715 
+(100) 
+16.8 
+OPD 12336 
+(26.9) 
+100 1515 
+(16.1) 
+12.3 2844 
+(39.1) 
+23.1 1400 
+(27.3) 
+11.3 4750 
+(33.2) 
+38.5 43 
+(9.9) 
+0.3 136 
+(11.6) 
+1.1 228 
+(47.7) 
+1.8 1420 
+(18.4) 
+11.5 
+Ward (non-ICU) 
+incl HDU 
+25300 
+(55.1) 
+100 5836 
+(61.9) 
+23.1 3656 
+(50.2) 
+14.5 2411 
+(47.1) 
+9.5 8208 
+(57.4) 
+32.4 304 
+(69.9) 
+1.2 808 
+(68.6) 
+3.2 239 
+(50) 
+0.9 3838 
+(49.7) 
+15.2 
+ICU 8294 
+(18.1) 
+100 2076 
+(22) 
+25 782 
+(10.7) 
+9.4 1311 
+(25.6) 
+15.8 1336 
+(9.3) 
+16.1 88 
+(20.2) 
+1.1 233 
+(19.8) 
+2.8 11 
+(2.3) 
+0.1 2457 
+(31.8) 
+29.6 
+Enterobacteriaceae 
+(except 
+Salmonella) 
+19619 
+(42.7) 
+100 3528 
+(37.4) 
+18 5327 
+(73.2) 
+27.2 1740 
+(34) 
+8.9 5472 
+(38.3) 
+27.9 171 
+(39.3) 
+0.9 544 
+(46.2) 
+2.8 43 
+(9) 
+0.2 2794 
+(36.2) 
+14.2 
+Salmonella 491 
+(1.1) 
+100 374 
+(4) 
+76.2 2 
+(0) 
+0.4 1 
+(0) 
+0.2 10 
+(0.1) 
+2 0 
+(0) 
+0 3 
+(0.3) 
+0.6 97 
+(20.3) 
+19.8 4 
+(0.1) 
+0.8 
+NFGNB 12642 
+(27.5) 
+100 1792 
+(19) 
+14.2 599 
+(8.2) 
+4.7 3123 
+(61) 
+24.7 3385 
+(23.7) 
+26.8 174 
+(40) 
+1.4 322 
+(27.4) 
+2.5 5 
+(1) 
+0 3242 
+(42) 
+25.6 
+...
+
+--- PAGE 6 ---
+ 
+ 
+6 AMR surveillance network Indian Council of Medical Research 2017 
+ 
+ 
+Staphylococci 9186 
+(20) 
+100 2828 
+(30) 
+30.8 82 
+(1.1) 
+0.9 219 
+(4.3) 
+2.4 4763 
+(33.3) 
+51.9 64 
+(14.7) 
+0.7 82 
+(7) 
+0.9 0 
+(0) 
+0 1148 
+(14.9) 
+12.5 
+Enterococci 2617 
+(5.7) 
+100 608 
+(6.4) 
+23.2 798 
+(11) 
+30.5 9 
+(0.2) 
+0.3 632 
+(4.4) 
+24.1 21 
+(4.8) 
+0.8 198 
+(16.8) 
+7.6 9 
+(1.9) 
+0.3 342 
+(4.4) 
+13.1 
+Fungi 1016 
+(2.2) 
+100 292 
+(3.1) 
+28.7 474 
+(6.5) 
+46.7 28 
+(0.5) 
+2.8 27 
+(0.2) 
+2.7 5 
+(1.1) 
+0.5 10 
+(0.8) 
+1 0 
+(0) 
+0 180 
+(2.3) 
+17.7 
+Faecal isolates 359 
+(0.8) 
+100 5 
+(0.1) 
+1.4 0 
+(0) 
+0 2 
+(0) 
+0.6 5 
+(0) 
+1.4 0 
+(0) 
+0 18 
+(1.5) 
+5 324 
+(67.8) 
+90.3 5 
+(0.1) 
+1.4 
+ 
+Table ii. Number of isolates from various specimens from patients in OPD, ward and ICU. 
+Culture positivity specimen wise   
+          OPD        Ward       ICU      Total 
+Blood 1515 5836 2076 9427 
+Urine 2844 3656 782 7282 
+LRT 1400 2411 1311 5122 
+Pus 4750 8208 1336 14294 
+CSF 43 304 88 435 
+SS 136 808 233 1177 
+Feces 228 239 11 478 
+Others 1420 3838 2457 7715 
+Total 12336 25300 8294 45930 
+ 
+...
+
+--- PAGE 7 ---
+ 
+ 
+7 AMR surveillance network Indian Council of Medical Research 2017 
+ 
+ 
+ 
+Table iii. Various organism groups distributed specimen wise. Figures in parentheses represent percentages. 
+Organism groups specimen wise       
+ Enterobacteriaceae Salmonellae NFGNB Staphylococci Enterococci Fungi Fecal Total 
+Blood 3528 (37) 374 (4) 1792 (19) 2828 (30) 608 (6) 292 (3) 5 9427 
+Urine 5327 (73) 2 599 (8) 82 (1) 798 (11) 474(7) 0 7282 
+LRT 1740 (34) 1 3123 (61) 219 (4) 9 28 (1) 2 5122 
+Pus 5472 (38) 10 3385 (24) 4763 (33) 632 (4) 27 5 14294 
+CSF 171 (39) 0 174 (40) 64 (15) 21 (5) 5 (1) 0 435 
+SS 544 (46) 3 322 (27) 82 (7) 198 (17) 10 (1) 18 (2) 1177 
+Feces 43 (9) 97 (20) 5 (1) 0 9 (2) 0 324 (68) 478 
+Others 2794 (36) 4 3242 (42) 1148 (15) 342 (4) 180 (2) 5 7715 
+Total 19619 (43) 491 (1) 12642 (28) 9186 (20) 2617 (6) 1016 (2) 359 (1) 45930 
+ 
+  
+...
+
+--- PAGE 8 ---
+ 
+ 
+8 AMR surveillance network Indian Council of Medical Research 2017 
+ 
+ 
+1. Tyhoidal organisms 
+Summary of results 
+The nodal coordinating center for surveillance network of antimicrobial resistance in 
+Salmonella enterica  serotype typhi and paratyhi A  carried out the work as per the 
+objectives defined during 2016 -2017.During this time 84 culture positive enteric fever 
+cases were enrolle d in the hospital. Of these S. typhi  was the etiological agent in 61  
+followed by S. paratyphi A in 23. 
+The antibiotic used to treat the infection in pediatric patients showed that in OPD oral 
+cefixime and ceftriaxone IV in hospitalized pat ients were the most common antibiotics 
+used in our hospital. The use of fluoroquinolones is minimal and azithromycin was 
+given mostly as an additional antibiotic in patients showing delayed response to 
+treatment with cephalosporins. About 10% of patients n eeded more than one antibiotic 
+for complete cure. 
+As a nodal center we received a total of 266 strains ( S. typhi-166, S. paratyphi A 74 and 
+salmonella spp-26) from various regional centers. The cumulative antibiogram showed 
+that 5% strains were MDR while s usceptibility to ciprofloxacin varies from 15 -18% in 
+different centers. All the strains were susceptible to ceftriaxone but MIC 50 and MIC 90 
+showed an increasing trend. 
+Mechanism of fluoroquinolones resistance at molecular level was studied in 100 
+Typhoidal isolates. The Mutations in DNA gyrase was the most common cause with 
+mutations at S83 to F/Y followed by D87 to N/G/Y. ParC mutation was detected in three 
+isolates only. No mutation was detected in gyrB and par genes. Strains with more than 
+one mutation in gyrase A gene had higher MICs. Efflux pump was not responsible for 
+resistance. Qnr B was found in two Salmonella typhimurium  isolates from Vellore but 
+not in typhoidal Salmonella. None of the isolate was positive for ESBL genes. 
+Molecular typing was done by MLST (multiple locus sequence typing) and PFGE (
+...
+
+--- PAGE 9 ---
+ 
+ 
+9 AMR surveillance network Indian Council of Medical Research 2017 
+ 
+ 
+Table 1.1: Isolation rates of Salmonellae from different sample types  
+ 
+Isolate 
+Blood  
+n=9427 
+Faeces  
+n=478           
+n % n %           
+Salmonella paratyphi 
+A 
+39 0.4 2 0.4 
+          
+Salmonella typhi 308 3.3 64 13.4 
+          
+Salmonella spp. 27 0.3 31 6.5 
+          
+Total Salmonella 374 4 381 79.7 
+          
+ 
+  
+...
+
+--- PAGE 10 ---
+ 
+ 
+10 AMR surveillance network Indian Council of Medical Research 2017 
+ 
+ 
+Table 1.2: Resistance pattern of Salmonella isolates. (If number of 
+isolates of particular species ≥ 20). 
+AMA Blood 
+ 
+Salmonella paratyphi A 
+n=34 
+Salmonella typhi 
+n=234 
+Salmonella spp. 
+n=25 
+Ampicillin 1/33  
+(3) 
+17/224  
+(7.6) 
+1/24  
+(4.2) 
+Azithromycin *0/0  
+(-) 
+6/163  
+(3.7) 
+*0/0  
+(-) 
+Cefixime 1/22  
+(4.5) 
+2/162  
+(1.2) 
+*0/7  
+(-) 
+Ceftriaxone 0/34  
+(0) 
+1/233  
+(0.4) 
+1/25  
+(4) 
+Chloramphenicol 0/31  
+(0) 
+8/198  
+(4) 
+0/20  
+(0) 
+Ciprofloxacin 18/34  
+(52.9) 
+74/200  
+(37) 
+*4/19  
+(-) 
+Levofloxacin *1/1  
+(-) 
+*2/2  
+(-) 
+*0/0  
+(-) 
+Ofloxacin *0/0  
+(-) 
+*0/0  
+(-) 
+*0/0  
+(-) 
+Pefloxacin *2/6  
+(-) 
+85/116  
+(73.3) 
+*0/0  
+(-) 
+Trimethoprim-
+sulfamethoxazole 
+12/34  
+(35.3) 
+52/231  
+(22.5) 
+7/25  
+(28) 
+ 
+ 
+ 
+ 
+  
+...
+
+==================================================
+FILE: 1725536060_annual_report_2023.pdf
+==================================================
+
+--- PAGE 3 ---
+2 AMR Surveillance Network, Indian Council of Medical Research, 2023 
+ 
+List of acronyms 
+ 
+AFLP 
+AFST 
+AMRSN       
+Amplified fragment length polymorphism 
+Antifungal susceptibility testing 
+Antimicrobial Resistance Research & Surveillance Network 
+AMS 
+AST 
+Antimicrobial Susceptibility 
+Antimicrobial Susceptibility Testing 
+BAL Bronchoalveolar lavage 
+BSI 
+CAM 
+Blood stream infections 
+COVID-19–associated mucormycosis 
+CARD Comprehensive Antibiotic Resistance Database 
+CAUTI Catheter associated urinary tract infections 
+CDS    Coding sequence regions  
+CGPS Center for Genomic Pathogen Surveillance  
+CLABSI Catheter associated blood stream infections 
+CLSI Clinical & Laboratory Standards Institute 
+CoNS Coagulase-negative Staphylococci  
+CRAB Carbapenem-resistant Acinetobacter baumannii 
+CRE    Carbapenem resistant Enterobacterales 
+CSF    Cerebrospinal fluid 
+DI      Deep infections 
+DEC     Diarrheagenic E coli 
+DTR 
+ESBLs       
+GPC 
+GNB 
+Difficult to treat 
+Extended spectrum beta lactamases 
+Gram-positive cocci 
+Gram-negative bacteria 
+HAI Hospital acquired Infections 
+HCAI Health Care Associated infections 
+HCWs   Health care workers 
+ICU    Intensive care unit 
+IPC 
+IV 
+Infection Prevention and Control 
+Intravenous 
+OPD Out-patient department 
+LOS Length of stay 
+LRT Lower Respiratory tract 
+MBL   Metallo-beta-lactamase 
+MFS Major Facilitator superfamily 
+MIC    Minimum inhibitory concertation 
+MLST   Multi-locus sequence typing 
+MRSA     Methicillin-resistant Staphylococcus aureus 
+MSSA    Methicillin sensitive Staphylococcus aureus 
+NFGNB Non fermenting Gram-negative bacilli 
+OXA         Oxacillinases 
+PBP2a       
+PCV 
+Penicillin binding protein 2a 
+Pnuemococcal Conjugate Vaccine 
+PMQR    Plasmid mediated quinolone resistance 
+QUAST Quality assessment tool 
+RC      Regional centers 
+RGI     Resistance gene identifier 
+...
+
+--- PAGE 5 ---
+4 AMR Surveillance Network, Indian Council of Medical Research, 2023 
+ 
+Executive summary 
+ 
+ICMR- Antimicrobial Resistance Surveillance network  
+ 
+The Indian Council of Medical Research (ICMR) has been supporting Antimicrobial 
+Resistance Research & Surveillance Network (AMRSN) since 2013. The data collected 
+through the network provides trend and pattern of antimicrobial resistance among six key 
+pathogenic groups in the country along with insights on key mechanisms of resistance 
+prevalent in different pathogenic groupsusing genomics and whole genome sequencing 
+(WGS). This is the seventh detailed report from the ICMR AMR surveillance network. Since 
+the network collects data from tertiary care hospitals, the data presented in this report is 
+not reflective of the community levels of AMR in the country and should not be 
+extrapolated to community settings. 
+This report also includes the interpretation of antibiograms from OPD/Ward/ICU which is 
+crucial for assessing the impact of antimicrobial resistance and understanding its 
+implications in clinical practice for empirical use of antibiotics. This further helps in 
+identifying potential areas for interventions and improvements in antimicrobial 
+stewardship practices.  
+ 
+Highlights of surveillance data 2023: 
+ 
+● This report presents data from January 1st, 2023 to December 31st, 2023. A total 
+number of culture positive isolates studied during the year 2023 was 99,492. 
+● Gram-negative bacilli remained the most commonly isolated pathogens from most 
+clinically relevant samples like blood, urine, CSF and respiratory tract sample. Gram- 
+positive pathogens were common in only pus/exudates sample.  
+● Escherichia coli was the most commonly isolated pathogen followed by the Klebsiella 
+pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, and Staphylococcus 
+aureus. 
+● E. coli isolates demonstrated a decrease in susceptibility to most antibiotics, with 
+piperacillin-tazobactam dropping from 56.8% in 2017 to 
+...
+
+--- PAGE 6 ---
+5 AMR Surveillance Network, Indian Council of Medical Research, 2023 
+ 
+14% and CTXM-15 in 12% of the isolates. SHV gene was the predominantβ-
+lactamase gene in Klebsiella pneumoniae found in 50% of the isolates, followed by 
+CTXM-15 in 34% and OXA-48 in 29% of the isolates. 
+● In Acinetobacter baumannii, there is no significant change in the susceptibility 
+trends to all the tested antibiotics compared to last year. Resistance to carbapenems 
+in Acinetobacter baumannii was recorded as 88.0% in the year 2023, limiting the 
+availability of available treatment options. Susceptibility to minocycline was close to 
+72% to make it the most susceptible antibiotic after colistin for A. baumannii. 
+Similar to previous years, blaOXA-23-like was the only predominant carbapenemase 
+across all the centers contributing to 95% of carbapenem resistance. There was a 
+significant increase in the proportion of dual carbapenemase co- producers 
+(blaOXA-23 like with blaNDM like) from 56% in 2022 to 63% in 2023. 
+● It is important to notice that there was a gradual increase in carbapenem resistant P. 
+aeruginosa from 26% in 2017 to 38.5% in 2023 (for imipenem) and from 31.3% in 
+2017 to 34.5% in 2023 (for meropenem). A significant increase in resistance rates 
+for ciprofloxacin (26% in 2017 to 38.5% in 2023) and levofloxacin (31.3% in 2017 
+to 34.5% in 2023) has been observed in the last seven years. 
+● Over 50% of carbapenem resistant Pseudomonas aeroginosa isolates harbour class B 
+type of β-lactamases (Metallo-β-lactamase), with NDM being the most common. For 
+metallo beta-lactamase (MBL) producing P. aeruginosa, the treatment options are 
+very limited. The combination of ceftazidime-avibactam plus aztreonam is less likely 
+to provide an incremental benefit over aztreonam alone for MBL producing P. 
+aeruginosa infections. Colistin or fosfomycin based combination strategy would be 
+the best alternative for the treating MBL or DTR P. aeruginosa infection.  
+● Among the Staphylococcus au
+...
+
+--- PAGE 7 ---
+6 AMR Surveillance Network, Indian Council of Medical Research, 2023 
+ 
+effectiveness of fluoroquinolones in treating infections caused by this pathogen in 
+2023. 
+● TMP-SMX and azithromycin remain very good oral options for treatment of patients 
+with enteric fever whereas IV ceftriaxone may be used for patients admitted with 
+Enteric Fever. Use of carbapenems for treating routine enteric fever cases is not 
+recommended.  
+● Salmonella spp., followed by Aeromonas spp. and then Diarhogenic E. coli were the 
+common organisms isolated from stool samples. Antibiograms of stool isolates, 
+exhibited, high rates of resistance to fluoroquinolones; more than 50% isolates of 
+Salmonella spp., and Aeromonas spp. were resistant to fluoroquinolones.  
+● The tested stool isolates of Salmonella spp., and Shigella were susceptible to 
+trimethoprim-sulfamethoxazole and azithromycin, respectively. Isolates of 
+Aeromonas spp. showed relatively good susceptibility to tetracyclines and 
+imipenem. Therefore, oral azithromycin, trimethoprim-sulfamethoxazole and 
+doxycycline are good treatment choices for treating bacterial diarrhea for patients 
+admitted in ward. Empirical use of ciprofloxacin or norfloxacin is not recommended 
+for patients with diarrhea.  
+● As reported in previous years’ reports, C. tropicalis and C. albicans were found to be 
+leading cause of candidemia in the current year, followed by C. glabrata. Antifungal 
+susceptibility profiling revealed, 90.8% fluconazole susceptibility in C. albicans, 
+92.5% in C. tropicalis, and 88.6% in C. parapsilosis. Resistance to echinocandins was 
+low (<5%) for most of the species, making them the most suitable drugs for 
+treatment. 
+● Aspergillus spp. isolates documented higher amphotericin B resistance in the current 
+year compared to previous year in Aspergillus flavus (30.8% vs 12.17%) and A. 
+fumigatus (51.13% vs 30.77%). The drug of choice, voriconazole, also depicted 
+higher resistance in A. fumigates compared to previous year (4
+...
+
+--- PAGE 8 ---
+7 AMR Surveillance Network, Indian Council of Medical Research, 2023
+ 
+Key takeaways: Interpretations of common syndromic isolates and 
+implications in clinical practice
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Urine 
+ Escherichia coli and Klebsiella pneumoniae 
+most commonly isolated organisms 
+OPD, wards and ICU. 
+ Fosfomycin (93.7% susceptible) and Nitrofurantoin 
+(86.6% susceptible) showed very good susceptibility 
+patterns in E coli urinary isolates particularly in OPD 
+and ward patients. Hence, oral fosfomycin and oral 
+nitrofurantoin may be used to treat cystitis.
+ Amikacin (75% susceptible) and Ertapenem (79% 
+susceptible) showed very good susceptibility 
+patterns in E coli urinary isolates particularly in OPD 
+and ward patients. Hence, 
+Ertapenem may be used to treat upper UTI or patient 
+presenting with fever and urinary symptoms. 
+ 
+Stool 
+ Salmonella spp., followed by 
+Diarhogenic E. coli were most common
+stool samples.  
+ Antibiograms of stool isolates, showed, high rates of 
+resistance to fluoroquinolones; more than 50% isolates 
+Salmonella spp. Isolates of Aeromonas 
+relatively good susceptibility to tetracyclines an
+imipenem. 
+ The tested isolates of Salmonella spp
+susceptible to trimethoprim-
+azithromycin, respectively. for 
+tetracyclines and imipenem had fairly good susceptibility 
+pattern 
+ Therefore, oral azithrom
+sulfamethoxazole and doxycycline are good options to 
+treat bacterial diarrhoea for patients admitted in ward. 
+Most OPD patients with diarrhoea do
+antibiotics as these infections are viral or self
+AMR Surveillance Network, Indian Council of Medical Research, 2023 
+Key takeaways: Interpretations of common syndromic isolates and 
+implications in clinical practice 
+Escherichia coli and Klebsiella pneumoniae are the 
+organisms from urine from 
+Fosfomycin (93.7% susceptible) and Nitrofurantoin 
+(86.6% susceptible) showed very good susceptibility 
+urinary isolates particularly in OPD 
+oral fosfomycin and oral 
+nitrofu
+...
+
+--- PAGE 9 ---
+8 AMR Surveillance Network, Indian Council of Medical Research, 2023
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pus 
+ 
+ Staphylococcus aureus was the most commonly 
+isolated organism (> 30%) from pus 
+patients, whereas Escherichia coli 
+pneumoniae were most commonly 
+and ICU patients. 
+ Clindamycin (79% susceptible) and trimethoprim
+sulfamethoxazole (72% susceptible) showed good 
+susceptibility rates among Staphylococcus aureus
+isolates from OPD and ward.  
+ Hence oral clindamycin and oral trimethoprim
+sulfamethoxazole remain very good 
+options for purulent skin-soft tissue infections in OPD 
+and ward patients.  
+ It is a lso important to note that Gram
+pathogens were more predominant in pus/exudates 
+sent from ICU patients, so antibiotics targeting 
+negative organisms should be also be used in patients 
+admitted with skin-soft tissue infections.
+Cerebrospinal fluid (CSF)  
+ 
+ Gram-negative isolates were more common 
+among the isolated organisms from the CSF, 
+indicating high representation of hospital 
+acquired ventriculitis in the study population. 
+ Acinetobacter baumannii was the most common
+isolated organism followed by and 
+pneumoniae and Pseudomonas aeruginosa.
+ Most of these isolates were resistant to 
+carbapenems, cephalosporins and 
+fluoroquinolones. Only colistin and minocycline 
+showed promising susceptibility rates for 
+Acinetobacter baumannii 
+pneumoniae. 
+ 
+AMR Surveillance Network, Indian Council of Medical Research, 2023 
+was the most commonly 
+isolated organism (> 30%) from pus samples of OPD 
+Escherichia coli and Klebsiella 
+were most commonly isolated from ward 
+ble) and trimethoprim-
+sulfamethoxazole (72% susceptible) showed good 
+Staphylococcus aureus 
+Hence oral clindamycin and oral trimethoprim-
+sulfamethoxazole remain very good therapeutic 
+tissue infections in OPD 
+lso important to note that Gram-negative 
+pathogens were more predominant in pus/exudates 
+sent from ICU patients, so antibiotics targeting Gram-
+negative org
+...
+
+--- PAGE 10 ---
+9 AMR Surveillance Network, Indian Council of Medical Research, 2023 
+ 
+Chapter 1. Summary of surveillance data   
+ 
+ 
+Total number of culture positive isolates studied during the year 2023 was 99,492. Of 
+these, 22,182 were from blood, 20,026 from urine, 19,360 superficial infections, 17,902 
+Lower Respiratory tract (LRT), 6826 Deep infections, 2969 Sterile sites (SS), 873 CSF, 773 
+Faeces and 8581 others. Majority of the isolates were from Enterobacterales except 
+Salmonella and Shigella (46.3%) followed by Non fermenting Gram-negative bacilli 
+(NFGNB) (25.0%), staphylococci (15.8%), enterococci (7.0%), fungi (2.8%), Typhoidal 
+Salmonella (1.5%), Diarrheal bacterial pathogens (0.7%) and streptococci (0.6%) (Table 
+1.1). In the distribution of major group of organisms in different specimens, member of the 
+Enterobacterales group were the commonest isolates in urine (74.2%), sterile body fluids 
+(SS) (52.8%), deep infections (DI) (48.5%), others (46.8%), superficial infections (SI) 
+(43.0%), LRT (36.1%), CSF (33.2%) and blood (32.5%). Non fermenting Gram-negative 
+bacilli (NFGNB) group were the predominant isolates in the lower respiratory tract 
+(56.0%), CSF (37.4%), superficial infections (SI) (25.0%), others (23.4%), deep infection 
+(DI) (22.5%), sterile sites (SS) (21.4%), blood (16.9%) and urine (7.8%). Staphylococci 
+constituted 32.2 % of the blood infections followed the superficial infections (SI) (23.0%), 
+deep infection (DI) (21.3%) and CSF (15.7%). Enterococci group constituted 13.3% isolates 
+from urine followed by sterile body fluid (12.3%), CSF (8.6%), blood (6.5%), superficial 
+infections (6.0%), and deep infections (5.8%), and Typhoidal Salmonella group constituted 
+6.6% of the isolates from blood. Yeast group were significant isolates in the blood infection 
+(4.7%) (Table 1.1 and Figure 1.1). 
+The distribution of top 10 isolates from different specimens is presented in Table 1.2 and 
+Figure 1.2. Escherichia coli was most commonly isolated (23.2%) fo
+...
+
+--- PAGE 123 ---
+ 
+122 AMR Surveillance Network, Indian Council of Medical Research, 2023 
+ 
+ 
+Molecular mechanism of resistance 
+Characterization of resistance mechanism in A. baumannii 
+A total of 646 isolates received from various regional centers, of them 473 were revived 
+and subjected to PCR for characterization of antimicrobial resistance genes (Table 
+4.13). All the isolates harbored the blaOXA-51 like gene, which is intrinsically present in 
+A. baumannii isolates. Molecular gene profile of all the of the tested A. baumannii 
+isolates is given in Table 3.14. As expected, blaOXA-23 like only was the predominant 
+carbapenemase across all the centers contributing to 95% of the carbapenem 
+resistance. Co- producers of OXA-23 with ESBLs and/or NDM was observed across all 
+the centers (Table 4.13). Of which, the majority of the isolates 63% (n=268) had dual 
+carbapenemases of blaOXA-23 like with blaNDM like. The combination of blaOXA-23 
+with blaPER in 8% (n=33) and blaOXA-23 with blaTEM in 18% (n=76) was noted.  The 
+antimicrobial resistance gene profile was found to be consistent across all the centers 
+with blaOXA-23 like being the predominant carbapenemase and sporadic presence of 
+blaOXA-58 like were observed. There was a significant increase in the proportion ofdual 
+carbapenemase co- producers (blaOXA-23 like with blaNDM like) from 56% in 2022 to 
+63% in 2023. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+...
+
+==================================================
+FILE: 1763981012_icmramrsnannualreport2024.pdf
+==================================================
+
+--- PAGE 2 ---
+ AMR Surveillance Network, Indian Council of Medical Research, 2024 
+ 
+General disclaimer:  The Indian Council of Medical Research (ICMR) has taken all 
+reasonable precautions to ensure the accuracy and reliability of the information 
+presented in this report. The interpretations provided herein are based on data received 
+from participating instit utions under the ICMR Antimicrobial Resistance Surveillance 
+Network and are intended for informational and scientific purposes only. 
+ 
+Annual Report, 2024  
+ICMR - Antimicrobial Resistance Research & Surveillance Network (AMRSN) 
+8th edition 
+ 
+© 2025, Indian Council of Medical Research, New Delhi.  All rights reserved.  
+ 
+ 
+ 
+Guidance: 
+Dr Kamini Walia 
+Scientist G & Head, Division of Descriptive Research, ICMR  
+ 
+Compiled & Edited by: 
+Dr Bhawna Yadav, Consultant, ICMR 
+Dr Sonam Vijay, Consultant, ICMR 
+Dr Sanjay K Singh, Consultant, ICMR 
+Dr Nitin Bansal, Consultant, ICMR & ID Physician, RGCIRC 
+ 
+Published by: 
+Division of Descriptive Research, Indian Council of Medical Research,  
+New Delhi - 110029 
+ 
+...
+
+--- PAGE 4 ---
+2 AMR Surveillance Network, Indian Council of Medical Research, 2024 
+ 
+List of acronyms 
+AFLP 
+AFST 
+AMA 
+AMR 
+AMRSN       
+Amplified fragment length polymorphism 
+Antifungal susceptibility testing 
+Antimicrobial agent 
+Antimicrobial resistance 
+Antimicrobial Resistance Research & Surveillance Network 
+AMS 
+AST 
+Antimicrobial susceptibility 
+Antimicrobial susceptibility testing 
+BAL Bronchoalveolar lavage 
+BSI Bloodstream infections 
+CAUTI Catheter-associated urinary tract infections 
+CLABSI Central line-associated bloodstream infections 
+CLSI Clinical & Laboratory Standards Institute 
+CoNS Coagulase-negative Staphylococci 
+CRAB Carbapenem-resistant Acinetobacter baumannii 
+CRE    Carbapenem-resistant Enterobacterales 
+CS Carbapenem-susceptible 
+CSF    Cerebrospinal fluid 
+DEC     Diarrheagenic Escherichia coli 
+DI      Deep infections 
+ESBLs       
+GNB 
+GPC 
+Extended-spectrum beta-lactamases 
+Gram-negative bacteria 
+Gram-positive cocci 
+HAI Hospital-acquired infections 
+hVISA  Heteroresistant vancomycin-intermediate Staphylococcus aureus 
+ICMR Indian Council of Medical Research 
+ICU    Intensive care unit 
+IPC Infection prevention and control 
+LRT Lower respiratory tract 
+MβL   Metallo-beta-lactamase 
+MIC    Minimum inhibitory concentration 
+MRSA     Methicillin-resistant Staphylococcus aureus 
+MSSA    Methicillin-sensitive Staphylococcus aureus 
+NFGNB Non-fermenting Gram-negative bacteria 
+OPD Outpatient department 
+R Resistant 
+RC    Regional centres 
+S% Susceptibility% (Sensitive/Tested) 
+SDD Susceptible-dose dependent 
+SI Superficial infections 
+SS Sterile sites 
+ST Sequence types 
+TMP-SMX Trimethoprim-Sulfamethoxazole 
+UTI Urinary tract infections 
+VAP  
+VRE 
+Ventilator-associated Pneumonia  
+Vancomycin-resistant Enterococci 
+WGS 
+XDR 
+Whole genome sequencing 
+Extensively drug-resistant 
+...
+
+--- PAGE 5 ---
+3 AMR Surveillance Network, Indian Council of Medical Research, 2024 
+ 
+Executive summary 
+ICMR- Antimicrobial Resistance Surveillance Network  
+The Indian Council of Medical Research (ICMR) has been supporting the Antimicrobial 
+Resistance Research & Surveillance Network (AMRSN) since 2013. This is the eighth 
+detailed report from the ICMR AMR surveillance network. The network systematically 
+collects, analyses, and reports data on antimicrobial resistance (AMR) among six key 
+pathogenic groups across India. The network labs undertake susceptibility testing as per 
+the ICMR Standard Operating Practices for Bacteriology and Mycology. This report 
+provides valuable insights into national trends and resistance patterns, as we ll as the 
+underlying mechanisms of resistance identified through genomic and whole -genome 
+sequencing (WGS) analyses . Since the network collects data from tertiary care hospitals, 
+the data presented in this report is not reflective of the community levels o f AMR in the 
+country and should not be extrapolated to community settings. 
+ 
+Highlights of surveillance data 2024: 
+ This report presents data from January 1 st, 202 4 to December 31 st, 202 4. The total 
+number of culture-positive isolates studied during the year 2024 was 99,027. 
+ Gram-negative bacteria (GNB) remained the most commonly isolated pathogens from 
+most clinically relevant samples, like blood, urine, CSF, and respiratory tract samples, 
+except for pus/exudate samples. 
+ Escherichia coli was the most commonly isolated pathogen, followed by Klebsiella 
+pneumoniae, Pseudomonas aeruginosa, Acinetobacter baumannii, and Staphylococcus 
+aureus. 
+ Within healthcare -associated bloodstream infections (BSI), Gram -negative bac teria 
+accounted for 72.1% of all BSI cases, 10.2% were due to fungal pathogens , and 17.7% 
+were from Gram-positive pathogens.  
+ Acinetobacter baumannii , Klebsiella pneumoniae, and Pseudomonas aeruginosa  
+constituted nearly 80% of causative pathogens f
+...
+
+--- PAGE 6 ---
+4 AMR Surveillance Network, Indian Council of Medical Research, 2024 
+ 
+Enterobacterales 
+Highlights of AMR trends 
+ Escherichia coli and Klebsiella pneumoniae  were the most commonly isolated 
+pathogens. 
+ E. coli isolates showed an increase in susceptibility to ceftazidime, from 19.2% in 
+2023 to 27.5% in 2024. Susceptibility to amikacin, which had declined from 79.2% in 
+2017 to 68.2% in 2023, showed an increase to 7 2.5% in 2024. In contrast, a 
+significant decline in susceptibility was observed for carbapenems — from 81.4% in 
+2017 to 62.7% in 2023 and  a further decrease to  57.6% in 2024 for imipenem , and 
+from 73.2% in 2017 to 66% in 2023 and to 62.9% in 2024 for meropenem. 
+ K. pneumoniae showed reduced susceptibility, notably with piperacillin -tazobactam 
+(falling from 42.6% in 2017 to 26 % in 2024 ) and  carbapenems (imipenem from 
+58.5% in 2017 to 31.2% in 2024, and meropenem from 48 .1% in 2017 to 35.1% in 
+2024). 
+ K. pneumoniae also showed an increase in susceptibility to various antibiotics since 
+2023; cefotaxime, from 17.3% in 2023 to 20.3% in 2024; ceftazidime, from 18.1% in 
+2023 to 23.7% in 2024; amikacin from 34.5% in 2023 to 39.9% in 2024; ciprofloxacin 
+from 17.1% in 2023 to 20.4% in 2024, and levofloxacin from 17.4% in 2023 to 24.8% 
+in 2024.  
+ Unlike the previous year, the TEM gene was the predominant gene present in 29.58% 
+of the E. coli  isolates, followed by IMP in 2 7.97%, VIM in 19 .29%, and NDM -1 in 
+14.47% of the isolates. The genes  encoding for AmpC β -lactamases were the least 
+prevalent. 
+ In K. pneumoniae  isolates, the TEM gene was the predominant gene  present in 
+33.66% of the isolates, followed by OXA -48 in 25.57% , and SHV in 22.98% of the 
+isolates. The genes encoding for AmpC β-lactamases were the least prevalent. 
+ 
+Clinical relevance 
+ Among Enterobacterales, E. coli is the predominant pathogen isolated fr om the urine 
+samples. Fairly good susceptibility was observed for n itrofurantoin and fosfomycin , 
+a
+...
+
+--- PAGE 7 ---
+5 AMR Surveillance Network, Indian Council of Medical Research, 2024 
+ 
+importance as a decent percentage  of these isolates are only OXA -48 producers, 
+which can be treated with newer BL-BLI (ceftazidime-avibactam) alone.  
+ MβLs alone or in combin ation with OXA -48-like carbapenemase require either 
+aztreonam-avibactam (after demonstrating in vitro susceptibility) or polymyxin -
+based combination therapy. 
+ 
+Non-fermenting Gram-negative Bacteria 
+Highlights of AMR trends 
+ It is important to not ice that there was a gradual increase in car bapenem-resistant P. 
+aeruginosa from 26% in 2017 to 43% in 2024 (for imipenem ) and from 31.3% in 
+2017 to 38 % in 2024 (for meropenem).  Fluoroquinolones such as ciprofloxacin 
+showed a susceptibility rate of 57.8% in 2 017, which declined to 47.4% in 2022 and 
+then increased to 57% in 2024, indicating an overall similar susceptibility level over 
+the past seven years. 
+ The molecular profile of carbapenem resistance in P. aeruginosa was predominantly 
+driven by MβL genes, particularly NDM and VIM.  
+ In A. baumannii, there is no significant change in the susceptibility trends to the tested 
+antibiotics compared to last year. Resistance to meropenem in A. baumannii was 
+recorded as 91.0% in the year 2024, limiting the availability of treatment options.  
+ Similar to previous years, blaOXA -23 was the only predominant carbapenemase in A. 
+baumannii across all the centres , with a rapidly expanding integration of blaNDM, 
+often in co-carriage, which significantly amplifies their resistance potential. 
+ 
+Clinical relevance 
+ In P. aeruginosa, for M βL-producing strains, a combination of aztreonam with 
+ceftazidime/avibactam or aztreonam -avibactam (if synergy has been demonstrated 
+or the isolate is susceptible to aztreonam -avibactam) provides an effective strategy, 
+particularly for co-producers.  
+ Cefiderocol may be considered if in vitro susceptibility is confirmed.  Colistin or 
+polymyxin B, preferably in combinati
+...
+
+--- PAGE 9 ---
+7 AMR Surveillance Network, Indian Council of Medical Research, 2024 
+ 
+susceptibility results. In cases where linezolid resistance is detected, daptomycin can 
+be considered as an alternative treatment option. 
+ 
+Enteric fever pathogens 
+Highlights of AMR trends 
+ Salmonella Typhi isolates showed very good susceptibility to ceftriaxone ( 98%), 
+cefixime (97 .9%), trimethoprim -sulfamethoxazole (97.7 %) and azithromycin 
+(99.5%), and very low suscep tibility to fluoroquinolones (> 95% resistance) . These 
+findings emphasize the limited effectiveness of fluoroquinolones in treating infections 
+caused by this pathogen. 
+ 
+Clinical relevance 
+ Trimethoprim-sulfamethoxazole (TMP-SMX) and azithromycin remain very good oral 
+options for the treatment of patients with enteric fever , whereas IV ceftriaxone may 
+be used for patients admitted with Enteric fever.  
+ Use of carbapenems for treating routine enteric fever cases is not recommended.  
+ 
+Diarrheal pathogens 
+Highlights of AMR trends 
+ Only 1% of the total isolates were from stool sample s, indicating poor representation 
+of the true picture of bacterial diarrhea. Other cause s of diarrhea , like viruses, 
+Entamoeba and parasites, were not studied for this report.  
+ The predominant species from these samples w as Salmonella spp. faecal (20.2 6%), 
+followed by  Aeromonas spp.  (18.05%), diarrheagenic Escherichia coli (17.31%), 
+Shigella sonnei (8.93%), and Vibrio cholerae (8.38%).  
+ 
+Clinical relevance 
+ Among faecal isolates, AST results demonstrate high resistance to fluoroquinolones 
+(like norfloxacin and ofloxacin) and cephalosporins (like cefixime) , indicating that 
+empirical use of these drugs should be avoided to treat diarrhea in India.  
+ Vibrio cholerae and Shigella spp. isolates demonstrated goo d susceptibility to 
+tetracycline (or doxycycline) and azithromycin, respectively. 
+ 
+  
+...
+
+--- PAGE 104 ---
+102 AMR Surveillance Network, Indian Council of Medical Research, 2024 
+ 
+ 
+Figure 3.1: Yearly susceptibility trend of Pseudomonas aeruginosa isolated from all 
+samples 
+ 
+Acinetobacter baumannii 
+In 2024, a total of 10,351 A. baumannii isolates were collected from multiple centres 
+across India, including outpatient ( N=1,341), ward ( N=4,901), and ICU ( N=4,109) 
+settings. Location-wise analysis (Table 3.4) revealed that colistin retained the highest 
+activity, with 97.4% overall susceptibility, followed by minocycline (70.2%). Other 
+antibiotics, such as piperacillin -tazobactam (11.7%), cefepime (8.9%), ceft azidime 
+(10.4%), carbapenems like meropenem (9%) and imipenem (8.4%), and amikacin 
+(15.8%), demonstrated markedly lower susceptibility. OPD isolates showed relatively 
+higher susceptibility compared to ward and ICU isolates, while ICU isolates consistently 
+displayed the lowest susceptibility across most agents. Sample -wise analysis (Table 
+3.5) indicated that colistin remained highly effective (>95% intermediate susceptibility) 
+across blood, respiratory, superficial, deep infection, CSF, and urine specimens. 
+Minocycline retained good activity across sample types, while most β -lactams, 
+carbapenems, and fluoroquinolones demonstrated limited efficacy, especially in LRT 
+and deep infection samples. Temporal analysis over the past eight years (Table 3.6, 
+Figure 3.2) demonstrated persistently low susceptibility to most antibiotics, except for 
+colistin and minocycline, which maintained high effectiveness. This underscores the 
+ongoing challenge of multidrug resistance posed by A. baumannii in Indian healthcare 
+settings. 
+  
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Year-2017 Year-2018 Year-2019 Year-2020 Year-2021 Year-2022 Year-2023 Year-2024
+% Susceptiblity
+Amikacin Ceftazidime Colistin Imipenem Meropenem
+...
+
+==================================================
+FILE: AMRSN_Annual_Report_2018_0.pdf
+==================================================
+
+--- PAGE 3 ---
+ 
+3 AMR surveillance network Indian Council of Medical Research 2018 
+ 
+ 
+Chapter 1 Summary of surveillance data  
+ January 2018 to December 2018 
+Total number of isolates studied during the year 2018 was 60,497. The 
+distribution of major groups of organisms in different specimens is shown in table 1.1 
+and figure 1.1. Members of Enterobacteriaceae were the commonest organisms in urine 
+(82%), sterile body fluids (SS) (53%), deep infections (DI) (46%), superficial infections 
+(SSI) (41%) and blood (38%). Non-fermenting gram-negative bacilli (NFGNB) were the 
+predominant isolates in lower respiratory tract (LRT) (54%) and cerebrospinal fluid 
+(CSF) (41%). Staphylococci constituted 32% of superficial infection isolates followed by 
+blood (27%), CSF (21%) and deep infections (20%). Enterococci constituted 12% of 
+isolates from sterile body fluids followed by deep infections (9%), urine (9%) and blood 
+(6%). Yeast species were significant isolates in blood (6%) only. 
+The relative frequencies of various species isolated from patients presenting in OPDs 
+and admitted to wards and ICUs are presented in table 1.2 and figures 1.2a & 1.2b. 
+Overall, Escherichia coli was the commonest isolate (26%) followed by Klebsiella 
+pneumoniae (15%), Staphylococcus aureus (12%) and Pseudomonas aeruginosa (12%). 
+Gram negative organisms constituted 74 per cent of the isolates (44232 out of 59654 
+isolates). E. coli, S. aureus and P. mirabilis was more common in OPD isolates followed 
+by ward and ICU. K. pneumoniae, Acinetobacter species and E. faecium were more 
+common in ICU and least common in OPD isolates. P. aeruginosa, E. faecalis and 
+coagulase negative staphylococci (CoNS) showed no such variation in distribution 
+(Table 1.2, Figure 1.2a). 
+Enterobacteriaceae (other than salmonellae) constituted the major group (49%) 
+of isolates overall (Table 1.1). Specimen wise distribution of major species of family 
+Enterobacteriaceae is shown in table 1.3 and figures 1.3a & 1.3b. Overall, E
+...
+
+--- PAGE 4 ---
+ 
+4 AMR surveillance network Indian Council of Medical Research 2018 
+ 
+ 
+1.5a and Figure 1.5). There was no significant difference in distribution of Salmonella 
+species in different geographical areas (Table 1.5b).  
+Nonfermenting Gram negative bacteria (NFGNB) constituted 23% of all isolates 
+(table 1.1). Amongst the NFGNB, Pseudomonas aeruginosa was the commonest isolate 
+(12%) followed by Acinetobacter baumanii (6%). Stenotrophomonas maltophilia and 
+Burkholderia cepacian accounted for 0.5% and 0.3% of all isolates respectively. P. 
+aeruginosa was grossly predominant in LRT (26%) followed by miscellaneous 
+specimens (17%), superficial and deep tissue infections (13%). A.baumanii were 
+predominant isolates from LRT (15%), deep infection (11%), CSF (8%), superficial 
+infection (6%) and blood (5%) (Tables 1.6a, Figure 1.6). Pseudomonas aeruginosa was 
+the predominant species of NFGNB amongst clinical isolates overall and in all 
+geographical areas (Table 1.6b, Figure 1.7). 
+Out of the staphylococcus species, S. aureus was the predominant species in 
+superficial infections (28%), deep infections (16%), LRT (5.9%), miscellaneous 
+infections (16%), sterile body fluids (7%), blood (9%) and urine (0.7%) (Table 1.8a). 
+CoNS were the predominant isolates in blood (18%) and CSF (14%) reflecting the high 
+incidence of shunt infections and intravascular device associated infections 
+respectively. In CSF and sterile body fluids, S. epidermidis was more frequent reflecting 
+the ability of the species to form biofilms and the high incidence of shunt-associated and 
+dialysis-associated infections. S. saprophyticus was most common in urine (table 1.8a). 
+Among the coagulase negative staphylococcus species (CoNS), S. haemolyticus (25%) 
+and S. epidermidis (24%) were the commonest species followed by S. hominis (Table 
+1.8b).  
+Enterococci constituted 6% of all isolates overall (Table 1.1). Among the 
+Enterococcus species, E. faecalis and E. faecium accounted for 91% of the isolat
+...
+
+--- PAGE 5 ---
+ 
+5 AMR surveillance network Indian Council of Medical Research 2018 
+ 
+ 
+Table 1.1 Specimen wise distribution of major groups of organisms  
+ Blood 
+n=11783 
+(%) 
+Urine 
+n=13658  
+(%) 
+LRT 
+n =10058 
+(%) 
+SSI 
+n=15208 
+(%) 
+DI 
+n=351
+1 (%) 
+SS 
+n =1409 
+(%) 
+CSF 
+n=390 
+(%) 
+Faeces 
+n=536 
+(%) 
+Others 
+n=3944 
+(%) 
+Overall 
+n=60497 
+(%) 
+Enterobacteriaceae 4430 
+(37.6) 
+11180 
+(81.9) 
+3522  
+(35) 
+6243 
+(41.1) 
+1607 
+(45.8) 
+746 
+(52.9) 
+112 
+(28.7) 
+156 
+(29.1) 
+1670 
+(42.3) 
+29666 
+(49) 
+Enteric Salmonella 620  
+(5.3) 
+4  
+(0) 
+0  
+(0) 
+13  
+(0.1) 
+2  
+(0.1) 
+3 
+(0.2) 
+0  
+(0) 
+120 
+(22.4) 
+2  
+(0.1) 
+764 
+(1.3) 
+NFGNB 1862 
+(15.8) 
+919 
+(6.7) 
+5392 
+(53.6) 
+3325 
+(21.9) 
+883 
+(25.1) 
+296  
+(21) 
+158 
+(40.5) 
+5 
+(0.9) 
+962 
+(24.4) 
+13802 
+(22.8) 
+Staphylococci 3153 
+(26.8) 
+144  
+(1.1) 
+617  
+(6.1) 
+4855 
+(31.9) 
+701 
+(20) 
+144 
+(10.2) 
+80 
+(20.5) 
+2 
+(0.4) 
+803 
+(20.4) 
+10499 
+(17.4) 
+Enterococci 677  
+(5.7) 
+1259  
+(9.2) 
+21  
+(0.2) 
+727 
+(4.8) 
+304 
+(8.7) 
+162 
+(11.5) 
+28 
+(7.2) 
+10 
+(1.9) 
+254 
+(6.4) 
+3442 
+(5.7) 
+Fungi 713 
+(6.1) 
+146  
+(1.1) 
+24  
+(0.2) 
+28  
+(0.2) 
+9  
+(0.3) 
+20  
+(1.4) 
+9  
+(2.3) 
+0 
+(0) 
+242 
+(6.1) 
+1191 
+(2) 
+ 
+Note: 
+1. Blood includes: Blood-central catheter, Blood-peripheral and Peripheral catheter-blood. 
+2. LRT (Lower Respiratory Tract) includes: BAL, Sputum, Lung aspirate, Endotracheal aspirate (ETA) and 
+Lobectomy tissue (Lung tissue). 
+3. SSI: Superficial Infection includes: SST (Skin & Soft Tissue), Pus/exudate, Wound swab, Superficial Biopsy 
+and Superficial Tissue. 
+4. Deep Infection includes: Abscess aspirate, Pus aspirate, Deep Biopsy and Deep Tissue. 
+5. SS (Sterile sites) includes: Fluid from sterile spaces, Abdominal fluid, Intracostal tube fluid, Pancreatic drain 
+fluid, Pericardial fluid, Peritoneal fluid and Pleural fluid. 
+Table 1.2 Distribution of species of organisms in isolates from OPD, ward and ICU  
+ OPD 
+n=19210 
+Ward 
+n=32046 
+ICU 
+n=9241 
+Overall 
+n=60497 
+E. coli 5814 
+(30.3) 
+8436 
+(25.8) 
+1332 
+(14.4) 
+155
+...
+
+--- PAGE 8 ---
+ 
+8 AMR surveillance network Indian Council of Medical Research 2018 
+ 
+ 
+Table 1.3 Specimen wise distribution of major species of family Enterobacteriaceae 
+ Blood 
+n=11783 
+(%) 
+Urine 
+n=13658 
+(%) 
+LRT 
+n=10058 
+(%) 
+SI 
+n=15208 
+(%) 
+DI 
+n=3511 
+(%) 
+CSF 
+n=390 
+(%) 
+SS 
+n=1409 
+(%) 
+Others 
+n=3944 
+(%) 
+Overall 
+n=60497  
+(%) 
+Escherichia 
+coli 
+2134 
+(18) 
+7853 
+(58) 
+755 
+(8) 
+2899 
+(19) 
+572 
+(16) 
+40 
+(10) 
+432 
+(31) 
+784 
+(20) 
+15582 
+(26) 
+Klebsiella 
+pneumoniae 
+1785 
+(15) 
+2065 
+(15) 
+2054 
+(21) 
+1653  
+(11) 
+456  
+(13) 
+42 
+(11) 
+185 
+(13) 
+514  
+(13) 
+8783 
+(15) 
+Enterobacter 
+cloacae 
+203 
+(1.7) 
+142 
+(1) 
+96 
+(1) 
+277 
+(1.8) 
+103 
+(2.9) 
+6 
+(1.5) 
+21 
+(1.5) 
+67 
+(1.7) 
+920 
+(1.5) 
+Citrobacter 
+koseri 
+16 
+(0.1) 
+179 
+(1.3) 
+29 
+(0.3) 
+156 
+(1) 
+39 
+(1) 
+2 
+(0.5) 
+2 
+(0.1) 
+20 
+(0.5) 
+444 
+(0.7) 
+Serratia 
+marcescens 
+61 
+(0.5) 
+32 
+(0.2) 
+83 
+(0.8) 
+39 
+(0.3) 
+11  
+(0.3) 
+3 
+(0.8) 
+9 
+(0.6) 
+10 
+(0.3) 
+248 
+(0.4) 
+Proteus  
+mirabilis 
+44 
+(0.4) 
+238 
+(1.7) 
+68 
+(0.7) 
+430 
+(2.8) 
+174 
+(5) 
+0 
+(0) 
+14 
+(1) 
+93 
+(2.4) 
+1063 
+(1.8) 
+Providencia 
+rettgeri 
+2 
+(0) 
+33 
+(0.2) 
+20 
+(0.2) 
+44 
+(0.3) 
+42 
+(1.2) 
+0 
+(0) 
+4 
+(0.3) 
+2 
+(0.1) 
+148 
+(0.2) 
+Morganella 
+morganii 
+29 
+(0.2) 
+63 
+(0.5) 
+17 
+(0.2) 
+135 
+(0.9) 
+59  
+(1.7) 
+1 
+(0.3) 
+3 
+(0.2) 
+16 
+(0.4) 
+323 
+(0.5) 
+Klebsiella spp. 31 
+(0.3) 
+236 
+(1.7) 
+268 
+(2.7) 
+197 
+(1.3) 
+6 
+(0.2) 
+7 
+(1.8) 
+29 
+(2.1) 
+54 
+(1.4) 
+828 
+(1.4) 
+ 
+Table 1.4 Geographical area wise distribution of major species of family 
+Enterobacteriaceae 
+ 
+ 
+North 
+n=21403 
+(%) 
+Central 
+n=826 
+(%) 
+East 
+n=2649 
+(%) 
+West 
+n=16539 
+(%) 
+South 
+n=27637 
+(%) 
+National 
+n=69054 
+(%) 
+Escherichia coli 4580 
+(21.4) 
+230 
+(27.8) 
+622 
+(23.5) 
+5193 
+(31.4) 
+7351 
+(26.6) 
+17954 
+(26) 
+Klebsiella pneumoniae 3274  
+(15.3) 
+117 
+(14.2) 
+543  
+(20.5) 
+2067  
+(12.5) 
+4228  
+(15.3) 
+10219  
+(14.8) 
+Enterobacter cloacae 278  
+(1.3) 
+21 
+(2.5) 
+11 
+(0.4) 
+165  
+(1) 
+553  
+(2) 
+1036 
+(1.5) 
+Proteus mirabilis 342 
+(1.6) 
+9 
+(1.1) 
+40 
+(1.5) 
+314  
+(
+...
+
+--- PAGE 10 ---
+ 
+10 AMR surveillance network Indian Council of Medical Research 2018 
+ 
+ 
+ 
+Figure 1.4 Geographical area wise distribution of major species of family 
+Enterobacteriaceae 
+ 
+Table 1.5a Species wise distribution of Salmonella species 
+   
+ 
+Blood 
+n=11783 
+(%) 
+Faeces 
+n=536 
+(%) 
+Others 
+n=48178 
+(%) 
+Overall 
+n=60497 
+(%) 
+Total Salmonella 620 
+(5.3) 
+120 
+(22.4) 
+24 
+(0.05) 
+764 
+(1.3) 
+Salmonella  Para A 101  
+(0.9) 
+0  
+(0) 
+5  
+(0) 
+106  
+(0.2) 
+Salmonella Typhi 489 
+(4.2) 
+98 
+(18.3) 
+11 
+(0) 
+598 
+(1) 
+Salmonella spp 30  
+(0.3) 
+22  
+(4.1) 
+8  
+(0) 
+60  
+(0.1) 
+ 
+ 
+  
+ 
+  
+Figure 1.5. Species wise distribution of Salmonella species 
+...
+
+--- PAGE 50 ---
+ 
+50 AMR surveillance network Indian Council of Medical Research 2018 
+ 
+ 
+Table 4.8: Sample-wise susceptible percentage of Burkholderia cepacia. 
+ 
+ 
+Table 4.9: Yearly susceptible trend of Burkholderia cepacia isolated from all samples. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+...
+
+==================================================
+FILE: AMRSN_annual_report_2020_1.pdf
+==================================================
+
+--- PAGE 1 ---
+Annual Report 
+ 
+Antimicrobial Resistance Research and  
+Surveillance Network 
+ 
+ 
+ 
+January 2020 to December 2020 
+ 
+ 
+ 
+ 
+ 
+Division of Epidemiology and Communicable Diseases 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+...
+
+--- PAGE 3 ---
+3 AMR Research and Surveillance Network, Indian Council of Medical Research, 2020 
+  
+ 
+ 
+List of acronyms 
+ 
+AMRSN        Antimicrobial Resistance Research & Surveillance Network 
+AMS Antimicrobial Susceptibility 
+BAL Bronchoalveolar lavage 
+CARD          Comprehensive Antibiotic Resistance Database 
+CDS    Coding sequence regions 
+CGPS Center for Genomic Pathogen Surveillance 
+CLSI Clinical & Laboratory Standards Institute 
+CoNS Coagulase-negative Staphylococci 
+CRAB Carbapenem-resistantAcinetobacter baumannii 
+CRE    Carbapenem resistant Enterobacterales 
+CSF    Cerebrospinal fluid 
+DI      Deep infections 
+DEC     Diarrheagenic E coli 
+ESBLs       Extended spectrum beta lactamases 
+HCWs   Health care workers 
+ICU    Intensive care unit 
+OPD Out-patient department 
+LRT Lower Respiratory tract 
+MBL   Metallo-beta-lactamase 
+MFS Major Facilitator superfamily 
+MIC    Minimum inhibitory concertation 
+MLST   Multi-locus sequence typing 
+MRSA     Methicillin-resistant Staphylococcus aureus 
+MSSA    Methicillin sensitive Staphylococcus aureus 
+NFGNB Non fermenting Gram-negative bacilli 
+OXA         Oxacillinases 
+PBP2a       Penicillin binding protein 2a 
+PMQR    Plasmid mediated quinolone resistance 
+QUAST Quality assessment tool 
+RC      Regional centers 
+RGI     Resistance gene identifier 
+SCC mec         Staphylococcal cassette chromosome mec 
+SI Superficial infections 
+SD   Standard deviation 
+SS Sterile body fluids 
+ST Sequence types 
+TMP-SMX Trimethoprim sulfamethoxazole 
+VRE Vancomycin-resistant enterococci 
+WGS Whole-genome sequencing 
+ 
+ 
+...
+
+--- PAGE 4 ---
+4 AMR Research and Surveillance Network, Indian Council of Medical Research, 2020 
+  
+ 
+Executive summary 
+ 
+The Indian Council of Medical Research (ICMR) has been supporting research on 
+antimicrobial resistance through the Antimicrobial Resistance Research & Surveilla nce 
+Network (AMRSN) since 2013. The data collected from the network has enabled 
+compilation of drug resistance data on six pathogenic groups on antimicrobial resistance 
+from the country. (i)Enterobacterales causing sepsis  (ii) Gram-negative non -
+fermenters (iii) Typhoidal Salmonella (iv) Diarrhoeagenic bacterial organisms, (v) Gram -
+positives: staphylococci and  enterococci, and (vi) Fungal pathogens from thirty tertiary 
+care hospitals/laboratories across the country. Data collected from the network is used to  
+track resistance trends and to better understand mechanisms of resistance in the key 
+priority pathogens using genomics and whole genome sequencing (WGS). 
+ 
+Highlights of data: 
+ 
+ This report presents data from January 1 st, 2020 to December 31 st, 2020. Total 
+number of culture positive isolates studied during the year 2020 was 65,561. 
+ Escherichia coli was most commonly isolated followed by the Klebsiella pneumoniae, 
+Pseudomonas aeruginosa, Acinetobacter baumannii and Staphylococcus aureus. 
+ Imipenem susceptibility of E. coli has dropped steadily from 86% in 2016 to 63% in 
+2019 and showed slight recovery to 72% in 2020 and that of Klebsiella pneumoniae 
+dropped steadily from 65% in 2016 to 46% in 2019 and remained at 45% in 2020. 
+ Reduced susceptibility of 10 -20% wa s observed against cephalosporins, 
+carbapenems, monobactams and β-lactam-β-lactamase inhibitors in A. baumannii,.  
+ In Pseudomonas aeruginosa , the least susceptibility of 40% was observed for 
+fluoroquinolones; and 60-70% to cephalosporins, carbapenems, an d 
+aminoglycosides.  
+ Staphylococcus aureus has shown increasing trends of resistance to most antibiotics 
+over the years, no such prominent trend cou
+...
+
+--- PAGE 5 ---
+5 AMR Research and Surveillance Network, Indian Council of Medical Research, 2020 
+  
+ 
+ C. auris , multidrug resistant yeast known to cause hospital outbreaks has been 
+consistently isolated from regional centers across India. Majority of the C. auris  
+isolates were resistant to fluconazole and incide nces of echinocandin resistance is 
+on the rise. 
+ 
+This is the fourth detailed report  on AMR trends and patterns from the country, published 
+by ICMR. Since the network collects data from tertiary care hospitals, the data presented in 
+this report is not refle ctive of the community levels of AMR  in the country and should not 
+be extrapolated to community settings. In this report we also present trends of resistance 
+of key pathogens to the critically important antimicrobials which should guide the 
+prevention and treatment interventions for AMR in the country. Since India experienced 
+COVID-19 pandemic in the year 2020 , the report includes a chapter on AMR  profile in 
+isolates from COVID-19 patients.  
+Systematic collection, evaluation and analysis of resistance data of specific pathogens for 
+last five years have  highlighted that certain pathogens have become highly drug resistant 
+and have become clinians  dilemma. Aggressive  action for prevention, containment  and 
+treatment are needed at the national level. Based on the  laboratory evidence andthe inputs 
+of clinicians, ID physicians and clinical microbiologists, these drug  resistant difficult to 
+pathogens can be classified into three groups (Table I):  
+ Group I pathogens  include pathogens that have become resistant to last  -resort 
+antibiotics including carbapenems, the best available antibiotics for treating multi -
+drug resistant bacteria and pose a high risk to patients. They can cause severe and 
+often deadly infections such as ventilator -associated or hospital -acquired 
+pneumonia, bloodstream infections and urinary tract infections. Candida auris , 
+pathogenic yeast has also been included u
+...
+
+--- PAGE 6 ---
+6 AMR Research and Surveillance Network, Indian Council of Medical Research, 2020 
+  
+ 
+Table I: Difficult to treat drug resistant pathogens in Indian hospitals 
+ 
+The infections caused by the pathogens listed under Group I and II  have been documented 
+to be associated with high rates of mortality and morbidity , both in India and globally . 
+Additionally, they increase hospital lengths of stay and result in major increase in 
+healthcare expenditure and healthcare resource utilization . Detailed summaries on 
+diagnosis, treatment and containment of each of the high risk pathogens have  been 
+included in this document. This list intends to flag the imminent threat of rising resistance 
+to higher generation antimicrobials and  highlight the urgent need to implement 
+appropriate interventions to prevent development of resistance, contain the spread of drug 
+resistant pathogens and improve treatment of drug resistant infections.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   
+Group I 
+ 
+ 
+Group II 
+ 
+Group III 
+Pathogens  Carbapenem 
+Resistant 
+Enterobacterales 
+ Carbapenem 
+Resistant A. 
+baumannii 
+ Drug resistant 
+Salmonella Typhi 
+ Candida auris 
+ 
+ ESBL producing 
+Enterobacterales 
+ Multidrug 
+resistant P. 
+aeruginosa 
+ Vancomycin-
+resistant 
+enterococci, 
+ Azole Resistant 
+Candida spp 
+ 
+ Methicillin Resistant 
+Staphylococcus aureus 
+ Azole resistant Aspergillus 
+fumigatus 
+ Amphotericin B resistant 
+Aspergillus flavus 
+ Drug-resistant 
+Stenotrophomonas 
+maltophilia 
+ Colistin Resistant 
+Enterobacterales 
+ Colistin resistant 
+Acinetobacter spp. 
+Action 
+required for 
+containment 
+Aggressive action Sustained action  Continuous monitoring and 
+prevention efforts 
+...
+
+--- PAGE 7 ---
+7 AMR Research and Surveillance Network, Indian Council of Medical Research, 2020 
+  
+ 
+Chapter 1 Summary of surveillance data   
+ January 2020 to December 2020 
+ 
+Total number of culture positive isolates studied during the year 2020 was 65,561. Of 
+these, 13,109 from blood, 16,009 from urine, 10,557 Lower Respiratory tract (LRT), 14,843 
+Superficial infections, 4,055 Deep infections, 541 CSF, 1,823 Sterile spaces (SS), 331 Faeces 
+and 4,293 others. Majority of the isolates were from Enterobacterales except 
+Salmonella and Shigella (51%) followed by Non fermenting Gram -negative bacilli (NFGNB) 
+(25%), staphylococci (12.7%), enterococci (7.3%), Typhoidal Salmonella (0.7%) and fungi 
+(2.5%) (Table 1.1). In the distribution of major group of organisms in different specimens, 
+member of the Enterobacterales group were the commonest isolates in urine (75.7%), 
+sterile body fluids (SS) (60.6%), deep infections (DI) (49.2%), others (48.6%), superficial 
+infections (SI) (44.8%), blood (40.1%), LRT (37.7%) and CSF (30.3%). Non fermenting 
+Gram-negative bacilli (NFGNB) group were the predominant isolates in the lower 
+respiratory tract (56.2%), CSF (43.1%), others (26.2%), superficial infections (SI) (24.9%), 
+deep infection (DI) (22.2%), blood (21%), sterile sites (SS) (17.9%) and urine (8.7%). 
+Staphylococci constituted 23.8% of the superficial infections (SI) followed by blood 
+infection (19.9%), deep infection (DI) (18.3%) and CSF (14.6%). Enterococci group 
+constituted 12.1% of the isolates from urine followed by sterile body fluid (11.6%), CSF 
+(9.8%), deep infections (8.7%), blood (8%) and superficial infections (5.7%). T yphoidal 
+Salmonella group constituted 2.3% of the isolates from blood. Yeast group were significant 
+isolates in the blood infection (7.9%) (Table 1.1 and Figure 1.1). 
+The distribution of top 10 isolates from different specimens is pr esented in Table 1.2 an d 
+Figure 1.2. Escherichia coli was most commonly isolated (25.1%) followed by the Klebsie
+...
+
+--- PAGE 8 ---
+Table 1.1: Specimen wise distributions of major groups of organisms  
+Isolate Culture positive 
+Total  
+n=65561 
+Blood  
+n=13109 
+Urine  
+n=16009 
+LRT  
+n=10557 
+Superficial 
+Infection  
+n=14843 
+Deep 
+Infection  
+n=4055 
+CSF  
+n=541 
+SS  
+n=1823 
+Faeces  
+n=331 
+Others  
+n=4293 
+n % n % n % n % n % n % n % n % n % n % 
+Enterobacterales 
+ except 
+Salmonella and 
+Shigella 
+33360 
+(50.9) 
+100  5255 
+(40.1) 
+15.8  12124 
+(75.7) 
+36.3  3983 
+(37.7) 
+11.9  6646 
+(44.8) 
+19.9  1994 
+(49.2) 
+6  164 
+(30.3) 
+0.5  1105 
+(60.6) 
+3.3  0 
+(0) 
+0  2089 
+(48.6) 
+6.3 
+Typhoidal 
+Salmonella 
+458 
+(0.7) 
+100  304 
+(2.3) 
+66.4  9 
+(0.1) 
+2  2 
+(0) 
+0.4  12 
+(0.1) 
+2.6  6 
+(0.1) 
+1.3  1 
+(0.2) 
+0.2  3 
+(0.2) 
+0.7  0 
+(0) 
+0 121 
+(2.8) 
+26.
+4 
+NFGNB 16362 
+(25) 
+100  2756 
+(21) 
+16.8  1394 
+(8.7) 
+8.5  5930 
+(56.2) 
+36.2  3696 
+(24.9) 
+22.6  902 
+(22.2) 
+5.5  233 
+(43.1) 
+1.4  327 
+(17.9) 
+2  0 
+(0) 
+0  1124 
+(26.2) 
+6.9 
+staphylococci 8299 
+(12.7) 
+100  2611 
+(19.9) 
+31.5  305 
+(1.9) 
+3.7  472 
+(4.5) 
+5.7  3530 
+(23.8) 
+42.5  742 
+(18.3) 
+8.9  79 
+(14.6) 
+1  124 
+(6.8) 
+1.5  0 
+(0) 
+0  436 
+(10.2) 
+5.3 
+enterococci 4798 
+(7.3) 
+100  1048 
+(8) 
+21.8  1930 
+(12.1) 
+40.2  23 
+(0.2) 
+0.5  844 
+(5.7) 
+17.6  351 
+(8.7) 
+7.3  53 
+(9.8) 
+1.1  211 
+(11.6) 
+4.4  0 
+(0) 
+0  338 
+(7.9) 
+7 
+Fungi 1632 
+(2.5) 
+100  1034 
+(7.9) 
+63.4  195 
+(1.2) 
+11.9  116 
+(1.1) 
+7.1  51 
+(0.3) 
+3.1  30 
+(0.7) 
+1.8  10 
+(1.8) 
+0.6  34 
+(1.9) 
+2.1  0 
+(0) 
+0  162 
+(4) 
+9.9  
+Diarrheal 
+pathogens 
+ 
+390 
+(0.6) 
+100  21 
+(0.2) 
+5.4  5 
+(0) 
+1.3  0 
+(0) 
+0  5 
+(0) 
+1.3  5 
+(0.1) 
+1.3  1 
+(0.2) 
+0.3  17 
+(0.9) 
+4.4  331 
+(10
+0) 
+84.9 5 
+(0.1) 
+1.3 
+Note:  
+1. Blood includes: Blood-central catheter, Blood-peripheral and Peripheral catheter-blood.  
+2. LRT (Lower Respiratory Tract) includes: Bronchoalveolar lavage  (BAL), Sputum, Lung aspirate, Endotracheal aspirate (ETA) and Lobectomy 
+tissue (Lung tissue).  
+3. SSI: Superficial Infection includes SST (Skin & Soft Tissue), Pus/exudate, Wound swab, Superficial Biopsy and 
+...
+
+--- PAGE 10 ---
+Table 1.2: Isolation distribution of top 10 isolates from different specimens 
+ 
+Organism Total Blood Urine LRT Superficial 
+Infection 
+Deep 
+Infection 
+SS Faeces 
+Escherichia 
+coli  
+16483/65561 
+(25.1) 
+2228/13109 
+(17) 
+8201/16009 
+(51.2) 
+703/10557 
+(6.7) 
+2971/14838 
+(20) 
+796/4055 
+(19.6) 
+578/1823 
+(31.7) 
+84/572 
+(14.7) 
+Klebsiella 
+pneumoniae  
+11810/65561 
+(18) 
+2283/13109 
+(17.4) 
+2860/16009 
+(17.9) 
+2698/10557 
+(25.6) 
+2153/14838 
+(14.5) 
+629/4055 
+(15.5) 
+314/1823 
+(17.2) 
+18/572 
+(3.1) 
+Pseudomonas 
+aeruginosa 
+7843/65561 
+ (12) 
+788/13109 
+(6) 
+1115/16009 
+(7) 
+2335/10557 
+(22.1) 
+2182/14838 
+(14.7) 
+565/4055 
+(13.9) 
+151/1823 
+(8.3) 
+4/572 
+(0.7) 
+Acinetobacter 
+baumannii 
+6851/65561 
+(10.4) 
+1474/13109 
+(11.2) 
+197/16009 
+(1.2) 
+2916/10557 
+(27.6) 
+1292/14838 
+(8.7) 
+288/4055 
+(7.1) 
+136/1823 
+(7.5) 
+2/572 
+(0.3) 
+Staphylococc
+us aureus 
+628/65561 
+(9.6) 
+1110/13109 
+(8.5) 
+272/16009 
+(1.7) 
+459/10557 
+(4.3) 
+3197/14838 
+(21.5) 
+720/4055 
+(17.8) 
+105/1823 
+(5.8) 
+1/572 
+(0.2) 
+Enterococcus 
+faecalis 
+2101/65561 
+(3.2) 
+318/13109 
+(2.4) 
+912/16009 
+(5.7) 
+6/10557 
+(0.1) 
+456/14838 
+(3.1) 
+203/4055 
+(5) 
+40/1823 
+(2.2) 
+1/572 
+(0.2) 
+Enterococcus 
+faecium 
+1994/65561  
+(3) 
+556/13109 
+(4.2) 
+788/16009 
+(4.9) 
+8/10557 
+(0.1) 
+287/14838 
+(1.9) 
+104/4055 
+(2.6) 
+82/1823 
+(4.5) 
+9/572 
+(1.6) 
+Proteus 
+mirabilis  
+1236/65561 
+(1.9) 
+61/13109 
+(0.5) 
+281/16009 
+(1.8) 
+82/10557 
+(0.8) 
+487/14838 
+(3.3) 
+199/4055 
+(4.9) 
+31/1823 
+(1.7) 
+1/572 
+(0.2) 
+Enterobacter 
+cloacae  
+1057/65561 
+(1.6) 
+232/13109 
+(1.8) 
+175/16009 
+(1.1) 
+90/10557 
+(0.9) 
+333/14838 
+(2.2) 
+115/4055 
+(2.8) 
+25/1823 
+(1.4) 
+3/572 
+(0.5) 
+Enterococcus 
+spp. 
+703/65561 
+(1.1) 
+174/13109 
+(1.3) 
+230/16009 
+(1.4) 
+9/10557 
+(0.1) 
+101/14838 
+(0.7) 
+44/4055 
+(1.1) 
+89/1823 
+(4.9) 
+0/0 
+(-) 
+ 
+...
+
+--- PAGE 95 ---
+95 AMR Research and Surveillance Network, Indian Council of Medical Research, 2020 
+ 
+(3/35) in 2019 and 6% in 2020. Pefloxacin sensitivity decreased from 20.2% (36/178) in 
+2017 to 19.6% (39/199) in 2018, 15.3% (47/307) in 2019 and  12% (13/108).  
+Azithromycin susceptibility was 95.7% (266/278) in 2017, 98.4% (497/506) in 2018, 
+96.3% (547/568) in 2019 and 98% (163/166). Overall there was a sudden increase in 
+resistance in 2018 and 2020 as compare to 2019. 
+ 
+Table 4.1: Susceptibility pattern of Salmonella species from blood 
+ 
+AMA Salmonella  Typhi Salmonella  ParatyphiA 
+Total 
+n=206 
+Total 
+n=52 
+(S %) (S %) 
+Ampicillin 192/197 
+(97.5) 
+42/46 
+(91.3) 
+Ceftriaxone 192/193 
+(99.5) 
+47/47 
+(100) 
+Cefixime 157/158 
+(99.4) 
+32/32 
+(100) 
+Azithromycin 163/166 
+(98.2) 
+*0/0 
+Ciprofloxacin 8/162 
+(4.9) 
+1/31 
+(3.2) 
+Levofloxacin *4/12 *0/9 
+Ofloxacin *0/0 *0/0 
+Pefloxacin 13/109 
+(11.9) 
+*3/14 
+Trimethoprim-
+sulfamethoxazole 
+194/202 
+(96) 
+47/49 
+(95.9) 
+Chloramphenicol 180/185 
+(97.3) 
+48/49 
+(98) 
+*Azithromycin sensitivity cutoff values are not given in CLSI for Salmonella Paratyphi A 
+ 
+ 
+ 
+Figure 4.1 Yearly -isolation trend of Salmonella Typhi from All Samples across different 
+regions of India (except Faeces) 
+ 
+ 
+3.2 
+4.7 3.9 
+2.1 
+4 3.4 
+4.3 4.2 
+0 0.3 0.3 
+4.8 4.8 5.9 6.2 
+0 
+10.9 
+5.4 
+3.6 
+0
+2
+4
+6
+8
+10
+12
+2017 2018 2019 2020
+North South East West Central
+...
+
+==================================================
+FILE: AMRSN_Annual_Report_2022.pdf
+==================================================
+
+--- PAGE 3 ---
+ 
+2 AMR Surveillance Network, Indian Council of Medical Research, 2022 
+ 
+ 
+List of acronyms 
+ 
+AFLP 
+AFST 
+AMRSN       
+Amplified fragment length polymorphism 
+Antifungal susceptibility testing 
+Antimicrobial Resistance Research & Surveillance Network 
+AMS 
+AST 
+Antimicrobial Susceptibility 
+Antimicrobial Susceptibility Testing 
+BAL Bronchoalveolar lavage 
+BSI 
+CAM 
+Blood stream infections 
+COVID-19–associated mucormycosis 
+CARD Comprehensive Antibiotic Resistance Database 
+CAUTI Catheter associated urinary tract infections 
+CDS    Coding sequence regions  
+CGPS Center for Genomic Pathogen Surveillance  
+CLABSI Catheter associated blood stream infections 
+CLSI Clinical & Laboratory Standards Institute 
+CoNS Coagulase-negative Staphylococci  
+CRAB Carbapenem-resistant Acinetobacter baumannii 
+CRE    Carbapenem resistant Enterobacterales 
+CSF    Cerebrospinal fluid 
+DI      Deep infections 
+DEC     Diarrheagenic E coli 
+DTR 
+ESBLs       
+GPC 
+GNB 
+Difficult to treat 
+Extended spectrum beta lactamases 
+Gram-positive cocci 
+Gram-negative bacteria 
+HAI Hospital acquired Infections 
+HCAI Health Care Associated infections 
+HCWs   Health care workers 
+ICU    Intensive care unit 
+IPC 
+IV 
+Infection prevention and Control 
+Intravenous 
+OPD Out-patient department 
+LOS Length of stay 
+LRT Lower Respiratory tract 
+MBL   Metallo-beta-lactamase 
+MFS Major Facilitator superfamily 
+MIC    Minimum inhibitory concertation 
+MLST   Multi-locus sequence typing 
+MRSA     Methicillin-resistant Staphylococcus aureus 
+MSSA    Methicillin sensitive Staphylococcus aureus 
+NFGNB Non fermenting Gram-negative bacilli 
+OXA         Oxacillinases 
+PBP2a       
+PCV 
+Penicillin binding protein 2a 
+Pnuemococcal Conjugate Vaccine 
+PMQR    Plasmid mediated quinolone resistance 
+QUAST Quality assessment tool 
+RC      Regional centers 
+RGI     Resistance gene identifier 
+ROM 
+SCC mec 
+rhino-orbital mucormycosis 
+Staphylococcal cassette chromosome mec 
+SI Superficial infections 
+...
+
+--- PAGE 5 ---
+ 
+4 AMR Surveillance Network, Indian Council of Medical Research, 2022 
+ 
+ 
+Executive summary 
+ 
+ICMR- Antimicrobial Resistance Surveillance network  
+ 
+The Indian Council of Medical Research (ICMR) has been supporting research on 
+antimicrobial resistance through the Antimicrobial Resistance Research & Surveillance 
+Network (AMRSN) since 2013. The data collected from the network has enabled 
+compilation of drug resistance data on six pathogenic groups on antimicrobial resistance 
+from the country. Data collected from the network is used to track resistance trends and to 
+better understand mechanisms of resistance in the key priority pathogens using genomics 
+and whole genome sequencing (WGS). This is the sixth detailed report on AMR trends and 
+patterns from the country, published by ICMR. Since the network collects data from tertiary 
+care hospitals, the data presented in this report is not reflective of the community levels of 
+AMR in the country and should not be extrapolated to community settings.  
+This report also includes the interpretation of antibiograms from OPD/Ward/ICU which is 
+crucial for assessing the impact of antimicrobial resistance and its implications in clinical 
+practice for empirical use of antibiotics. This further helps in identifying potential areas for 
+interventions and improvements in antibiotic stewardship practices.  
+Highlights of surveillance data 2022: 
+ 
+● This report presents data from January 1st, 2022 to December 31st, 2022. Total 
+number of culture positive isolates studied during the year 2022 was 1,07,053. 
+● Escherichia coli was the most commonly isolated pathogen followed by the Klebsiella 
+pneumoniae, Pseudomonas aeruginosa, Acinetobacter baumannii, and Staphylococcus 
+aureus. 
+● Among Enterobacterales, Escherichia coli, Klebsiella pneumoniae, Citrobacter 
+koseri and Enterobacter cloacae isolated from out-patients were more susceptible 
+than those from in-patients for all drugs tested. 
+● Imipenem susceptibility of E. col
+...
+
+--- PAGE 6 ---
+ 
+5 AMR Surveillance Network, Indian Council of Medical Research, 2022 
+ 
+ 
+● In P. aeruginosa, the susceptibility percentage to anti-pseudomonal cephalosporin 
+such as ceftazidime (56.4% vs 47.1%) and cefepime (60.3% vs 49.8%) was higher in 
+wards isolates as compared to ICU. 
+● There was no change in the trend of susceptibility to piperacillin/tazobactam, 
+ceftazidime and aminoglycosides in P. aeruginosa. All the tested P. aeruginosa 
+isolates were highly susceptible to colistin and there was no change in the trend of 
+susceptibility to colistin for the five years. Nearly 40% of carbapenem resistant P. 
+aeroginosa isolates harbour Class B type of β-lactamases (Metallo-β-lactamase), 
+with NDM being the most common.  
+● Resistance to carbapenems in Acinetobacter baumannii was recorded as 87.8% in 
+the year 2022, limiting the availability of available treatment options. In A. 
+baumannii, there is no significant change in the susceptibility trends to all the tested 
+antibiotics compared to last year. Susceptibility to minocycline was close to 58% to 
+make it the most susceptible antibiotic after colistin for Acinetobacter baumannii. 
+Similar to previous years, blaOXA-23-like was the only predominant carbapenemase 
+across all the centers contributing to 76% of carbapenem resistance. 
+● Among CLABSI causing pathogens, Gram-negative organisms (70.9%) were 
+responsible for most CLABSI, followed by Gram-positive (16.9%) and fungal 
+pathogens (12.2%), same was also true for other device associated infections like 
+CAUTI and VAP.  
+● 75% of Klebsiella pneumoniae and 88% of Acinetobacter baumannii causing blood 
+stream infections (BSIs) in ICUs were imipenem resistant. Nearly 87% of 
+Staphylococcus aureus and around 42% of Enterococcus faecium causing BSIs in ICUs 
+were respectively oxacillin and vancomycin resistant. Hence, the prevalence of AMR 
+in ICU is very high, so focus on infection control practices in ICU and other critical 
+areas should be top priority.  
+● In Staph
+...
+
+--- PAGE 9 ---
+8 AMR Surveillance Network, Indian Council of Medical Research, 2022
+ 
+Key takeaways: Interpretataions of common syndromic isolates and 
+implications in clinical practice
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Urine 
+ Escherichia coli and Klebsiella pneumoniae 
+common organisms isolated from urine from OPD, 
+wards and ICU. 
+ Fosfomycin (96.9% susceptible) and Nitrofurantoin 
+(91.3% susceptible) showed very good susceptibility 
+patterns in E coli urinary isolates particularly in OPD 
+and ward patients. Hence oral fosfomycin and oral 
+nitrofurantoin may be used to treat cystitis.
+ Amikacin (89.5% susceptible) and Ertapenem 
+(80.8% susceptible) showed very good susceptibility 
+patterns in E coli and Klebsiella pneumoniae
+isolates particularly in OPD and ward patients. 
+Hence IV Amikacin and IV Ertapenem may be used to 
+treat upper UTI or patient presenting with fever and 
+urinary symptoms.  
+Stool 
+ Diarhogenic E. coli, Aeromonas spp. and Salmonella 
+spp. were most common pathogens isolated from 
+stool samples of patients presenting with diarrhoea 
+in OPD or getting admitted in wards.
+ Antibiograms of these isolates showed, high rates of 
+resistance to fluoroquinolones; more than 90% 
+isolates of Diarhogenic E. coli
+were resistant to fluoroquinolones. Hence, empirical 
+use of ciprofloxacin or norfloxacin is not justified for 
+patients with diarrhoea. 
+ Among the tested isolates, trimethoprim
+sulfamethoxazole and azithromycin showed good 
+susceptible rates to Salmonella spp
+coli and Shigella respectively.  
+urveillance Network, Indian Council of Medical Research, 2022 
+: Interpretataions of common syndromic isolates and 
+ractice 
+Escherichia coli and Klebsiella pneumoniae are most 
+common organisms isolated from urine from OPD, 
+(96.9% susceptible) and Nitrofurantoin 
+(91.3% susceptible) showed very good susceptibility 
+urinary isolates particularly in OPD 
+and ward patients. Hence oral fosfomycin and oral 
+nitrofurantoin may be used to trea
+...
+
+--- PAGE 10 ---
+9 AMR Surveillance Network, Indian Council of Medical Research, 2022
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pus 
+ 
+ Staphylococcus aureus was the most commonly 
+isolated organism (> 30%) from pus taken from 
+OPD patients, whereas Escherichia coli 
+Klebsiella pneumoniae were most commonly 
+isolated from pus taken for ward and ICU patients.
+ Clindamycin (79% susceptible) and 
+trimethoprim-sulfamethoxazole (72% 
+susceptible) showed good susceptibility rates 
+among Staphylococcus aureus
+and ward.  
+ Hence oral clindamycin and oral trimethoprim
+sulfamethoxazole remain very good options for 
+purulent skin-soft tissue infections in OPD and 
+ward patients.  
+Cerebrospinal fluid (CSF) 
+ 
+ Gram-negative isolates were more common 
+among the isolated organisms from the CSF, 
+indicating high representation of hospital 
+acquired ventriculitis in the study population. 
+ Acinetobacter baumannii was the most common 
+organism followed by and 
+and Pseudomonas aeruginosa.
+ Most of these isolates were resistant to 
+carbapenems, cephalosporins and 
+fluoroquinolones. Only colistin and minocycline 
+showed promising susceptibility rates for 
+Acinetobacter baumannii 
+pneumoniae 
+urveillance Network, Indian Council of Medical Research, 2022 
+was the most commonly 
+organism (> 30%) from pus taken from 
+Escherichia coli and 
+were most commonly 
+isolated from pus taken for ward and ICU patients. 
+Clindamycin (79% susceptible) and 
+sulfamethoxazole (72% 
+howed good susceptibility rates 
+Staphylococcus aureus isolates from OPD 
+Hence oral clindamycin and oral trimethoprim-
+sulfamethoxazole remain very good options for 
+soft tissue infections in OPD and 
+  
+negative isolates were more common 
+among the isolated organisms from the CSF, 
+indicating high representation of hospital 
+acquired ventriculitis in the study population.  
+was the most common 
+lowed by and Klebsiella pneumoniae 
+Pseudomonas aeruginosa. 
+Most of these isolates were resistant to 
+carbapenems, cepha
+...
+
+--- PAGE 112 ---
+ 
+111 AMR Surveillance Network, Indian Council of Medical Research, 2022 
+ 
+Table 4.5.b:- Mutations imparting resistance to ciprofloxacin in S. Typhi 
+S. Typhi Ciprofloxacin resistance 
+        gyrA  gyrB ParC ParE CIP*   
+MIC 
+CIP Disk Diffusion 
+zone (mm) 
+ S.No. Lab ID / Centre Name  Mutation S83F S83Y D87N S464F S80I  D420N/E84G L416F D420N µg/ml      
+1 323336/ST/JP T* P P* Np Np P NP Np Np 96 6 R 
+2 330738/ST/JP T* P P* Np Np P NP Np Np 64 11 R* 
+3 331040/ST/JP S P Np NP Np NP Np Np Np 0.19 27 I 
+4 337759/ST/JP S P Np NP Np NP Np Np Np 0.19 28 I 
+5 337765/ST/JP S P Np NP Np NP Np Np Np 0.19 27 I 
+6 378227/ST/JP S P Np NP Np NP Np Np Np 0.25 26 I 
+7 368917/ST/RIMS S NP P NP Np NP Np Np Np 0.19 26 I 
+8 386260/ST/RIMS T P NP P Np P NP p Np 4 10 R 
+9 367825/ST/SKIMS T P Np P Np P Np Np Np 64 6 R 
+10 372025/ST/SKIMS S NP Np P Np NP Np Np Np 0.19 6 I 
+11 5641/ST/ND AIIMS S P Np Np Np Np Np Np Np 0.19 28 I 
+12 9965/ST/ND AIIMS S NP Np NP Np P Np Np Np 0.12 27 I 
+13 307886/ST/SGH T P Np P Np P Np Np Np 64 6 R 
+14 307888/ST/SGH S P Np NP Np NP Np Np Np 0.25 28 I 
+15 367170/ST/SGH S P NP NP Np NP Np Np Np 0.19 28 I 
+16 367171/ST/SGH S P Np Np NP Np Np Np Np 0.19 26 I 
+17 387858/ST/SGH S NP P Np Np NP Np Np Np 0.125 28 I 
+18 387861/ST/SGH D P Np p Np NP Np Np Np 0.19 27 I 
+19 387870/ST/SGH D P Np Np Np NP Np P Np 0.19 26 I 
+20 429877/ST/LTMMC T P Np P Np P Np Np Np 64 6 R 
+21 429940/ST/LTMMC NP NP NP NP NP NP NP NP NP 0.064 31 S 
+22 429948/ST/LTMMC S NP P Np Np NP Np Np Np 0.25 28 I 
+...
+
+==================================================
+FILE: AMR_Annual_Report_2021.pdf
+==================================================
+
+--- PAGE 3 ---
+ 
+3 AMR surveillance Network, Indian Council of Medical Research, 2021 
+ 
+ 
+List of acronyms 
+ 
+AMRSN       Antimicrobial Resistance Research & Surveillance Network 
+AMS Antimicrobial Susceptibility 
+BAL Bronchoalveolar lavage 
+BSI Blood stream infections 
+CARD          Comprehensive Antibiotic Resistance Database 
+CAUTI Catheter associated urinary tract infections 
+CDS    Coding sequence regions 
+CGPS Center for Genomic Pathogen Surveillance  
+CLABSI Catheter associated blood stream infections 
+CLSI Clinical & Laboratory Standards Institute 
+CoNS Coagulase-negative Staphylococci 
+CRAB Carbapenem-resistant Acinetobacter baumannii 
+CRE    Carbapenem resistant Enterobacterales  
+CSF    Cerebrospinal fluid 
+DI      Deep infections 
+DEC     Diarrheagenic E coli 
+ESBLs       Extended spectrum beta lactamases 
+HAI Hospital acquired Infections 
+HCAI Health Care Associated infections 
+HCWs   Health care workers 
+ICU    Intensive care unit 
+IPC Infection prevention and Control 
+OPD Out-patient department 
+LOS Length of stay 
+LRT Lower Respiratory tract 
+MBL   Metallo-beta-lactamase 
+MFS Major Facilitator superfamily 
+MIC    Minimum inhibitory concertation 
+MLST   Multi-locus sequence typing 
+MRSA     Methicillin-resistant Staphylococcus aureus 
+MSSA    Methicillin sensitive Staphylococcus aureus 
+NFGNB Non fermenting Gram-negative bacilli  
+OXA         Oxacillinases 
+PBP2a       Penicillin binding protein 2a 
+PMQR    Plasmid mediated quinolone resistance 
+QUAST Quality assessment tool 
+RC      Regional centers 
+RGI     Resistance gene identifier 
+SCC mec         Staphylococcal cassette chromosome mec 
+SI Superficial infections 
+SD   Standard deviation 
+SS Sterile body fluids 
+ST Sequence types 
+TMP-SMX Trimethoprim sulfamethoxazole 
+UTI Urinary Tract infections 
+VRE Vancomycin-resistant enterococci 
+WGS Whole-genome sequencing 
+...
+
+--- PAGE 4 ---
+ 
+4 AMR surveillance Network, Indian Council of Medical Research, 2021 
+ 
+ 
+Executive summary 
+ 
+ICMR- Antimicrobial Resistance Surveillance network  
+ 
+The Indian Council of Medical Research (ICMR) has been supporting research on 
+antimicrobial resistance through the Antimicrobial Resistance Research & Surveillance 
+Network (AMRSN) since 2013. The data collected from the network has enabled 
+compilation of drug resistance data on six pathogenic groups on antimicrobial resistance 
+from the country. Data collected from the network is used to track resistance trends and to 
+better understand mechanisms of resistance in the key priority pathogens using genomics 
+and whole genome sequencing (WGS). This is the fifth detailed report on AMR trends and 
+patterns from the country, published by ICMR. Since the network collects data from tertiary 
+care hospitals, the data presented in this report is not reflective of the community levels of 
+AMR in the country and should not be extrapolated to community settings. This report also 
+includes the trends of resistance of key pathogens to the critically important antimicrobials 
+which should guide the prevention and treatment interventions for AMR in the country.  
+ 
+Structure and framework for the ICMR-AMRSN 
+ 
+Under AMRSN, there are seven nodal centres (NCs) for each pathogenic group in four 
+tertiary care hospitals.  
+(i) Enterobacterales causing sepsis  (PGIMER, Chandigarh)  
+(ii) Gram-negative non-fermenters (CMC Vellore) 
+(iii) Gram-positives: staphylococci and enterococci, (JIPMER, Puducherry)  
+(iv) Typhoidal Salmonella (AIIMS New Delhi) 
+(v) Diarrhoeagenic bacterial organisms (CMC Vellore),  
+(vi) Fungal pathogens (PGIMER, Chandigarh).  
+(vii) Streptococcus pneumoniae (CMC Vellore) 
+ 
+There are twenty regional laboratories (regional centres, RCs) from tertiary care hospitals 
+to provide data and fixed number of isolates for each pathogenic group [Figure (i)]. The RCs 
+carry out only AMST; however, the NCs also focus on the
+...
+
+--- PAGE 5 ---
+ 
+5 AMR surveillance Network, Indian Council of Medical Research, 2021 
+ 
+ 
+guidelines. The SOPs are revised periodically to include the changes proposed by CLSI and 
+are used for training of all the participating hospitals. All the network laboratories perform 
+microbiological investigations; using standard biochemical identification (up to species 
+level) and carry out antimicrobial susceptibility on all clinical isolates received using SOPs. 
+The network captures quantitative data, i.e. minimum inhibitory concentration (MICs) or 
+zone diameters in disc diffusion tests which are more significant than the qualitative data 
+(interpretations as susceptible, intermediate or resistant), that indicate only broad trends 
+for many drug-organism combinations. Phenotypic assays for the detection of mechanisms 
+of resistance are performed for isolates at each centre. Each NC and RC determines the 
+antibiogram of the isolates against panel (available antimicrobials of choice) with 
+breakpoints recommended by ICMR SOPs.  The records are auto validated using a set 
+criteria decided by set of experts and ICMR data management team. This auto-validation 
+module automatically checks for any unacceptable patterns and highlights the records that 
+require manual interventions. 
+ 
+Figure (i): Antimicrobial Resistance Research & Surveillance Network (AMRSN): Nodal and Regional 
+Centers  
+
+...
+
+--- PAGE 6 ---
+ 
+6 AMR surveillance Network, Indian Council of Medical Research, 2021 
+ 
+ 
+Genotypic characterisation  
+ 
+Molecular characterization of the resistance mechanisms is performed by corresponding 
+NCs for pathogens [Figure (ii)]. Sixty resistant isolates per species, per year, are shared by 
+RCs for molecular characterization with NCs. Each NC tests the isolates receives from RCs 
+and other NCs for AMR genes. Molecular data is shared with the respective RCs and entered 
+in online AMR portal 
+ 
+ 
+Figure (ii): List of species for genotypic characterisation 
+ 
+ 
+Highlights of data 2021: 
+ 
+● This report presents data from January 1 st, 2021 to December 31 st, 2021. Total 
+number of culture positive isolates studied during the year 2021 was 95,728. 
+● Escherichia coli was the most commonly isolated pathogen followed by the Klebsiella 
+pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, and Staphylococcus 
+aureus. 
+● Imipenem susceptibility of E. coli has dropped steadily from 86% in 2016 to 64% in 
+2021 and that of Klebsiella pneumoniae dropped steadily from 65% in 2016 to 45% 
+in 2020 and was at 43% for the year 2021. 
+● Resistance to carbapenems in Acinetobacter baumannii was recorded as 87.5% in 
+the year 2021, limiting the availability of available treatment options. In A. 
+baumannii, there is no significant change in the susceptibility trends to all the tested 
+antibiotics compared to last year. Susceptibility to minocycline was close to 50% 
+(45% to 65.6%) making it most susceptibile antibiotic after colistin for 
+Acinetobacter baumannii. 
+
+...
+
+--- PAGE 10 ---
+ 
+10 AMR surveillance Network, Indian Council of Medical Research, 2021 
+ 
+ 
+Chapter 1 Summary of surveillance data   
+ 
+ 
+Total number of culture positive isolates studied during the year 2021 was 95,728. Of these, 
+18,988 were from blood, 19,319 from urine, 16,746 Lower Respiratory tract (LRT), 19,592 
+Superficial infections, 8,125 Deep infections, 995 CSF, 2,787 Sterile spaces (SS), 651 Faeces 
+and 8525 others. Majority of the isolates were from Enterobacterales except Salmonella and 
+Shigella (49.5%) followed by Non fermenting Gram-negative bacilli (NFGNB) (27.4%), 
+staphylococci (12%), enterococci (5.9%), fungi (3.6%), Typhoidal Salmonella (0.5%), and 
+streptococci (0.4%) (Table 1.1). In the distribution of major group of organisms in different 
+specimens, member of the Enterobacterales group were the commonest isolates in urine 
+(76.5%), sterile body fluids (SS) (58.6%), deep infections (DI) (49.7%), others (48.8%), 
+superficial infections (SI) (44.9%), blood (38.5%), LRT (37.9%) and CSF (34%). Non 
+fermenting Gram-negative bacilli (NFGNB) group were the predominant isolates in the lower 
+respiratory tract (54.7%), CSF (43.9%), superficial infections (SI) (27.3%), blood (24.9%), deep 
+infection (DI) (24.5%), sterile sites (SS) (23.3%),others (22.7%), and urine (10.1%). 
+Staphylococci constituted 20.7% of the superficial infections (SI) followed by deep infection 
+(DI) (19.9%), blood infection (19.3%), and CSF (7.9%). Enterococci group constituted 10.2% of 
+the isolates from CSF followed by urine (10%), sterile body fluid (9.2%), blood (7%), 
+superficial infections (5.5%), and deep infections (3.8%), and Typhoidal Salmonella group 
+constituted 2.3% of the isolates from blood. Yeast group were significant isolates in the blood 
+infection (7.8%) (Table 1.1 and Figure 1.1). 
+ 
+The distribution of top 10 isolates from different specimens is presented in Table 1.2 and 
+Figure 1.2. Escherichia coli  was most commonly isolated (24.7%) followed by the Klebsiella 
+pneum
+...
+
+==================================================
+FILE: Final_AMRSN_Annual_Report_2019_29072020.pdf
+==================================================
+
+--- PAGE 1 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Compiled by: 
+Dr. Kamini Walia, Ph.D, MPH 
+Dr. (Maj Gen) Vinod Ohri, MD  
+Dr. Ajay Kumar Sahni, MD, DNB, PhD 
+Annual Report 
+ 
+Antimicrobial Resistance Surveillance and 
+Research Network 
+ 
+January 2019 to December 2019 
+...
+
+--- PAGE 3 ---
+2 | AMR surveillance Network, Indian Council of Medical Research, 2019  
+ 
+Chapter 1 Summary of surveillance data   
+ January 2019 to December 2019 
+  
+Total number of culture positive isolates studied during the year 2019 was 107387.Of 
+these, 17108 from blood, 30822 urine, 15571 Lower Respiratory tract, 25058 Superficial 
+infections, 7053 Deep infections, 688 CS F, 2623 Sterile spaces, 1051 Faeces and 7413 
+others. Majority of the isolates were from Enterobacteriaceae (53%) followed by Non 
+fermenting Gram-negative bacilli (NFGNB) (22%), Staphylococci (15%), Enterococci (6%), 
+Salmonella (1%) and fungi (2%) (Table 1. 1). In the distribution of major group of 
+organisms in different specimens,  member of the Enterobacteriaceae group were the 
+commonest isolates in urine (79%), sterile body fluids (SS) (58%), others (49%), deep 
+infections (DI) (46%), superficial infections (SI) (42%), blood and LRT (41%) and CSF 
+(29%). Non fermenting Gram -negative bacilli (NFGNB) group were the predominant 
+isolates in the lower respiratory tract (LRT) (51%), CSF (45%), deep infection (DI) (24%), 
+sterile sites (SS) (23%), blood (17%) and urin e (7%). Staphylococci constituted 28% of the 
+superficial infections (SI) followed by blood infection (23%), deep infection (DI) (22%) and 
+CSF (16%). Enterococci group constituted 11% of the isolates from urine followed by 
+sterile body fluid (9%), CSF (8%),  deep infections (7%), blood (6%) and superficial 
+infections (5%). Salmonella group constituted 84% of blood infection. Yeast group were 
+significant isolates in the blood infection (7%) (Table1.1 and Figure 1.1a). 
+The relative distribution of the various s pecies isolated from patients in the OPD, 
+admitted to the wards and ICUs are presented in Table 1.2 and Figures 1.2a &1.2b. Overall, 
+Escherichia coli  was the commonest isolate (28%) followed by the Klebsiella pneumoniae  
+(17%), Pseudomonas aeruginosa  (12%), Staphylococcus aureus  (11%) and Acinetobacter 
+baumannii complex (9%
+...
+
+--- PAGE 4 ---
+3 | AMR surveillance Network, Indian Council of Medical Research, 2019  
+ 
+followed by Klebsiella pneumoniae  (17%), Proteus mirabilis  (1.8%) and Enterobacter 
+cloacae (1.4%) (Table 1.3).  Escherichia coli  was the most predominant isolate from the 
+urine (56%), sterile site (32%), others (23%), blo od and superficial infection  (18%) and 
+CSF (11%).  Klebsiella pneumoniae  was the most predominant isolate in the lower 
+respiratory tract (28%), blood and others (17%), urine (16%), deep infection (DI) and 
+sterile sites (SS) (15%), superficial infection (SI) and CSF (13%). Proteus mirabilis  was 
+common in 5% of deep and 3% of superficial infections and other specimens (2%). 
+Enterobacter cloacae  constituted 3% of deep infections, 2% of superficial infection and 
+blood infections.  Klebsiella species  constituted 3%  of sterile site infections (SS) (Figure 
+1.3b). Geographic area wise distribution showed that isolates from the eastern India had 
+higher percentage isolate rate of Klebsiella pneumoniae  than the rest of India  (Table 1.4a 
+and Figure 1.4a). 
+Salmonella constituted 1% of the total isolates (1123 out of 107387). Salmonella Typhi 
+isolated from the blood constituted 76% of total Salmonella isolates, followed by 
+Salmonella paratyphi A  (16%) and other Salmonella spp  (8%) (Table 1.5a & Figure 1.5a). 
+Geographically, the predominant total Salmonella isolation percentage was seen highest in 
+central India (8.3%) followed by western India (7.9%). On the contrary, Salmonella Typhi 
+isolate percentage was more in western India (5.9%) as compared to central India (5.4%). 
+There was insignificant percentage difference in the isolation of total Salmonella and 
+Salmonella Typhi  from the northern and southern part of India with total Salmonella 
+percentage around 5% and Salmonella Typhi around 4% (Figure 1.5b) 
+Non-fermenting Gram nega tive bacteria (NFGNB) constituted 22% of the total isolates 
+(23684 out of 107387) (Table 1.1). Among the NFGNB, Pseudomonas aer
+...
+
+--- PAGE 5 ---
+4 | AMR surveillance Network, Indian Council of Medical Research, 2019  
+ 
+vascular device associated infections respectively. In CSF and Blood, Staphylococcus 
+epidermidis was more frequent isolate 3% and 2% respectively, reflecting the ability of the 
+species to form biofilms and high incidence of shunt associated and dialysis associated 
+infections. Staphylococcus saprophyticus  was most common isolate in the urine. 
+Predominant percentage isolation of Methicillin resistant S taphylococcus aureus (MRSA) 
+and Methicillin sensitive Staphylococcus aureus (MSSA) was from the superficial infections 
+(SI) i.e., 10% and 15% respectively. This was followed by isolation from deep infection (DI), 
+9% and 12% and from blood, 5% and 7% respec tively (Figure 1.7a). Amongst the 
+coagulase negative Staphylococci (CoNS), S. haemolyticus (23%) and S. epidermidis (20%) 
+were the commonest species followed by S. hominis  (12%) (Table  1.7b). There was 
+predominance of isolation of Staphylococcus aureus from eastern India (14%) with MRSA 
+percentage isolation (7%). The least percentage isolation of Staphylococcus aureus and 
+MRSA was from western India i.e., 10% and 5% respectively (Table 1.7c and Figure 1.7c) 
+Enterococci constituted overall 6% of all the isola tes (Table 1.1). Among the 
+Enterococcus species, E. faecalis and E. faecium accounted for 84% of all the total isolates, 
+E. faecalis (44%) outnumbered E. faecium (40%). E. faecium was relatively more frequent 
+in the CSF (4.4%) and urine (4%) while E. faecalis was more frequent in the urine (4.8%) 
+and deep infections (3.7%) (Table 1.8a). The relative percentage isolation of E. faecalis and 
+E. faecium  differed in the different geographical areas. E faecium  was found to be more 
+frequent in eastern India (4.1%)  and E. faecalis  was more frequent in southern India 
+(4.4%) (Table 1.8b, Figure 1.8b). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+...
+
+--- PAGE 6 ---
+5 | AMR surveillance Network, Indian Council of Medical Research, 2019 
+ 
+Table 1.1: Specimen wise distributions of major groups of organisms   
+Isolate  Culture positive  
+Total  
+n=107387 
+Blood  
+n=17108 
+Urine  
+n=30822 
+LRT  
+n=15571 
+Superficial 
+Infection  
+n=25058 
+Deep 
+Infection  
+n=7053 
+CSF  
+n=688 
+SS  
+n=2623 
+Faeces  
+n=1051 
+Others  
+n=7413 
+n  %  n  %  n  %  n  %  n  %  n  %  n  %  n  %  n  %  n  %  
+No. culture 
+positive 
+107387 
+(100) 
+100  17108 
+(100) 
+15.9  30822 
+(100) 
+28.7  15571 
+(100) 
+14.5  25058 
+(100) 
+23.3  7053 
+(100) 
+6.6  688 
+(100) 
+0.6  2623 
+(100) 
+2.4  1051 
+(100) 
+1  7413 
+(100) 
+6.9  
+Enterobacteri
+aceae (except 
+Salmonella) 
+57236 
+(53.3) 
+100  7055 
+(41.2) 
+12.3  24276 
+(78.8) 
+42.4  6414 
+(41.2) 
+11.2  10628 
+(42.4) 
+18.6  3266 
+(46.3) 
+5.7  196 
+(28.5) 
+0.3  1512 
+(57.6) 
+2.6  288 
+(27.4) 
+0.5  3601 
+(48.6) 
+6.3  
+Salmonella 1123 
+(1) 
+100  940 
+(5.5) 
+83.7  9 
+(0) 
+0.8  1 
+(0) 
+0.1  12 
+(0) 
+1.1  7 
+(0.1) 
+0.6  5 
+(0.7) 
+0.4  4 
+(0.2) 
+0.4  140 
+(13.3) 
+12.5  5 
+(0.1) 
+0.4  
+NFGNB 23684 
+(22.1) 
+100  2955 
+(17.3) 
+12.5  2270 
+(7.4) 
+9.6  7854 
+(50.4) 
+33.2  6086 
+(24.3) 
+25.7  1687 
+(23.9) 
+7.1  309 
+(44.9) 
+1.3  592 
+(22.6) 
+2.5  7 
+(0.7) 
+0  1924 
+(26) 
+8.1  
+Staphylococci 15785 
+(14.7) 
+100  3847 
+(22.5) 
+24.4  777 
+(2.5) 
+4.9  1008 
+(6.5) 
+6.4  7097 
+(28.3) 
+45  1569 
+(22.2) 
+9.9  113 
+(16.4) 
+0.7  227 
+(8.7) 
+1.4  0 
+(0) 
+0  1147 
+(15.5) 
+7.3  
+Enterococci 6641 
+(6.2) 
+100  961 
+(5.6) 
+14.5  3225 
+(10.5) 
+48.6  48 
+(0.3) 
+0.7  1152 
+(4.6) 
+17.3  469 
+(6.6) 
+7.1  54 
+(7.8) 
+0.8  240 
+(9.1) 
+3.6  17 
+(1.6) 
+0.3  475 
+(6.4) 
+7.2  
+Fungi 2155 
+(2) 
+100  1238 
+(7.2) 
+57.4  261 
+(0.8) 
+12.1  241 
+(1.5) 
+11.2  76 
+(0.3) 
+3.5  48 
+(0.7) 
+2.2  11 
+(1.6) 
+0.5  33 
+(1.3) 
+1.5  0 
+(0) 
+0  247 
+(3.3) 
+11.5  
+Faecal isolates 664 
+(0.6) 
+100  16 
+(0.1) 
+2.4  4 
+(0) 
+0.6  4 
+(0) 
+0.6  7 
+(0) 
+1.1  7 
+(0.1) 
+1.1  0 
+(0) 
+0  14 
+(0.5) 
+2.1  599 
+(57) 
+90.2  13 
+(0.2) 
+2 
+Note:  
+1. Figures under '%' are for respective rows. 
+2. Figure
+...
+
+--- PAGE 8 ---
+7 | AMR surveillance Network, Indian Council of Medical Research, 2019  
+ 
+Table 1.2: Distribution of species of organisms in isolates from OPD, ward and ICU   
+*A. baumannii complex includes Acinetobacter baumannii and A. calcoaceticus 
+Note:  Figures in parenthesis ( ) are percentages of respective columns. 
+ 
+ 
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%Percentage of isolates
+OPD
+Ward
+ICU
+Total
+ 
+Figure 1.2a: Distribution of species of organisms in isolates of OPD,Ward and ICU 
+ 
+ 
+ OPD 
+(n=35753) 
+Ward 
+(n=55782) 
+ICU 
+(n=15852) 
+Overall 
+(n=107387) 
+E. coli  12731 (35.6)  15373 (27.6)  2367 (14.9)  30471 (28.4) 
+K. pneumoniae  5240 (14.7) 9567 (17.2)  3483 (22)  18290 (17)  
+P. aeruginosa  3879 (10.8)  6742 (12.1)  1890 (11.9)  12511 (11.7)  
+S. aureus  5297 (14.8)  5992 (10.7)  938 (5.9)  12227 (11.4)  
+A. baumannii complex* 1195 (3.3)  4594 (8.2)  3740 (23.6)  9529 (8.8)  
+E. faecalis  1155 (3.2)  1546 (2.8)  188 (1.2)  2889 (2.7)  
+E. faecium  576 (1.6)  1623 (2.9)  487 (3.1)  2686 (2.5)  
+Staphylococcus spp  377 (1.1)  901 (1.6)  245 (1.5)  1523 (1.4)  
+P. mirabilis  724 (2)  1057 (1.9)  166 (1)  1947 (1.8)  
+Others 4579 (12.8) 8387 (15.0) 2348 (14.8) 15314 (14.3) 
+...
+
+--- PAGE 10 ---
+9 | AMR surveillance Network, Indian Council of Medical Research, 2019  
+ 
+Table 1.3: Specimen wise distributions of major species of family Enterobacteriaceae  
+ 
+n % n % n % n % n % n % n % n % n % n % 
+30471 3309 17213 1130 4688 1274 73 828.00 222 1734
+28.37% 19.34% 55.85% 7.26% 18.71% 18.06% 10.61% 31.57% 21.12% 23.39%
+18290 2834 5003 4368 3279.0 1036 91 402 48 1229
+17.03% 16.57% 16.23% 28.05% 13.09% 14.69% 13.23% 15.33% 4.57% 16.58%
+1947 80 462 106 731 341 3 44 4 176
+1.81% 0.47% 1.50% 0.68% 2.92% 4.83% 0.44% 1.68% 0.38% 2.37%
+1479 270 268 118 489 190 4 37 3 100
+1.38% 1.58% 0.87% 0.76% 1.95% 2.69% 0.58% 1.41% 0.29% 1.35%
+849 65 148 179 276 16 6 83 1 75
+0.79% 0.38% 0.48% 1.15% 1.10% 0.23% 0.87% 3.16% 0.10% 1.01%
+654 36 291 45 191 50 0 8 1 32
+0.61% 0.21% 0.94% 0.29% 0.76% 0.71% 0.00% 0.30% 0.10% 0.43%
+503 32 148 11 174 97 1 9 2 29
+0.47% 0.19% 0.48% 0.07% 0.69% 1.38% 0.15% 0.34% 0.19% 0.39%
+419 137 57 104 53 26 2 13 0 27
+0.39% 0.80% 0.18% 0.67% 0.21% 0.37% 0.29% 0.50% 0.00% 0.36%
+142 8 71 10 25 19 0 3 0 6
+0.13% 0.05% 0.23% 0.06% 0.10% 0.27% 0.00% 0.11% 0.00% 0.08%
+Isolate 
+Culture positive 
+Total
+n=107387
+Blood
+n=17108
+Urine
+n=30822
+LRT
+n=15571
+SS
+n=2623
+Faeces
+n=1051
+Others
+n=7413
+Superficial 
+Infection
+n=25058
+Deep 
+Infection
+n=7053
+CSF
+n=688
+Providencia rettgeri 100 5.6 50 7
+Proteus mirabilis 100 4.1 24 5.4
+Enterobacter cloacae 100 18 18 8
+Klebsiella spp. 100 7.7 17 21
+Citrobacter koseri 100 5.5 45
+18 13 0 2 0 4
+18 0 2 0 938
+33 13 0 3 0 7
+1.9 1 10 0 933
+Serratia marcescens 100 33 14 25
+Escherichia coli 100 11 57 3.7
+Klebsiella pneumonia 100 16 27 24
+6.9
+13 6.2 1 3 0 6
+4.2 0 3 1 615
+18 5.7 1 2 0 7
+7.6 0 1 0 529
+19 0 2 0 6Morganella morganii 100 6.4 29 2.2 35
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+...
+
+--- PAGE 70 ---
+69 | AMR surveillance Network, Indian Council of Medical Research, 2019  
+ 
+Table 4.8: Molecular characterization of carbapenem resistant P. aeruginosa  collected 
+across India during the year 2019 
+Centers P. 
+aeruginosa 
+ESBL Class A 
+Carbapenemase 
+Class B carbapenemase 
+(MβLs) 
+Co-producers 
+Total (R 
+tested) 
+SHV TEM VEB PER KPC GES SPM IMP VIM NDM Others 
+CMC 24 (24) 1 - 2 - - 2 - 5 1 1 PER&NDM-1 
+TEM&VIM-3 
+VEB&IMP-1 
+VEB&NDM-1 
+VEB&VIM-2 
+IMP&VEB,GES-1 
+AIIMS 56 (11) - - 1 - - - - - 6 2 - 
+JIPMER 70 (6) 1 - - - - - - 
+  
+1 - 
+PGIMER 38(7) - - 
+ 
+- - - - - 2 - - 
+TATA 
+MEDICAL 
+CENTRE  
+40 (35) - - 3 - - - - - 4 4 VIM&NDM-7 
+VIM,NDM&GES-1 
+VEB&VIM,NDM-8 
+VEB&NDM-1 
+SIR 
+GANGARAM 
+60 (14) - 
+ 
+1 - - - - - 4 4 NDM&VIM-3 
+VEB&NDM,VIM-1 
+MGIMS 80 (14) - - 
+ 
+- - - - - 
+  
+- 
+APOLLO 56 (11) - - - - - - - - - 1 NDM&VEB-3 
+VEB&VIM,NDM-1 
+P.D.HINDUJA  77 (11) - - - - - 2 - - - 1 GES&NDM-4 
+GES,VEB&NDM-1 
+GES,VIM&NDM-3 
+NIMS 70 (5) - - - - - 
+ 
+- - 
+ 
+2 VEB&NDM-1 
+SKIMS 1 (1) - - - - - 
+    
+- - 
+NODEL(KMC 16 (2) - - - - - 1 - - - - GES&NDM-1 
+AMC 45 (4) - - 
+ 
+- - - - - 
+ 
+3 VIM&NDM-1 
+AFMC 54 (4) - - - - - - - - - 4 - 
+RIIMS 5 (1) - - - - - - - - - - GES&VEB-1 
+KGMU 7 (2) - - - - - - - - - 1 VEB&NDM-1 
+LTMMC 69(6) - - 1 - - - - - - 1 - 
+Total 768 (158) 2 
+(1%) 
+- 8 
+(5%) 
+- - 5 
+(3%) 
+- 5 
+(3%) 
+17 
+(11%) 
+25 
+(16%) 
+47 
+(30%) 
+...

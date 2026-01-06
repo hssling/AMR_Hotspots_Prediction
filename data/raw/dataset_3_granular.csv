@@ -1,0 +1,39 @@
+Year,Center_Name,Pathogen,Resistance_Percentage,Antibiotic_Consumption_DDD,Mortality_Rate_Percentage,Length_of_Stay_Days,BSI_Outcome,Source
+2022,AIIMS (RC01),Escherichia coli,19% (81% Amikacin Susceptibility),Not in source,Not in source,Not in source,Not in source,1
+2021,"AIIMS, New Delhi",Escherichia coli,37% (Imipenem),Not in source,Not in source,Not in source,Not in source,2
+2021,"AIIMS, New Delhi",Klebsiella pneumoniae,57% (Imipenem),Not in source,Not in source,Not in source,Not in source,2
+2021,"CMC, Vellore",Escherichia coli,36% (Imipenem),Not in source,Not in source,Not in source,Not in source,2
+2021,"JIPMER, Puducherry",Staphylococcus aureus (MRSA),42.6% (Cefoxitin),Not in source,Not in source,Not in source,Not in source,2
+2018,AIIMS,Escherichia coli,"20% Amikacin, 83% Cefotaxime, 76% Ceftazidime, 77% Ciprofloxacin, 85% Levofloxacin, 1% Colistin, 25% Imipenem, 31% Meropenem, 35% Ertapenem, 46% Piperacillin-tazobactam",Not in source,Not in source,Not in source,Not in source,3
+2019,JIPMER,Staphylococcus aureus (MRSA),29.4%,Not in source,Not in source,Not in source,Not in source,4
+2018,JIPMER,Staphylococcus aureus (MRSA),21%,Not in source,Not in source,Not in source,Not in source,4
+2017,JIPMER,Staphylococcus aureus (MRSA),23.5%,Not in source,Not in source,Not in source,Not in source,5
+2017,JIPMER,Enterococcus faecium (VRE),4%,Not in source,Not in source,Not in source,Not in source,5
+2021,National (AMRSN Network),Escherichia coli,35.9% - 36% (Imipenem),Not in source,Not in source,Not in source,Not in source,"2, 6"
+2021,National (AMRSN Network),Klebsiella pneumoniae,57% (Imipenem),Not in source,Not in source,Not in source,Not in source,2
+2020,National (AMRSN Network),Escherichia coli,28% (Imipenem),Not in source,Not in source,Not in source,Not in source,6
+2019,National (AMRSN Network),Escherichia coli,36.6% - 37% (Imipenem),Not in source,Not in source,Not in source,Not in source,"6, 7"
+2019,National average,Klebsiella pneumoniae,54% (Imipenem),Not in source,Not in source,Not in source,Not in source,7
+2018,National (AMRSN Network),Escherichia coli,27.3% (Imipenem),Not in source,Not in source,Not in source,Not in source,6
+2017,National (AMRSN Network),Escherichia coli,18.6% (Imipenem),Not in source,Not in source,Not in source,Not in source,6
+2017,National (AMRSN Network),Klebsiella pneumoniae,41.5% (Imipenem),Not in source,Not in source,Not in source,Not in source,6
+2017,National (AMRSN Network),Staphylococcus aureus (MRSA),33%,Not in source,Not in source,Not in source,Not in source,6
+2016,National (AMRSN Network),Escherichia coli,14% (Imipenem),Not in source,Not in source,Not in source,Not in source,"2, 7"
+2024,National (AMRSN Network),Staphylococcus aureus (MRSA),52.4%,Not in source,Not in source,Not in source,Not in source,6
+2023,Network of 39 hospitals across India,Klebsiella pneumoniae,80% (Imipenem resistant in BSI cases),Not in source,35% (fatal outcome reported in BSIs),19 (Median ICU stay),"1,335 Died, 456 Discharged (14-day outcome)","5, 8"
+2023,Network of 39 hospitals across India,Acinetobacter baumannii,91% (Imipenem resistant in BSI cases),Not in source,35% (fatal outcome reported in BSIs),19 (Median ICU stay),"1,335 Died, 456 Discharged (14-day outcome)","5, 8"
+2023,Network of 39 hospitals across India,Staphylococcus aureus,63% (Oxacillin resistant in BSI cases),Not in source,35% (fatal outcome reported in BSIs),19 (Median ICU stay),"1,335 Died, 456 Discharged (14-day outcome)","5, 8"
+2023,Network of 39 hospitals across India,Enterococcus faecium,42.7% (Vancomycin resistant in BSI cases),Not in source,35% (fatal outcome reported in BSIs),19 (Median ICU stay),"1,335 Died, 456 Discharged (14-day outcome)","5, 8"
+2023,Network of 39 hospitals across India,Escherichia coli,Not in source,Not in source,20.7% (fatal outcome reported in UTI cases),20 (Median ICU stay for UTI),Not in source,"5, 8"
+2022,All Participating ICUs,Klebsiella pneumoniae,75% Imipenem Resistant,Not in source,44.3% (BSI Fatal Outcome),18 (Median),44.3% Died,1
+2022,All Participating ICUs,Acinetobacter baumannii,88% Imipenem Resistant,Not in source,44.3% (BSI Fatal Outcome),18 (Median),44.3% Died,1
+2022,All Participating ICUs,Staphylococcus aureus (MRSA),87% Oxacillin Resistant,Not in source,44.3% (BSI Fatal Outcome),18 (Median),44.3% Died,1
+2022,All Participating ICUs,Enterococcus faecium,42% Vancomycin Resistant,Not in source,44.3% (BSI Fatal Outcome),18 (Median),44.3% Died,1
+2021,HAI Surveillance Network (Total),Klebsiella pneumoniae,73.4% (Imipenem),Not in source,38.1%,55.5 (Median),Fatal outcome reported in 38.1% of BSIs,2
+2021,HAI Surveillance Network (Total),Acinetobacter baumannii,85.8% (Imipenem),Not in source,38.1%,55.5 (Median),Fatal outcome reported in 38.1% of BSIs,2
+2021,HAI Surveillance Network (Total),Escherichia coli,51% (Imipenem),Not in source,38.1%,55.5 (Median),Fatal outcome reported in 38.1% of BSIs,2
+2024,National (HAI Surveillance ICUs),Not in source,Not in source,Not in source,36.6%,15,Associated fatal outcome in 36.6% of BSIs,6
+2024,National (HAI Surveillance ICUs),Not in source,Not in source,Not in source,20.4%,16,UTI Cases 14-day outcome 20.4% died,6
+2020,Regional Center 20,Staphylococcus aureus (MRSA),74.7%,Not in source,Not in source,Not in source,Not in source,7
+2020,Regional Center 04,Staphylococcus aureus (MRSA),26.8%,Not in source,Not in source,Not in source,Not in source,7
+2020,AIIMS,Salmonella Typhi,95%,Not in source,Not in source,Not in source,Not in source,7

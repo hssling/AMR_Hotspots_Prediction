@@ -1,0 +1,53 @@
+Year,Region/State,Health Facility (Nodal/Regional Center),Clinical Setting (OPD/Ward/ICU),Organism (Species),Specimen Type,Antimicrobial Agent,Resistance/Susceptibility Percentage,Molecular Resistance Genes/Mutations,Source
+2024,National,"Nodal: PGIMER, Chandigarh",ICU,Escherichia coli,Not in source,Piperacillin-tazobactam,35% Susceptible,"TEM (29.58%), IMP (27.97%), VIM (19.29%), NDM-1 (14.47%)",1
+2024,National,"Nodal: PGIMER, Chandigarh",Ward,Escherichia coli,Not in source,Piperacillin-tazobactam,40.1% Susceptible,"TEM (29.58%), IMP (27.97%), VIM (19.29%), NDM-1 (14.47%)",1
+2024,National,"Nodal: PGIMER, Chandigarh",OPD,Escherichia coli,Not in source,Piperacillin-tazobactam,48.7% Susceptible,"TEM (29.58%), IMP (27.97%), VIM (19.29%), NDM-1 (14.47%)",1
+2024,National,"Nodal: PGIMER, Chandigarh",ICU,Klebsiella pneumoniae,Not in source,Meropenem,24.2% Susceptible,"TEM (33.66%), OXA-48 (25.57%), SHV (22.98%)",1
+2024,National,"Nodal: CMC, Vellore",ICU,Acinetobacter baumannii,Not in source,Meropenem,91.0% Resistant,"blaOXA-23 (Predominant), blaNDM (Co-carriage)",1
+2024,National,"Nodal: CMC, Vellore",ICU,Pseudomonas aeruginosa,Not in source,Imipenem,43% Resistant,"M $\beta$ L genes (NDM, VIM)",1
+2024,National,"Nodal: CMC, Vellore",Not in source,Salmonella Typhi,Blood,Ciprofloxacin,95% Resistant,gyrA mutations (Inferred),1
+2024,National,"Nodal: JIPMER, Pondicherry",Not in source,Staphylococcus aureus (MRSA),Not in source,Methicillin,53% Resistant,mecA (Inferred),1
+2023,National,National AMRSN Network,ICU,Acinetobacter baumannii,All samples except faeces,Imipenem,5.4% Susceptible,"blaOXA-23 like (95% of CR isolates), blaNDM",2
+2023,National,National AMRSN Network,ICU,Pseudomonas aeruginosa,All specimens except faeces,Piperacillin-tazobactam,57.6% Susceptible,Metallo- $\beta$ -lactamase (MBL) predominantly NDM,2
+2023,North,Regional Center,Not in source,Escherichia coli,All Specimens (except faeces & urine),Piperacillin-tazobactam,34.8% Susceptible,NDM-1 (37%),2
+2023,West,Regional Center 2,Not in source,Escherichia coli,All Specimens (except faeces & urine),Cefotaxime,5.3% Susceptible,"OXA-48 (23%), NDM-1 (30%)",2
+2023,National,Regional Center 12,Not in source,Escherichia coli,All Specimens (except faeces & urine),Amikacin,52.2% Susceptible,"NDM-1 (73%), OXA-1 (46%)",2
+2023,National,Regional Center 4,Not in source,Klebsiella pneumoniae,All Specimens (except faeces & urine),Imipenem,54.3% Susceptible,"CTXM-15 (43%), OXA-48 (43%), NDM (38%)",2
+2023,South,Not in source,Not in source,Salmonella Typhi,Blood,Ciprofloxacin,1.6% Susceptible,gyrA and parC mutations (72.3% by WGS),2
+2023,National,Regional Center 19,Not in source,Candida auris,All Specimens,Fluconazole,Not in source,"ERG11 mutations (A395T, A428G)",2
+2022,National,AMRSN Network,ICU,Acinetobacter baumannii,Blood Stream Infection (BSI),Imipenem,11.7% Susceptible,blaOXA-23-like (76%),3
+2022,National,AMRSN Network,ICU,Enterococcus faecium,Urine,Vancomycin,63.2% Susceptible,vanA (100%),3
+2022,National,AMRSN Network,Ward,Staphylococcus aureus,Not in source,Oxacillin,56.6% Susceptible,mecA (100%),3
+2022,National,AMRSN Network,Not in source,Escherichia coli,Not in source,Imipenem,66.1% Susceptible,"CTXM-15 (34%), OXA-1 (28%), NDM-1 (19%)",3
+2022,National,AMRSN Network,Not in source,Candida auris,Not in source,Fluconazole,1.9% Susceptible,FKS gene mutation (position 635 and 639),"3, 4"
+2021,National,AIIMS New Delhi (Nodal Center),Not in source,Salmonella Typhi,Blood,Ciprofloxacin,88.9% Resistant,"gyrA (S83F, D87N), parC (S80I, D420N)",5
+2021,North India,Not in source,Not in source,Salmonella Typhi,Blood,Ampicillin,96% Susceptible,Not in source,5
+2021,West India,Not in source,Not in source,Salmonella Typhi,Blood,Ampicillin,100% Susceptible,Not in source,5
+2021,South India,Not in source,Not in source,Salmonella Typhi,Blood,Ampicillin,95.58% Susceptible,Not in source,5
+2021,North India,Not in source,Not in source,Salmonella Typhi,Blood,Azithromycin,100% Susceptible,Not in source,5
+2021,South India,Not in source,Not in source,Salmonella Typhi,Blood,Azithromycin,98.8% Susceptible,Not in source,5
+2021,National,JIPMER Puducherry (Nodal Center),Not in source,Staphylococcus aureus,Clinical isolates,Methicillin / Cefoxitin,42.6% Resistant,"mecA, ermC, msrA/B",5
+2021,National,Not in source,Blood Stream Infections,Enterococcus faecium,Blood,Vancomycin,37.5% Resistant,vanA,5
+2021,National,PGIMER Chandigarh (Nodal Center),Not in source,Acinetobacter baumannii,Clinical isolates / All samples except faeces,Carbapenems,87.5% Resistant,"blaOXA-23 like, blaNDM like",5
+2021,National,CMC Vellore (Nodal Center),Not in source,Pseudomonas aeruginosa,Clinical isolates,Carbapenems,Not in source,"blaNDM, blaVEB, blaTEM",5
+2021,National,Not in source,ICU,Klebsiella pneumoniae,All specimens,Imipenem,31% Susceptible,Not in source,5
+2021,National,Not in source,OPD,Klebsiella pneumoniae,All specimens,Imipenem,59% Susceptible,Not in source,5
+2021,National,Not in source,Not in source,Klebsiella pneumoniae,Not urine/faeces,Imipenem,43% Susceptible,Not in source,5
+2021,National,Not in source,Not in source,Escherichia coli,Not urine/faeces,Imipenem,64% Susceptible,Not in source,5
+2020,National,AMRSN Network,ICU,Staphylococcus aureus (MRSA),Blood,Vancomycin,100% Susceptible,mecA,6
+2020,National,AMRSN Network,Not in source,Salmonella Typhi,Blood,Ciprofloxacin,4.9% Susceptible,"gyrA (S83F, S83Y, D87N), parC (S80I, E84K)",6
+2020,National,AMRSN Network,Not in source,Escherichia coli,Not in source,Imipenem,72% Susceptible,"CTXM-1 (35%), OXA-1 (32%), VIM (27%), NDM (25%)",6
+2020,National,AMRSN Network,Not in source,Klebsiella pneumoniae,Not in source,Imipenem,45% Susceptible,"OXA-48 (48%), VIM (47%), CTXM-1 (45%)",6
+2020,National,AMRSN Network,Not in source,Acinetobacter baumannii,Not in source,Carbapenems,"11.1% S (Imipenem), 11.5% S (Meropenem)","blaOXA-23 like (41%), blaNDM like",6
+2020,National,AMRSN Network,Not in source,Pseudomonas aeruginosa,Not in source,Ciprofloxacin,57.6% Susceptible,"blaNDM, blaVIM, blaVEB",6
+2020,National,AMRSN Network,Not in source,Enterococcus faecium,Not in source,Vancomycin,78.5% Susceptible,vanA (100% in VRE),6
+2020,Karnataka,JSS Medical College,Not in source,Candida auris,Urine/Blood,Fluconazole,Resistant (MIC >32  $\mu$ g/ml),ERG11 (Y132F mutation),6
+2020,National,AMRSN Network,Not in source,Candida tropicalis,Blood,Fluconazole,95.2% Susceptible,"ERG11 (Y132F, S154F), CDR1, CDR2 overexpression",6
+2019,National,AMRSN Network,Not in source,Candida auris,Not in source,Caspofungin,69.4% Susceptible,"FKS1 (S639F, F635Y, F635L)",7
+2018,North,AIIMS,Not in source,Salmonella Typhi,Blood,Ciprofloxacin,5% Susceptible,"gyrA mutations (S83F, D87N), qnrB",4
+2018,National,AMRSN Network,ICU,Pseudomonas aeruginosa,Not in source,Ciprofloxacin,52.2% Susceptible,"blaVIM, blaNDM",4
+2018,National,AMRSN Network,Not in source,Escherichia coli,Not in source,Amikacin,80% Susceptible,"TEM (49%), OXA-1 (26%), SHV (11%)",4
+2018,National,AMRSN Network,Not in source,Klebsiella pneumoniae,Not in source,Imipenem,53% Susceptible,"TEM (59%), SHV (22%), OXA-1 (19%), NDM (31%), KPC (24%)",4
+2018,National,AMRSN Network,Not in source,Acinetobacter baumannii,Not in source,Meropenem,22.8% Susceptible,"OXA-23 like, NDM like",4
+2017,National,National (10 centers),Ward,Staphylococcus aureus (MRSA),Blood,Methicillin,31.9% Resistant,mecA gene PCR (positive in most isolates),"2, 8"
+2017,National,Nodal center,Not in source,Salmonella Typhi,Blood,Ciprofloxacin,15-18% Susceptible,"DNA gyrase mutations (S83 to F/Y, D87 to N/G/Y)",8

@@ -1,0 +1,841 @@
+Year,Center_Name,Pathogen,Antibiotic,Total_Isolates,Resistant_Isolates,Resistance_Percentage
+2022,"AIIMS, New Delhi",Escherichia coli,Imipenem,210,52,25.1
+2022,"AIIMS, New Delhi",Escherichia coli,Meropenem,210,57,27.3
+2022,"AIIMS, New Delhi",Escherichia coli,Ceftriaxone,210,68,32.7
+2022,"AIIMS, New Delhi",Escherichia coli,Ciprofloxacin,210,49,23.7
+2022,"AIIMS, New Delhi",Escherichia coli,Amikacin,210,40,19.2
+2022,"AIIMS, New Delhi",Escherichia coli,Colistin,210,4,2.3
+2022,"AIIMS, New Delhi",Klebsiella pneumoniae,Imipenem,194,110,57.1
+2022,"AIIMS, New Delhi",Klebsiella pneumoniae,Meropenem,194,118,61.0
+2022,"AIIMS, New Delhi",Klebsiella pneumoniae,Ceftriaxone,194,178,92.1
+2022,"AIIMS, New Delhi",Klebsiella pneumoniae,Ciprofloxacin,194,117,60.7
+2022,"AIIMS, New Delhi",Klebsiella pneumoniae,Amikacin,194,133,68.8
+2022,"AIIMS, New Delhi",Klebsiella pneumoniae,Colistin,194,13,6.9
+2022,"AIIMS, New Delhi",Staphylococcus aureus,Penicillin,138,66,48.1
+2022,"AIIMS, New Delhi",Staphylococcus aureus,Ciprofloxacin,138,63,45.9
+2022,"AIIMS, New Delhi",Staphylococcus aureus,Erythromycin,138,62,45.4
+2022,"AIIMS, New Delhi",Staphylococcus aureus,Clindamycin,138,65,47.4
+2022,"AIIMS, New Delhi",Staphylococcus aureus,Vancomycin,138,67,49.1
+2022,"AIIMS, New Delhi",Staphylococcus aureus,Linezolid,138,61,44.3
+2022,"AIIMS, New Delhi",Acinetobacter baumannii,Imipenem,292,174,59.9
+2022,"AIIMS, New Delhi",Acinetobacter baumannii,Meropenem,292,181,62.1
+2022,"AIIMS, New Delhi",Acinetobacter baumannii,Ceftriaxone,292,273,93.8
+2022,"AIIMS, New Delhi",Acinetobacter baumannii,Ciprofloxacin,292,189,65.0
+2022,"AIIMS, New Delhi",Acinetobacter baumannii,Amikacin,292,170,58.2
+2022,"AIIMS, New Delhi",Acinetobacter baumannii,Colistin,292,17,6.0
+2022,"AIIMS, New Delhi",Pseudomonas aeruginosa,Imipenem,520,99,19.1
+2022,"AIIMS, New Delhi",Pseudomonas aeruginosa,Meropenem,520,138,26.7
+2022,"AIIMS, New Delhi",Pseudomonas aeruginosa,Ceftriaxone,520,201,38.8
+2022,"AIIMS, New Delhi",Pseudomonas aeruginosa,Ciprofloxacin,520,111,21.4
+2022,"AIIMS, New Delhi",Pseudomonas aeruginosa,Amikacin,520,138,26.7
+2022,"AIIMS, New Delhi",Pseudomonas aeruginosa,Colistin,520,12,2.5
+2022,"CMC, Vellore",Escherichia coli,Imipenem,199,38,19.5
+2022,"CMC, Vellore",Escherichia coli,Meropenem,199,31,15.8
+2022,"CMC, Vellore",Escherichia coli,Ceftriaxone,199,54,27.6
+2022,"CMC, Vellore",Escherichia coli,Ciprofloxacin,199,28,14.5
+2022,"CMC, Vellore",Escherichia coli,Amikacin,199,31,15.6
+2022,"CMC, Vellore",Escherichia coli,Colistin,199,3,1.8
+2022,"CMC, Vellore",Klebsiella pneumoniae,Imipenem,208,95,46.0
+2022,"CMC, Vellore",Klebsiella pneumoniae,Meropenem,208,101,49.0
+2022,"CMC, Vellore",Klebsiella pneumoniae,Ceftriaxone,208,126,60.7
+2022,"CMC, Vellore",Klebsiella pneumoniae,Ciprofloxacin,208,78,37.9
+2022,"CMC, Vellore",Klebsiella pneumoniae,Amikacin,208,100,48.5
+2022,"CMC, Vellore",Klebsiella pneumoniae,Colistin,208,8,4.3
+2022,"CMC, Vellore",Staphylococcus aureus,Penicillin,110,40,37.2
+2022,"CMC, Vellore",Staphylococcus aureus,Ciprofloxacin,110,32,29.7
+2022,"CMC, Vellore",Staphylococcus aureus,Erythromycin,110,40,37.2
+2022,"CMC, Vellore",Staphylococcus aureus,Clindamycin,110,38,34.6
+2022,"CMC, Vellore",Staphylococcus aureus,Vancomycin,110,36,33.6
+2022,"CMC, Vellore",Staphylococcus aureus,Linezolid,110,42,38.2
+2022,"CMC, Vellore",Acinetobacter baumannii,Imipenem,54,25,47.6
+2022,"CMC, Vellore",Acinetobacter baumannii,Meropenem,54,26,49.0
+2022,"CMC, Vellore",Acinetobacter baumannii,Ceftriaxone,54,39,73.5
+2022,"CMC, Vellore",Acinetobacter baumannii,Ciprofloxacin,54,26,48.4
+2022,"CMC, Vellore",Acinetobacter baumannii,Amikacin,54,23,44.1
+2022,"CMC, Vellore",Acinetobacter baumannii,Colistin,54,2,4.2
+2022,"CMC, Vellore",Pseudomonas aeruginosa,Imipenem,71,13,18.6
+2022,"CMC, Vellore",Pseudomonas aeruginosa,Meropenem,71,14,19.8
+2022,"CMC, Vellore",Pseudomonas aeruginosa,Ceftriaxone,71,18,25.7
+2022,"CMC, Vellore",Pseudomonas aeruginosa,Ciprofloxacin,71,12,17.7
+2022,"CMC, Vellore",Pseudomonas aeruginosa,Amikacin,71,11,16.0
+2022,"CMC, Vellore",Pseudomonas aeruginosa,Colistin,71,1,1.6
+2022,"PGIMER, Chandigarh",Escherichia coli,Imipenem,733,183,25.1
+2022,"PGIMER, Chandigarh",Escherichia coli,Meropenem,733,146,20.0
+2022,"PGIMER, Chandigarh",Escherichia coli,Ceftriaxone,733,272,37.2
+2022,"PGIMER, Chandigarh",Escherichia coli,Ciprofloxacin,733,174,23.8
+2022,"PGIMER, Chandigarh",Escherichia coli,Amikacin,733,184,25.1
+2022,"PGIMER, Chandigarh",Escherichia coli,Colistin,733,18,2.6
+2022,"PGIMER, Chandigarh",Klebsiella pneumoniae,Imipenem,451,253,56.3
+2022,"PGIMER, Chandigarh",Klebsiella pneumoniae,Meropenem,451,279,62.0
+2022,"PGIMER, Chandigarh",Klebsiella pneumoniae,Ceftriaxone,451,349,77.6
+2022,"PGIMER, Chandigarh",Klebsiella pneumoniae,Ciprofloxacin,451,263,58.3
+2022,"PGIMER, Chandigarh",Klebsiella pneumoniae,Amikacin,451,268,59.6
+2022,"PGIMER, Chandigarh",Klebsiella pneumoniae,Colistin,451,29,6.6
+2022,"PGIMER, Chandigarh",Staphylococcus aureus,Penicillin,711,314,44.2
+2022,"PGIMER, Chandigarh",Staphylococcus aureus,Ciprofloxacin,711,355,50.0
+2022,"PGIMER, Chandigarh",Staphylococcus aureus,Erythromycin,711,371,52.2
+2022,"PGIMER, Chandigarh",Staphylococcus aureus,Clindamycin,711,419,59.0
+2022,"PGIMER, Chandigarh",Staphylococcus aureus,Vancomycin,711,396,55.8
+2022,"PGIMER, Chandigarh",Staphylococcus aureus,Linezolid,711,369,52.0
+2022,"PGIMER, Chandigarh",Acinetobacter baumannii,Imipenem,963,493,51.2
+2022,"PGIMER, Chandigarh",Acinetobacter baumannii,Meropenem,963,629,65.4
+2022,"PGIMER, Chandigarh",Acinetobacter baumannii,Ceftriaxone,963,857,89.1
+2022,"PGIMER, Chandigarh",Acinetobacter baumannii,Ciprofloxacin,963,522,54.3
+2022,"PGIMER, Chandigarh",Acinetobacter baumannii,Amikacin,963,553,57.5
+2022,"PGIMER, Chandigarh",Acinetobacter baumannii,Colistin,963,49,5.2
+2022,"PGIMER, Chandigarh",Pseudomonas aeruginosa,Imipenem,965,213,22.1
+2022,"PGIMER, Chandigarh",Pseudomonas aeruginosa,Meropenem,965,223,23.1
+2022,"PGIMER, Chandigarh",Pseudomonas aeruginosa,Ceftriaxone,965,372,38.6
+2022,"PGIMER, Chandigarh",Pseudomonas aeruginosa,Ciprofloxacin,965,225,23.4
+2022,"PGIMER, Chandigarh",Pseudomonas aeruginosa,Amikacin,965,251,26.0
+2022,"PGIMER, Chandigarh",Pseudomonas aeruginosa,Colistin,965,20,2.1
+2022,"JIPMER, Puducherry",Escherichia coli,Imipenem,527,94,18.0
+2022,"JIPMER, Puducherry",Escherichia coli,Meropenem,527,92,17.6
+2022,"JIPMER, Puducherry",Escherichia coli,Ceftriaxone,527,122,23.2
+2022,"JIPMER, Puducherry",Escherichia coli,Ciprofloxacin,527,90,17.2
+2022,"JIPMER, Puducherry",Escherichia coli,Amikacin,527,91,17.4
+2022,"JIPMER, Puducherry",Escherichia coli,Colistin,527,8,1.7
+2022,"JIPMER, Puducherry",Klebsiella pneumoniae,Imipenem,563,258,46.0
+2022,"JIPMER, Puducherry",Klebsiella pneumoniae,Meropenem,563,202,35.9
+2022,"JIPMER, Puducherry",Klebsiella pneumoniae,Ceftriaxone,563,344,61.1
+2022,"JIPMER, Puducherry",Klebsiella pneumoniae,Ciprofloxacin,563,288,51.3
+2022,"JIPMER, Puducherry",Klebsiella pneumoniae,Amikacin,563,252,44.9
+2022,"JIPMER, Puducherry",Klebsiella pneumoniae,Colistin,563,21,3.7
+2022,"JIPMER, Puducherry",Staphylococcus aureus,Penicillin,280,101,36.2
+2022,"JIPMER, Puducherry",Staphylococcus aureus,Ciprofloxacin,280,125,44.9
+2022,"JIPMER, Puducherry",Staphylococcus aureus,Erythromycin,280,98,35.3
+2022,"JIPMER, Puducherry",Staphylococcus aureus,Clindamycin,280,103,37.1
+2022,"JIPMER, Puducherry",Staphylococcus aureus,Vancomycin,280,100,35.9
+2022,"JIPMER, Puducherry",Staphylococcus aureus,Linezolid,280,89,31.8
+2022,"JIPMER, Puducherry",Acinetobacter baumannii,Imipenem,582,281,48.5
+2022,"JIPMER, Puducherry",Acinetobacter baumannii,Meropenem,582,231,39.8
+2022,"JIPMER, Puducherry",Acinetobacter baumannii,Ceftriaxone,582,362,62.3
+2022,"JIPMER, Puducherry",Acinetobacter baumannii,Ciprofloxacin,582,282,48.5
+2022,"JIPMER, Puducherry",Acinetobacter baumannii,Amikacin,582,240,41.4
+2022,"JIPMER, Puducherry",Acinetobacter baumannii,Colistin,582,29,5.1
+2022,"JIPMER, Puducherry",Pseudomonas aeruginosa,Imipenem,426,81,19.1
+2022,"JIPMER, Puducherry",Pseudomonas aeruginosa,Meropenem,426,93,21.9
+2022,"JIPMER, Puducherry",Pseudomonas aeruginosa,Ceftriaxone,426,103,24.3
+2022,"JIPMER, Puducherry",Pseudomonas aeruginosa,Ciprofloxacin,426,72,17.0
+2022,"JIPMER, Puducherry",Pseudomonas aeruginosa,Amikacin,426,77,18.2
+2022,"JIPMER, Puducherry",Pseudomonas aeruginosa,Colistin,426,7,1.7
+2022,"Apollo Hospital, Chennai",Escherichia coli,Imipenem,257,39,15.2
+2022,"Apollo Hospital, Chennai",Escherichia coli,Meropenem,257,46,18.1
+2022,"Apollo Hospital, Chennai",Escherichia coli,Ceftriaxone,257,62,24.1
+2022,"Apollo Hospital, Chennai",Escherichia coli,Ciprofloxacin,257,48,18.9
+2022,"Apollo Hospital, Chennai",Escherichia coli,Amikacin,257,42,16.3
+2022,"Apollo Hospital, Chennai",Escherichia coli,Colistin,257,5,2.1
+2022,"Apollo Hospital, Chennai",Klebsiella pneumoniae,Imipenem,935,404,43.3
+2022,"Apollo Hospital, Chennai",Klebsiella pneumoniae,Meropenem,935,383,41.0
+2022,"Apollo Hospital, Chennai",Klebsiella pneumoniae,Ceftriaxone,935,608,65.1
+2022,"Apollo Hospital, Chennai",Klebsiella pneumoniae,Ciprofloxacin,935,444,47.5
+2022,"Apollo Hospital, Chennai",Klebsiella pneumoniae,Amikacin,935,464,49.7
+2022,"Apollo Hospital, Chennai",Klebsiella pneumoniae,Colistin,935,44,4.7
+2022,"Apollo Hospital, Chennai",Staphylococcus aureus,Penicillin,654,197,30.2
+2022,"Apollo Hospital, Chennai",Staphylococcus aureus,Ciprofloxacin,654,239,36.7
+2022,"Apollo Hospital, Chennai",Staphylococcus aureus,Erythromycin,654,241,36.9
+2022,"Apollo Hospital, Chennai",Staphylococcus aureus,Clindamycin,654,253,38.8
+2022,"Apollo Hospital, Chennai",Staphylococcus aureus,Vancomycin,654,206,31.5
+2022,"Apollo Hospital, Chennai",Staphylococcus aureus,Linezolid,654,204,31.2
+2022,"Apollo Hospital, Chennai",Acinetobacter baumannii,Imipenem,780,372,47.8
+2022,"Apollo Hospital, Chennai",Acinetobacter baumannii,Meropenem,780,393,50.5
+2022,"Apollo Hospital, Chennai",Acinetobacter baumannii,Ceftriaxone,780,538,69.0
+2022,"Apollo Hospital, Chennai",Acinetobacter baumannii,Ciprofloxacin,780,380,48.8
+2022,"Apollo Hospital, Chennai",Acinetobacter baumannii,Amikacin,780,357,45.8
+2022,"Apollo Hospital, Chennai",Acinetobacter baumannii,Colistin,780,30,4.0
+2022,"Apollo Hospital, Chennai",Pseudomonas aeruginosa,Imipenem,755,119,15.9
+2022,"Apollo Hospital, Chennai",Pseudomonas aeruginosa,Meropenem,755,144,19.2
+2022,"Apollo Hospital, Chennai",Pseudomonas aeruginosa,Ceftriaxone,755,183,24.4
+2022,"Apollo Hospital, Chennai",Pseudomonas aeruginosa,Ciprofloxacin,755,146,19.4
+2022,"Apollo Hospital, Chennai",Pseudomonas aeruginosa,Amikacin,755,151,20.1
+2022,"Apollo Hospital, Chennai",Pseudomonas aeruginosa,Colistin,755,12,1.7
+2022,"Tata Memorial Hospital, Mumbai",Escherichia coli,Imipenem,781,127,16.3
+2022,"Tata Memorial Hospital, Mumbai",Escherichia coli,Meropenem,781,156,20.0
+2022,"Tata Memorial Hospital, Mumbai",Escherichia coli,Ceftriaxone,781,224,28.7
+2022,"Tata Memorial Hospital, Mumbai",Escherichia coli,Ciprofloxacin,781,183,23.5
+2022,"Tata Memorial Hospital, Mumbai",Escherichia coli,Amikacin,781,122,15.6
+2022,"Tata Memorial Hospital, Mumbai",Escherichia coli,Colistin,781,15,1.9
+2022,"Tata Memorial Hospital, Mumbai",Klebsiella pneumoniae,Imipenem,669,300,44.9
+2022,"Tata Memorial Hospital, Mumbai",Klebsiella pneumoniae,Meropenem,669,313,46.9
+2022,"Tata Memorial Hospital, Mumbai",Klebsiella pneumoniae,Ceftriaxone,669,445,66.5
+2022,"Tata Memorial Hospital, Mumbai",Klebsiella pneumoniae,Ciprofloxacin,669,327,48.9
+2022,"Tata Memorial Hospital, Mumbai",Klebsiella pneumoniae,Amikacin,669,340,50.9
+2022,"Tata Memorial Hospital, Mumbai",Klebsiella pneumoniae,Colistin,669,26,3.9
+2022,"Tata Memorial Hospital, Mumbai",Staphylococcus aureus,Penicillin,727,251,34.7
+2022,"Tata Memorial Hospital, Mumbai",Staphylococcus aureus,Ciprofloxacin,727,274,37.8
+2022,"Tata Memorial Hospital, Mumbai",Staphylococcus aureus,Erythromycin,727,334,46.0
+2022,"Tata Memorial Hospital, Mumbai",Staphylococcus aureus,Clindamycin,727,260,35.9
+2022,"Tata Memorial Hospital, Mumbai",Staphylococcus aureus,Vancomycin,727,261,36.0
+2022,"Tata Memorial Hospital, Mumbai",Staphylococcus aureus,Linezolid,727,266,36.7
+2022,"Tata Memorial Hospital, Mumbai",Acinetobacter baumannii,Imipenem,444,206,46.5
+2022,"Tata Memorial Hospital, Mumbai",Acinetobacter baumannii,Meropenem,444,209,47.3
+2022,"Tata Memorial Hospital, Mumbai",Acinetobacter baumannii,Ceftriaxone,444,295,66.6
+2022,"Tata Memorial Hospital, Mumbai",Acinetobacter baumannii,Ciprofloxacin,444,206,46.5
+2022,"Tata Memorial Hospital, Mumbai",Acinetobacter baumannii,Amikacin,444,242,54.5
+2022,"Tata Memorial Hospital, Mumbai",Acinetobacter baumannii,Colistin,444,23,5.2
+2022,"Tata Memorial Hospital, Mumbai",Pseudomonas aeruginosa,Imipenem,953,167,17.6
+2022,"Tata Memorial Hospital, Mumbai",Pseudomonas aeruginosa,Meropenem,953,163,17.1
+2022,"Tata Memorial Hospital, Mumbai",Pseudomonas aeruginosa,Ceftriaxone,953,241,25.4
+2022,"Tata Memorial Hospital, Mumbai",Pseudomonas aeruginosa,Ciprofloxacin,953,157,16.5
+2022,"Tata Memorial Hospital, Mumbai",Pseudomonas aeruginosa,Amikacin,953,131,13.8
+2022,"Tata Memorial Hospital, Mumbai",Pseudomonas aeruginosa,Colistin,953,16,1.8
+2022,"Kaling Institute, Bhubaneswar",Escherichia coli,Imipenem,797,152,19.1
+2022,"Kaling Institute, Bhubaneswar",Escherichia coli,Meropenem,797,127,16.1
+2022,"Kaling Institute, Bhubaneswar",Escherichia coli,Ceftriaxone,797,187,23.5
+2022,"Kaling Institute, Bhubaneswar",Escherichia coli,Ciprofloxacin,797,132,16.6
+2022,"Kaling Institute, Bhubaneswar",Escherichia coli,Amikacin,797,128,16.2
+2022,"Kaling Institute, Bhubaneswar",Escherichia coli,Colistin,797,12,1.6
+2022,"Kaling Institute, Bhubaneswar",Klebsiella pneumoniae,Imipenem,800,375,46.9
+2022,"Kaling Institute, Bhubaneswar",Klebsiella pneumoniae,Meropenem,800,333,41.7
+2022,"Kaling Institute, Bhubaneswar",Klebsiella pneumoniae,Ceftriaxone,800,442,55.3
+2022,"Kaling Institute, Bhubaneswar",Klebsiella pneumoniae,Ciprofloxacin,800,376,47.1
+2022,"Kaling Institute, Bhubaneswar",Klebsiella pneumoniae,Amikacin,800,304,38.0
+2022,"Kaling Institute, Bhubaneswar",Klebsiella pneumoniae,Colistin,800,34,4.3
+2022,"Kaling Institute, Bhubaneswar",Staphylococcus aureus,Penicillin,640,203,31.7
+2022,"Kaling Institute, Bhubaneswar",Staphylococcus aureus,Ciprofloxacin,640,241,37.8
+2022,"Kaling Institute, Bhubaneswar",Staphylococcus aureus,Erythromycin,640,226,35.4
+2022,"Kaling Institute, Bhubaneswar",Staphylococcus aureus,Clindamycin,640,214,33.5
+2022,"Kaling Institute, Bhubaneswar",Staphylococcus aureus,Vancomycin,640,231,36.2
+2022,"Kaling Institute, Bhubaneswar",Staphylococcus aureus,Linezolid,640,220,34.5
+2022,"Kaling Institute, Bhubaneswar",Acinetobacter baumannii,Imipenem,522,206,39.6
+2022,"Kaling Institute, Bhubaneswar",Acinetobacter baumannii,Meropenem,522,263,50.4
+2022,"Kaling Institute, Bhubaneswar",Acinetobacter baumannii,Ceftriaxone,522,357,68.5
+2022,"Kaling Institute, Bhubaneswar",Acinetobacter baumannii,Ciprofloxacin,522,238,45.6
+2022,"Kaling Institute, Bhubaneswar",Acinetobacter baumannii,Amikacin,522,243,46.6
+2022,"Kaling Institute, Bhubaneswar",Acinetobacter baumannii,Colistin,522,19,3.7
+2022,"Kaling Institute, Bhubaneswar",Pseudomonas aeruginosa,Imipenem,447,76,17.0
+2022,"Kaling Institute, Bhubaneswar",Pseudomonas aeruginosa,Meropenem,447,86,19.4
+2022,"Kaling Institute, Bhubaneswar",Pseudomonas aeruginosa,Ceftriaxone,447,120,26.9
+2022,"Kaling Institute, Bhubaneswar",Pseudomonas aeruginosa,Ciprofloxacin,447,84,18.9
+2022,"Kaling Institute, Bhubaneswar",Pseudomonas aeruginosa,Amikacin,447,77,17.3
+2022,"Kaling Institute, Bhubaneswar",Pseudomonas aeruginosa,Colistin,447,8,1.9
+2022,"Amrita Institute, Kochi",Escherichia coli,Imipenem,169,30,17.8
+2022,"Amrita Institute, Kochi",Escherichia coli,Meropenem,169,28,17.1
+2022,"Amrita Institute, Kochi",Escherichia coli,Ceftriaxone,169,52,31.3
+2022,"Amrita Institute, Kochi",Escherichia coli,Ciprofloxacin,169,29,17.2
+2022,"Amrita Institute, Kochi",Escherichia coli,Amikacin,169,28,16.7
+2022,"Amrita Institute, Kochi",Escherichia coli,Colistin,169,2,1.7
+2022,"Amrita Institute, Kochi",Klebsiella pneumoniae,Imipenem,67,35,53.0
+2022,"Amrita Institute, Kochi",Klebsiella pneumoniae,Meropenem,67,28,42.0
+2022,"Amrita Institute, Kochi",Klebsiella pneumoniae,Ceftriaxone,67,38,57.0
+2022,"Amrita Institute, Kochi",Klebsiella pneumoniae,Ciprofloxacin,67,29,43.5
+2022,"Amrita Institute, Kochi",Klebsiella pneumoniae,Amikacin,67,30,45.8
+2022,"Amrita Institute, Kochi",Klebsiella pneumoniae,Colistin,67,3,4.8
+2022,"Amrita Institute, Kochi",Staphylococcus aureus,Penicillin,139,46,33.2
+2022,"Amrita Institute, Kochi",Staphylococcus aureus,Ciprofloxacin,139,59,42.9
+2022,"Amrita Institute, Kochi",Staphylococcus aureus,Erythromycin,139,44,31.7
+2022,"Amrita Institute, Kochi",Staphylococcus aureus,Clindamycin,139,51,36.8
+2022,"Amrita Institute, Kochi",Staphylococcus aureus,Vancomycin,139,48,34.8
+2022,"Amrita Institute, Kochi",Staphylococcus aureus,Linezolid,139,45,33.1
+2022,"Amrita Institute, Kochi",Acinetobacter baumannii,Imipenem,69,30,43.7
+2022,"Amrita Institute, Kochi",Acinetobacter baumannii,Meropenem,69,29,42.3
+2022,"Amrita Institute, Kochi",Acinetobacter baumannii,Ceftriaxone,69,44,63.8
+2022,"Amrita Institute, Kochi",Acinetobacter baumannii,Ciprofloxacin,69,34,49.9
+2022,"Amrita Institute, Kochi",Acinetobacter baumannii,Amikacin,69,37,54.5
+2022,"Amrita Institute, Kochi",Acinetobacter baumannii,Colistin,69,2,4.3
+2022,"Amrita Institute, Kochi",Pseudomonas aeruginosa,Imipenem,62,11,18.0
+2022,"Amrita Institute, Kochi",Pseudomonas aeruginosa,Meropenem,62,12,19.4
+2022,"Amrita Institute, Kochi",Pseudomonas aeruginosa,Ceftriaxone,62,19,32.2
+2022,"Amrita Institute, Kochi",Pseudomonas aeruginosa,Ciprofloxacin,62,11,18.7
+2022,"Amrita Institute, Kochi",Pseudomonas aeruginosa,Amikacin,62,11,19.0
+2022,"Amrita Institute, Kochi",Pseudomonas aeruginosa,Colistin,62,1,1.8
+2022,"Sams Hospital, Hyderabad",Escherichia coli,Imipenem,302,57,19.2
+2022,"Sams Hospital, Hyderabad",Escherichia coli,Meropenem,302,55,18.2
+2022,"Sams Hospital, Hyderabad",Escherichia coli,Ceftriaxone,302,66,21.9
+2022,"Sams Hospital, Hyderabad",Escherichia coli,Ciprofloxacin,302,61,20.3
+2022,"Sams Hospital, Hyderabad",Escherichia coli,Amikacin,302,51,16.9
+2022,"Sams Hospital, Hyderabad",Escherichia coli,Colistin,302,6,2.2
+2022,"Sams Hospital, Hyderabad",Klebsiella pneumoniae,Imipenem,739,327,44.3
+2022,"Sams Hospital, Hyderabad",Klebsiella pneumoniae,Meropenem,739,352,47.6
+2022,"Sams Hospital, Hyderabad",Klebsiella pneumoniae,Ceftriaxone,739,512,69.4
+2022,"Sams Hospital, Hyderabad",Klebsiella pneumoniae,Ciprofloxacin,739,311,42.2
+2022,"Sams Hospital, Hyderabad",Klebsiella pneumoniae,Amikacin,739,325,44.1
+2022,"Sams Hospital, Hyderabad",Klebsiella pneumoniae,Colistin,739,31,4.3
+2022,"Sams Hospital, Hyderabad",Staphylococcus aureus,Penicillin,991,334,33.8
+2022,"Sams Hospital, Hyderabad",Staphylococcus aureus,Ciprofloxacin,991,344,34.7
+2022,"Sams Hospital, Hyderabad",Staphylococcus aureus,Erythromycin,991,390,39.4
+2022,"Sams Hospital, Hyderabad",Staphylococcus aureus,Clindamycin,991,408,41.2
+2022,"Sams Hospital, Hyderabad",Staphylococcus aureus,Vancomycin,991,369,37.3
+2022,"Sams Hospital, Hyderabad",Staphylococcus aureus,Linezolid,991,377,38.1
+2022,"Sams Hospital, Hyderabad",Acinetobacter baumannii,Imipenem,956,394,41.3
+2022,"Sams Hospital, Hyderabad",Acinetobacter baumannii,Meropenem,956,406,42.5
+2022,"Sams Hospital, Hyderabad",Acinetobacter baumannii,Ceftriaxone,956,693,72.5
+2022,"Sams Hospital, Hyderabad",Acinetobacter baumannii,Ciprofloxacin,956,456,47.7
+2022,"Sams Hospital, Hyderabad",Acinetobacter baumannii,Amikacin,956,429,44.9
+2022,"Sams Hospital, Hyderabad",Acinetobacter baumannii,Colistin,956,43,4.6
+2022,"Sams Hospital, Hyderabad",Pseudomonas aeruginosa,Imipenem,593,99,16.8
+2022,"Sams Hospital, Hyderabad",Pseudomonas aeruginosa,Meropenem,593,119,20.1
+2022,"Sams Hospital, Hyderabad",Pseudomonas aeruginosa,Ceftriaxone,593,184,31.2
+2022,"Sams Hospital, Hyderabad",Pseudomonas aeruginosa,Ciprofloxacin,593,102,17.2
+2022,"Sams Hospital, Hyderabad",Pseudomonas aeruginosa,Amikacin,593,102,17.3
+2022,"Sams Hospital, Hyderabad",Pseudomonas aeruginosa,Colistin,593,10,1.8
+2022,"King George Medical Univ, Lucknow",Escherichia coli,Imipenem,467,84,18.1
+2022,"King George Medical Univ, Lucknow",Escherichia coli,Meropenem,467,111,23.8
+2022,"King George Medical Univ, Lucknow",Escherichia coli,Ceftriaxone,467,158,33.9
+2022,"King George Medical Univ, Lucknow",Escherichia coli,Ciprofloxacin,467,108,23.3
+2022,"King George Medical Univ, Lucknow",Escherichia coli,Amikacin,467,107,23.0
+2022,"King George Medical Univ, Lucknow",Escherichia coli,Colistin,467,12,2.6
+2022,"King George Medical Univ, Lucknow",Klebsiella pneumoniae,Imipenem,695,408,58.8
+2022,"King George Medical Univ, Lucknow",Klebsiella pneumoniae,Meropenem,695,501,72.1
+2022,"King George Medical Univ, Lucknow",Klebsiella pneumoniae,Ceftriaxone,695,572,82.3
+2022,"King George Medical Univ, Lucknow",Klebsiella pneumoniae,Ciprofloxacin,695,416,59.9
+2022,"King George Medical Univ, Lucknow",Klebsiella pneumoniae,Amikacin,695,425,61.2
+2022,"King George Medical Univ, Lucknow",Klebsiella pneumoniae,Colistin,695,38,5.5
+2022,"King George Medical Univ, Lucknow",Staphylococcus aureus,Penicillin,477,221,46.4
+2022,"King George Medical Univ, Lucknow",Staphylococcus aureus,Ciprofloxacin,477,234,49.2
+2022,"King George Medical Univ, Lucknow",Staphylococcus aureus,Erythromycin,477,236,49.6
+2022,"King George Medical Univ, Lucknow",Staphylococcus aureus,Clindamycin,477,267,56.0
+2022,"King George Medical Univ, Lucknow",Staphylococcus aureus,Vancomycin,477,249,52.3
+2022,"King George Medical Univ, Lucknow",Staphylococcus aureus,Linezolid,477,240,50.4
+2022,"King George Medical Univ, Lucknow",Acinetobacter baumannii,Imipenem,646,377,58.4
+2022,"King George Medical Univ, Lucknow",Acinetobacter baumannii,Meropenem,646,433,67.1
+2022,"King George Medical Univ, Lucknow",Acinetobacter baumannii,Ceftriaxone,646,552,85.5
+2022,"King George Medical Univ, Lucknow",Acinetobacter baumannii,Ciprofloxacin,646,335,51.9
+2022,"King George Medical Univ, Lucknow",Acinetobacter baumannii,Amikacin,646,326,50.5
+2022,"King George Medical Univ, Lucknow",Acinetobacter baumannii,Colistin,646,39,6.0
+2022,"King George Medical Univ, Lucknow",Pseudomonas aeruginosa,Imipenem,492,121,24.7
+2022,"King George Medical Univ, Lucknow",Pseudomonas aeruginosa,Meropenem,492,115,23.6
+2022,"King George Medical Univ, Lucknow",Pseudomonas aeruginosa,Ceftriaxone,492,146,29.7
+2022,"King George Medical Univ, Lucknow",Pseudomonas aeruginosa,Ciprofloxacin,492,130,26.6
+2022,"King George Medical Univ, Lucknow",Pseudomonas aeruginosa,Amikacin,492,116,23.6
+2022,"King George Medical Univ, Lucknow",Pseudomonas aeruginosa,Colistin,492,14,2.8
+2022,"IPGMER, Kolkata",Escherichia coli,Imipenem,531,88,16.6
+2022,"IPGMER, Kolkata",Escherichia coli,Meropenem,531,84,15.9
+2022,"IPGMER, Kolkata",Escherichia coli,Ceftriaxone,531,120,22.7
+2022,"IPGMER, Kolkata",Escherichia coli,Ciprofloxacin,531,91,17.2
+2022,"IPGMER, Kolkata",Escherichia coli,Amikacin,531,109,20.6
+2022,"IPGMER, Kolkata",Escherichia coli,Colistin,531,7,1.5
+2022,"IPGMER, Kolkata",Klebsiella pneumoniae,Imipenem,549,263,47.9
+2022,"IPGMER, Kolkata",Klebsiella pneumoniae,Meropenem,549,260,47.4
+2022,"IPGMER, Kolkata",Klebsiella pneumoniae,Ceftriaxone,549,401,73.2
+2022,"IPGMER, Kolkata",Klebsiella pneumoniae,Ciprofloxacin,549,275,50.1
+2022,"IPGMER, Kolkata",Klebsiella pneumoniae,Amikacin,549,233,42.6
+2022,"IPGMER, Kolkata",Klebsiella pneumoniae,Colistin,549,21,3.9
+2022,"IPGMER, Kolkata",Staphylococcus aureus,Penicillin,414,149,36.2
+2022,"IPGMER, Kolkata",Staphylococcus aureus,Ciprofloxacin,414,136,33.0
+2022,"IPGMER, Kolkata",Staphylococcus aureus,Erythromycin,414,169,40.9
+2022,"IPGMER, Kolkata",Staphylococcus aureus,Clindamycin,414,144,35.0
+2022,"IPGMER, Kolkata",Staphylococcus aureus,Vancomycin,414,149,36.2
+2022,"IPGMER, Kolkata",Staphylococcus aureus,Linezolid,414,154,37.4
+2022,"IPGMER, Kolkata",Acinetobacter baumannii,Imipenem,335,148,44.2
+2022,"IPGMER, Kolkata",Acinetobacter baumannii,Meropenem,335,155,46.3
+2022,"IPGMER, Kolkata",Acinetobacter baumannii,Ceftriaxone,335,215,64.3
+2022,"IPGMER, Kolkata",Acinetobacter baumannii,Ciprofloxacin,335,154,46.0
+2022,"IPGMER, Kolkata",Acinetobacter baumannii,Amikacin,335,143,42.9
+2022,"IPGMER, Kolkata",Acinetobacter baumannii,Colistin,335,14,4.2
+2022,"IPGMER, Kolkata",Pseudomonas aeruginosa,Imipenem,321,66,20.6
+2022,"IPGMER, Kolkata",Pseudomonas aeruginosa,Meropenem,321,53,16.7
+2022,"IPGMER, Kolkata",Pseudomonas aeruginosa,Ceftriaxone,321,85,26.6
+2022,"IPGMER, Kolkata",Pseudomonas aeruginosa,Ciprofloxacin,321,54,16.9
+2022,"IPGMER, Kolkata",Pseudomonas aeruginosa,Amikacin,321,55,17.4
+2022,"IPGMER, Kolkata",Pseudomonas aeruginosa,Colistin,321,5,1.7
+2022,"SMS Hospital, Jaipur",Escherichia coli,Imipenem,257,48,18.9
+2022,"SMS Hospital, Jaipur",Escherichia coli,Meropenem,257,58,22.7
+2022,"SMS Hospital, Jaipur",Escherichia coli,Ceftriaxone,257,85,33.3
+2022,"SMS Hospital, Jaipur",Escherichia coli,Ciprofloxacin,257,62,24.4
+2022,"SMS Hospital, Jaipur",Escherichia coli,Amikacin,257,63,24.8
+2022,"SMS Hospital, Jaipur",Escherichia coli,Colistin,257,7,2.9
+2022,"SMS Hospital, Jaipur",Klebsiella pneumoniae,Imipenem,317,201,63.4
+2022,"SMS Hospital, Jaipur",Klebsiella pneumoniae,Meropenem,317,208,65.8
+2022,"SMS Hospital, Jaipur",Klebsiella pneumoniae,Ceftriaxone,317,306,96.7
+2022,"SMS Hospital, Jaipur",Klebsiella pneumoniae,Ciprofloxacin,317,218,68.9
+2022,"SMS Hospital, Jaipur",Klebsiella pneumoniae,Amikacin,317,203,64.2
+2022,"SMS Hospital, Jaipur",Klebsiella pneumoniae,Colistin,317,18,5.9
+2022,"SMS Hospital, Jaipur",Staphylococcus aureus,Penicillin,591,317,53.7
+2022,"SMS Hospital, Jaipur",Staphylococcus aureus,Ciprofloxacin,591,270,45.7
+2022,"SMS Hospital, Jaipur",Staphylococcus aureus,Erythromycin,591,235,39.8
+2022,"SMS Hospital, Jaipur",Staphylococcus aureus,Clindamycin,591,322,54.5
+2022,"SMS Hospital, Jaipur",Staphylococcus aureus,Vancomycin,591,280,47.5
+2022,"SMS Hospital, Jaipur",Staphylococcus aureus,Linezolid,591,318,53.9
+2022,"SMS Hospital, Jaipur",Acinetobacter baumannii,Imipenem,369,218,59.3
+2022,"SMS Hospital, Jaipur",Acinetobacter baumannii,Meropenem,369,220,59.7
+2022,"SMS Hospital, Jaipur",Acinetobacter baumannii,Ceftriaxone,369,340,92.3
+2022,"SMS Hospital, Jaipur",Acinetobacter baumannii,Ciprofloxacin,369,228,61.8
+2022,"SMS Hospital, Jaipur",Acinetobacter baumannii,Amikacin,369,254,69.1
+2022,"SMS Hospital, Jaipur",Acinetobacter baumannii,Colistin,369,22,6.2
+2022,"SMS Hospital, Jaipur",Pseudomonas aeruginosa,Imipenem,630,144,22.9
+2022,"SMS Hospital, Jaipur",Pseudomonas aeruginosa,Meropenem,630,160,25.5
+2022,"SMS Hospital, Jaipur",Pseudomonas aeruginosa,Ceftriaxone,630,202,32.2
+2022,"SMS Hospital, Jaipur",Pseudomonas aeruginosa,Ciprofloxacin,630,149,23.7
+2022,"SMS Hospital, Jaipur",Pseudomonas aeruginosa,Amikacin,630,153,24.3
+2022,"SMS Hospital, Jaipur",Pseudomonas aeruginosa,Colistin,630,15,2.5
+2022,"RIMS, Ranchi",Escherichia coli,Imipenem,715,83,11.7
+2022,"RIMS, Ranchi",Escherichia coli,Meropenem,715,125,17.5
+2022,"RIMS, Ranchi",Escherichia coli,Ceftriaxone,715,183,25.6
+2022,"RIMS, Ranchi",Escherichia coli,Ciprofloxacin,715,140,19.6
+2022,"RIMS, Ranchi",Escherichia coli,Amikacin,715,121,17.0
+2022,"RIMS, Ranchi",Escherichia coli,Colistin,715,16,2.3
+2022,"RIMS, Ranchi",Klebsiella pneumoniae,Imipenem,445,212,47.7
+2022,"RIMS, Ranchi",Klebsiella pneumoniae,Meropenem,445,224,50.5
+2022,"RIMS, Ranchi",Klebsiella pneumoniae,Ceftriaxone,445,306,68.9
+2022,"RIMS, Ranchi",Klebsiella pneumoniae,Ciprofloxacin,445,201,45.2
+2022,"RIMS, Ranchi",Klebsiella pneumoniae,Amikacin,445,232,52.2
+2022,"RIMS, Ranchi",Klebsiella pneumoniae,Colistin,445,22,5.1
+2022,"RIMS, Ranchi",Staphylococcus aureus,Penicillin,524,193,36.9
+2022,"RIMS, Ranchi",Staphylococcus aureus,Ciprofloxacin,524,180,34.4
+2022,"RIMS, Ranchi",Staphylococcus aureus,Erythromycin,524,150,28.7
+2022,"RIMS, Ranchi",Staphylococcus aureus,Clindamycin,524,225,43.1
+2022,"RIMS, Ranchi",Staphylococcus aureus,Vancomycin,524,183,35.1
+2022,"RIMS, Ranchi",Staphylococcus aureus,Linezolid,524,198,37.9
+2022,"RIMS, Ranchi",Acinetobacter baumannii,Imipenem,506,249,49.4
+2022,"RIMS, Ranchi",Acinetobacter baumannii,Meropenem,506,242,47.9
+2022,"RIMS, Ranchi",Acinetobacter baumannii,Ceftriaxone,506,382,75.7
+2022,"RIMS, Ranchi",Acinetobacter baumannii,Ciprofloxacin,506,224,44.4
+2022,"RIMS, Ranchi",Acinetobacter baumannii,Amikacin,506,230,45.6
+2022,"RIMS, Ranchi",Acinetobacter baumannii,Colistin,506,21,4.3
+2022,"RIMS, Ranchi",Pseudomonas aeruginosa,Imipenem,402,75,18.7
+2022,"RIMS, Ranchi",Pseudomonas aeruginosa,Meropenem,402,62,15.5
+2022,"RIMS, Ranchi",Pseudomonas aeruginosa,Ceftriaxone,402,113,28.3
+2022,"RIMS, Ranchi",Pseudomonas aeruginosa,Ciprofloxacin,402,57,14.3
+2022,"RIMS, Ranchi",Pseudomonas aeruginosa,Amikacin,402,89,22.2
+2022,"RIMS, Ranchi",Pseudomonas aeruginosa,Colistin,402,6,1.6
+2022,"GMCH, Guwahati",Escherichia coli,Imipenem,353,56,16.0
+2022,"GMCH, Guwahati",Escherichia coli,Meropenem,353,66,18.9
+2022,"GMCH, Guwahati",Escherichia coli,Ceftriaxone,353,102,29.0
+2022,"GMCH, Guwahati",Escherichia coli,Ciprofloxacin,353,61,17.5
+2022,"GMCH, Guwahati",Escherichia coli,Amikacin,353,76,21.7
+2022,"GMCH, Guwahati",Escherichia coli,Colistin,353,6,1.7
+2022,"GMCH, Guwahati",Klebsiella pneumoniae,Imipenem,378,161,42.6
+2022,"GMCH, Guwahati",Klebsiella pneumoniae,Meropenem,378,156,41.4
+2022,"GMCH, Guwahati",Klebsiella pneumoniae,Ceftriaxone,378,252,66.8
+2022,"GMCH, Guwahati",Klebsiella pneumoniae,Ciprofloxacin,378,152,40.3
+2022,"GMCH, Guwahati",Klebsiella pneumoniae,Amikacin,378,160,42.5
+2022,"GMCH, Guwahati",Klebsiella pneumoniae,Colistin,378,14,4.0
+2022,"GMCH, Guwahati",Staphylococcus aureus,Penicillin,626,223,35.6
+2022,"GMCH, Guwahati",Staphylococcus aureus,Ciprofloxacin,626,226,36.2
+2022,"GMCH, Guwahati",Staphylococcus aureus,Erythromycin,626,236,37.9
+2022,"GMCH, Guwahati",Staphylococcus aureus,Clindamycin,626,252,40.3
+2022,"GMCH, Guwahati",Staphylococcus aureus,Vancomycin,626,244,39.1
+2022,"GMCH, Guwahati",Staphylococcus aureus,Linezolid,626,211,33.8
+2022,"GMCH, Guwahati",Acinetobacter baumannii,Imipenem,809,344,42.6
+2022,"GMCH, Guwahati",Acinetobacter baumannii,Meropenem,809,343,42.4
+2022,"GMCH, Guwahati",Acinetobacter baumannii,Ceftriaxone,809,531,65.6
+2022,"GMCH, Guwahati",Acinetobacter baumannii,Ciprofloxacin,809,280,34.6
+2022,"GMCH, Guwahati",Acinetobacter baumannii,Amikacin,809,308,38.2
+2022,"GMCH, Guwahati",Acinetobacter baumannii,Colistin,809,41,5.1
+2022,"GMCH, Guwahati",Pseudomonas aeruginosa,Imipenem,595,116,19.5
+2022,"GMCH, Guwahati",Pseudomonas aeruginosa,Meropenem,595,96,16.2
+2022,"GMCH, Guwahati",Pseudomonas aeruginosa,Ceftriaxone,595,161,27.1
+2022,"GMCH, Guwahati",Pseudomonas aeruginosa,Ciprofloxacin,595,117,19.7
+2022,"GMCH, Guwahati",Pseudomonas aeruginosa,Amikacin,595,96,16.2
+2022,"GMCH, Guwahati",Pseudomonas aeruginosa,Colistin,595,10,1.8
+2023,"AIIMS, New Delhi",Escherichia coli,Imipenem,415,92,22.2
+2023,"AIIMS, New Delhi",Escherichia coli,Meropenem,415,85,20.6
+2023,"AIIMS, New Delhi",Escherichia coli,Ceftriaxone,415,139,33.7
+2023,"AIIMS, New Delhi",Escherichia coli,Ciprofloxacin,415,88,21.4
+2023,"AIIMS, New Delhi",Escherichia coli,Amikacin,415,116,28.0
+2023,"AIIMS, New Delhi",Escherichia coli,Colistin,415,10,2.6
+2023,"AIIMS, New Delhi",Klebsiella pneumoniae,Imipenem,810,443,54.8
+2023,"AIIMS, New Delhi",Klebsiella pneumoniae,Meropenem,810,485,60.0
+2023,"AIIMS, New Delhi",Klebsiella pneumoniae,Ceftriaxone,810,793,98.0
+2023,"AIIMS, New Delhi",Klebsiella pneumoniae,Ciprofloxacin,810,535,66.1
+2023,"AIIMS, New Delhi",Klebsiella pneumoniae,Amikacin,810,464,57.4
+2023,"AIIMS, New Delhi",Klebsiella pneumoniae,Colistin,810,56,6.9
+2023,"AIIMS, New Delhi",Staphylococcus aureus,Penicillin,332,145,43.8
+2023,"AIIMS, New Delhi",Staphylococcus aureus,Ciprofloxacin,332,137,41.4
+2023,"AIIMS, New Delhi",Staphylococcus aureus,Erythromycin,332,174,52.4
+2023,"AIIMS, New Delhi",Staphylococcus aureus,Clindamycin,332,189,57.2
+2023,"AIIMS, New Delhi",Staphylococcus aureus,Vancomycin,332,137,41.3
+2023,"AIIMS, New Delhi",Staphylococcus aureus,Linezolid,332,168,50.7
+2023,"AIIMS, New Delhi",Acinetobacter baumannii,Imipenem,314,179,57.3
+2023,"AIIMS, New Delhi",Acinetobacter baumannii,Meropenem,314,176,56.2
+2023,"AIIMS, New Delhi",Acinetobacter baumannii,Ceftriaxone,314,271,86.6
+2023,"AIIMS, New Delhi",Acinetobacter baumannii,Ciprofloxacin,314,180,57.5
+2023,"AIIMS, New Delhi",Acinetobacter baumannii,Amikacin,314,172,55.0
+2023,"AIIMS, New Delhi",Acinetobacter baumannii,Colistin,314,17,5.7
+2023,"AIIMS, New Delhi",Pseudomonas aeruginosa,Imipenem,887,213,24.1
+2023,"AIIMS, New Delhi",Pseudomonas aeruginosa,Meropenem,887,195,22.0
+2023,"AIIMS, New Delhi",Pseudomonas aeruginosa,Ceftriaxone,887,327,37.0
+2023,"AIIMS, New Delhi",Pseudomonas aeruginosa,Ciprofloxacin,887,211,23.9
+2023,"AIIMS, New Delhi",Pseudomonas aeruginosa,Amikacin,887,207,23.4
+2023,"AIIMS, New Delhi",Pseudomonas aeruginosa,Colistin,887,19,2.2
+2023,"CMC, Vellore",Escherichia coli,Imipenem,846,179,21.2
+2023,"CMC, Vellore",Escherichia coli,Meropenem,846,151,17.9
+2023,"CMC, Vellore",Escherichia coli,Ceftriaxone,846,241,28.5
+2023,"CMC, Vellore",Escherichia coli,Ciprofloxacin,846,164,19.5
+2023,"CMC, Vellore",Escherichia coli,Amikacin,846,125,14.9
+2023,"CMC, Vellore",Escherichia coli,Colistin,846,19,2.3
+2023,"CMC, Vellore",Klebsiella pneumoniae,Imipenem,792,323,40.9
+2023,"CMC, Vellore",Klebsiella pneumoniae,Meropenem,792,379,47.9
+2023,"CMC, Vellore",Klebsiella pneumoniae,Ceftriaxone,792,546,69.0
+2023,"CMC, Vellore",Klebsiella pneumoniae,Ciprofloxacin,792,417,52.7
+2023,"CMC, Vellore",Klebsiella pneumoniae,Amikacin,792,391,49.4
+2023,"CMC, Vellore",Klebsiella pneumoniae,Colistin,792,38,4.8
+2023,"CMC, Vellore",Staphylococcus aureus,Penicillin,284,110,38.8
+2023,"CMC, Vellore",Staphylococcus aureus,Ciprofloxacin,284,102,36.0
+2023,"CMC, Vellore",Staphylococcus aureus,Erythromycin,284,111,39.2
+2023,"CMC, Vellore",Staphylococcus aureus,Clindamycin,284,85,29.9
+2023,"CMC, Vellore",Staphylococcus aureus,Vancomycin,284,94,33.3
+2023,"CMC, Vellore",Staphylococcus aureus,Linezolid,284,80,28.3
+2023,"CMC, Vellore",Acinetobacter baumannii,Imipenem,596,230,38.7
+2023,"CMC, Vellore",Acinetobacter baumannii,Meropenem,596,274,46.0
+2023,"CMC, Vellore",Acinetobacter baumannii,Ceftriaxone,596,378,63.6
+2023,"CMC, Vellore",Acinetobacter baumannii,Ciprofloxacin,596,275,46.2
+2023,"CMC, Vellore",Acinetobacter baumannii,Amikacin,596,266,44.7
+2023,"CMC, Vellore",Acinetobacter baumannii,Colistin,596,24,4.0
+2023,"CMC, Vellore",Pseudomonas aeruginosa,Imipenem,635,111,17.6
+2023,"CMC, Vellore",Pseudomonas aeruginosa,Meropenem,635,116,18.3
+2023,"CMC, Vellore",Pseudomonas aeruginosa,Ceftriaxone,635,179,28.2
+2023,"CMC, Vellore",Pseudomonas aeruginosa,Ciprofloxacin,635,121,19.2
+2023,"CMC, Vellore",Pseudomonas aeruginosa,Amikacin,635,122,19.2
+2023,"CMC, Vellore",Pseudomonas aeruginosa,Colistin,635,11,1.8
+2023,"PGIMER, Chandigarh",Escherichia coli,Imipenem,268,68,25.6
+2023,"PGIMER, Chandigarh",Escherichia coli,Meropenem,268,63,23.5
+2023,"PGIMER, Chandigarh",Escherichia coli,Ceftriaxone,268,102,38.1
+2023,"PGIMER, Chandigarh",Escherichia coli,Ciprofloxacin,268,67,25.2
+2023,"PGIMER, Chandigarh",Escherichia coli,Amikacin,268,69,25.8
+2023,"PGIMER, Chandigarh",Escherichia coli,Colistin,268,6,2.6
+2023,"PGIMER, Chandigarh",Klebsiella pneumoniae,Imipenem,576,325,56.6
+2023,"PGIMER, Chandigarh",Klebsiella pneumoniae,Meropenem,576,322,55.9
+2023,"PGIMER, Chandigarh",Klebsiella pneumoniae,Ceftriaxone,576,556,96.7
+2023,"PGIMER, Chandigarh",Klebsiella pneumoniae,Ciprofloxacin,576,354,61.5
+2023,"PGIMER, Chandigarh",Klebsiella pneumoniae,Amikacin,576,373,64.9
+2023,"PGIMER, Chandigarh",Klebsiella pneumoniae,Colistin,576,28,5.0
+2023,"PGIMER, Chandigarh",Staphylococcus aureus,Penicillin,506,285,56.5
+2023,"PGIMER, Chandigarh",Staphylococcus aureus,Ciprofloxacin,506,233,46.1
+2023,"PGIMER, Chandigarh",Staphylococcus aureus,Erythromycin,506,248,49.2
+2023,"PGIMER, Chandigarh",Staphylococcus aureus,Clindamycin,506,262,51.9
+2023,"PGIMER, Chandigarh",Staphylococcus aureus,Vancomycin,506,186,36.8
+2023,"PGIMER, Chandigarh",Staphylococcus aureus,Linezolid,506,279,55.3
+2023,"PGIMER, Chandigarh",Acinetobacter baumannii,Imipenem,453,238,52.7
+2023,"PGIMER, Chandigarh",Acinetobacter baumannii,Meropenem,453,227,50.3
+2023,"PGIMER, Chandigarh",Acinetobacter baumannii,Ceftriaxone,453,377,83.3
+2023,"PGIMER, Chandigarh",Acinetobacter baumannii,Ciprofloxacin,453,273,60.3
+2023,"PGIMER, Chandigarh",Acinetobacter baumannii,Amikacin,453,278,61.5
+2023,"PGIMER, Chandigarh",Acinetobacter baumannii,Colistin,453,23,5.1
+2023,"PGIMER, Chandigarh",Pseudomonas aeruginosa,Imipenem,380,102,26.9
+2023,"PGIMER, Chandigarh",Pseudomonas aeruginosa,Meropenem,380,83,21.9
+2023,"PGIMER, Chandigarh",Pseudomonas aeruginosa,Ceftriaxone,380,124,32.8
+2023,"PGIMER, Chandigarh",Pseudomonas aeruginosa,Ciprofloxacin,380,95,25.2
+2023,"PGIMER, Chandigarh",Pseudomonas aeruginosa,Amikacin,380,91,24.0
+2023,"PGIMER, Chandigarh",Pseudomonas aeruginosa,Colistin,380,10,2.7
+2023,"JIPMER, Puducherry",Escherichia coli,Imipenem,359,61,17.1
+2023,"JIPMER, Puducherry",Escherichia coli,Meropenem,359,67,18.7
+2023,"JIPMER, Puducherry",Escherichia coli,Ceftriaxone,359,86,24.1
+2023,"JIPMER, Puducherry",Escherichia coli,Ciprofloxacin,359,59,16.5
+2023,"JIPMER, Puducherry",Escherichia coli,Amikacin,359,74,20.7
+2023,"JIPMER, Puducherry",Escherichia coli,Colistin,359,6,1.9
+2023,"JIPMER, Puducherry",Klebsiella pneumoniae,Imipenem,354,175,49.7
+2023,"JIPMER, Puducherry",Klebsiella pneumoniae,Meropenem,354,151,42.7
+2023,"JIPMER, Puducherry",Klebsiella pneumoniae,Ceftriaxone,354,232,65.7
+2023,"JIPMER, Puducherry",Klebsiella pneumoniae,Ciprofloxacin,354,143,40.6
+2023,"JIPMER, Puducherry",Klebsiella pneumoniae,Amikacin,354,152,43.0
+2023,"JIPMER, Puducherry",Klebsiella pneumoniae,Colistin,354,16,4.7
+2023,"JIPMER, Puducherry",Staphylococcus aureus,Penicillin,164,64,39.5
+2023,"JIPMER, Puducherry",Staphylococcus aureus,Ciprofloxacin,164,64,39.5
+2023,"JIPMER, Puducherry",Staphylococcus aureus,Erythromycin,164,67,41.0
+2023,"JIPMER, Puducherry",Staphylococcus aureus,Clindamycin,164,64,39.6
+2023,"JIPMER, Puducherry",Staphylococcus aureus,Vancomycin,164,49,30.1
+2023,"JIPMER, Puducherry",Staphylococcus aureus,Linezolid,164,60,37.0
+2023,"JIPMER, Puducherry",Acinetobacter baumannii,Imipenem,199,73,37.0
+2023,"JIPMER, Puducherry",Acinetobacter baumannii,Meropenem,199,102,51.7
+2023,"JIPMER, Puducherry",Acinetobacter baumannii,Ceftriaxone,199,143,71.9
+2023,"JIPMER, Puducherry",Acinetobacter baumannii,Ciprofloxacin,199,89,44.7
+2023,"JIPMER, Puducherry",Acinetobacter baumannii,Amikacin,199,92,46.3
+2023,"JIPMER, Puducherry",Acinetobacter baumannii,Colistin,199,7,4.0
+2023,"JIPMER, Puducherry",Pseudomonas aeruginosa,Imipenem,245,43,17.6
+2023,"JIPMER, Puducherry",Pseudomonas aeruginosa,Meropenem,245,44,18.1
+2023,"JIPMER, Puducherry",Pseudomonas aeruginosa,Ceftriaxone,245,77,31.8
+2023,"JIPMER, Puducherry",Pseudomonas aeruginosa,Ciprofloxacin,245,46,19.1
+2023,"JIPMER, Puducherry",Pseudomonas aeruginosa,Amikacin,245,45,18.4
+2023,"JIPMER, Puducherry",Pseudomonas aeruginosa,Colistin,245,4,1.9
+2023,"Apollo Hospital, Chennai",Escherichia coli,Imipenem,234,39,16.9
+2023,"Apollo Hospital, Chennai",Escherichia coli,Meropenem,234,40,17.1
+2023,"Apollo Hospital, Chennai",Escherichia coli,Ceftriaxone,234,65,28.1
+2023,"Apollo Hospital, Chennai",Escherichia coli,Ciprofloxacin,234,40,17.3
+2023,"Apollo Hospital, Chennai",Escherichia coli,Amikacin,234,36,15.8
+2023,"Apollo Hospital, Chennai",Escherichia coli,Colistin,234,3,1.6
+2023,"Apollo Hospital, Chennai",Klebsiella pneumoniae,Imipenem,185,70,37.9
+2023,"Apollo Hospital, Chennai",Klebsiella pneumoniae,Meropenem,185,95,51.4
+2023,"Apollo Hospital, Chennai",Klebsiella pneumoniae,Ceftriaxone,185,114,62.1
+2023,"Apollo Hospital, Chennai",Klebsiella pneumoniae,Ciprofloxacin,185,88,48.0
+2023,"Apollo Hospital, Chennai",Klebsiella pneumoniae,Amikacin,185,87,47.1
+2023,"Apollo Hospital, Chennai",Klebsiella pneumoniae,Colistin,185,9,5.1
+2023,"Apollo Hospital, Chennai",Staphylococcus aureus,Penicillin,148,58,39.8
+2023,"Apollo Hospital, Chennai",Staphylococcus aureus,Ciprofloxacin,148,51,35.1
+2023,"Apollo Hospital, Chennai",Staphylococcus aureus,Erythromycin,148,52,35.8
+2023,"Apollo Hospital, Chennai",Staphylococcus aureus,Clindamycin,148,57,38.9
+2023,"Apollo Hospital, Chennai",Staphylococcus aureus,Vancomycin,148,57,39.0
+2023,"Apollo Hospital, Chennai",Staphylococcus aureus,Linezolid,148,53,35.9
+2023,"Apollo Hospital, Chennai",Acinetobacter baumannii,Imipenem,304,143,47.1
+2023,"Apollo Hospital, Chennai",Acinetobacter baumannii,Meropenem,304,115,38.1
+2023,"Apollo Hospital, Chennai",Acinetobacter baumannii,Ceftriaxone,304,226,74.5
+2023,"Apollo Hospital, Chennai",Acinetobacter baumannii,Ciprofloxacin,304,127,41.9
+2023,"Apollo Hospital, Chennai",Acinetobacter baumannii,Amikacin,304,124,40.9
+2023,"Apollo Hospital, Chennai",Acinetobacter baumannii,Colistin,304,12,4.2
+2023,"Apollo Hospital, Chennai",Pseudomonas aeruginosa,Imipenem,180,33,18.8
+2023,"Apollo Hospital, Chennai",Pseudomonas aeruginosa,Meropenem,180,32,18.0
+2023,"Apollo Hospital, Chennai",Pseudomonas aeruginosa,Ceftriaxone,180,59,33.1
+2023,"Apollo Hospital, Chennai",Pseudomonas aeruginosa,Ciprofloxacin,180,27,15.1
+2023,"Apollo Hospital, Chennai",Pseudomonas aeruginosa,Amikacin,180,32,18.2
+2023,"Apollo Hospital, Chennai",Pseudomonas aeruginosa,Colistin,180,3,2.0
+2023,"Tata Memorial Hospital, Mumbai",Escherichia coli,Imipenem,471,79,16.8
+2023,"Tata Memorial Hospital, Mumbai",Escherichia coli,Meropenem,471,86,18.3
+2023,"Tata Memorial Hospital, Mumbai",Escherichia coli,Ceftriaxone,471,117,24.9
+2023,"Tata Memorial Hospital, Mumbai",Escherichia coli,Ciprofloxacin,471,90,19.2
+2023,"Tata Memorial Hospital, Mumbai",Escherichia coli,Amikacin,471,83,17.8
+2023,"Tata Memorial Hospital, Mumbai",Escherichia coli,Colistin,471,8,1.8
+2023,"Tata Memorial Hospital, Mumbai",Klebsiella pneumoniae,Imipenem,296,132,44.9
+2023,"Tata Memorial Hospital, Mumbai",Klebsiella pneumoniae,Meropenem,296,125,42.6
+2023,"Tata Memorial Hospital, Mumbai",Klebsiella pneumoniae,Ceftriaxone,296,185,62.7
+2023,"Tata Memorial Hospital, Mumbai",Klebsiella pneumoniae,Ciprofloxacin,296,134,45.5
+2023,"Tata Memorial Hospital, Mumbai",Klebsiella pneumoniae,Amikacin,296,129,43.9
+2023,"Tata Memorial Hospital, Mumbai",Klebsiella pneumoniae,Colistin,296,15,5.2
+2023,"Tata Memorial Hospital, Mumbai",Staphylococcus aureus,Penicillin,484,138,28.5
+2023,"Tata Memorial Hospital, Mumbai",Staphylococcus aureus,Ciprofloxacin,484,152,31.5
+2023,"Tata Memorial Hospital, Mumbai",Staphylococcus aureus,Erythromycin,484,153,31.8
+2023,"Tata Memorial Hospital, Mumbai",Staphylococcus aureus,Clindamycin,484,177,36.7
+2023,"Tata Memorial Hospital, Mumbai",Staphylococcus aureus,Vancomycin,484,179,37.0
+2023,"Tata Memorial Hospital, Mumbai",Staphylococcus aureus,Linezolid,484,169,35.1
+2023,"Tata Memorial Hospital, Mumbai",Acinetobacter baumannii,Imipenem,722,279,38.7
+2023,"Tata Memorial Hospital, Mumbai",Acinetobacter baumannii,Meropenem,722,299,41.5
+2023,"Tata Memorial Hospital, Mumbai",Acinetobacter baumannii,Ceftriaxone,722,433,60.0
+2023,"Tata Memorial Hospital, Mumbai",Acinetobacter baumannii,Ciprofloxacin,722,381,52.9
+2023,"Tata Memorial Hospital, Mumbai",Acinetobacter baumannii,Amikacin,722,355,49.2
+2023,"Tata Memorial Hospital, Mumbai",Acinetobacter baumannii,Colistin,722,36,5.1
+2023,"Tata Memorial Hospital, Mumbai",Pseudomonas aeruginosa,Imipenem,203,33,16.7
+2023,"Tata Memorial Hospital, Mumbai",Pseudomonas aeruginosa,Meropenem,203,33,16.7
+2023,"Tata Memorial Hospital, Mumbai",Pseudomonas aeruginosa,Ceftriaxone,203,55,27.3
+2023,"Tata Memorial Hospital, Mumbai",Pseudomonas aeruginosa,Ciprofloxacin,203,36,17.8
+2023,"Tata Memorial Hospital, Mumbai",Pseudomonas aeruginosa,Amikacin,203,38,18.9
+2023,"Tata Memorial Hospital, Mumbai",Pseudomonas aeruginosa,Colistin,203,3,1.6
+2023,"Kaling Institute, Bhubaneswar",Escherichia coli,Imipenem,232,45,19.5
+2023,"Kaling Institute, Bhubaneswar",Escherichia coli,Meropenem,232,37,16.3
+2023,"Kaling Institute, Bhubaneswar",Escherichia coli,Ceftriaxone,232,64,27.6
+2023,"Kaling Institute, Bhubaneswar",Escherichia coli,Ciprofloxacin,232,42,18.5
+2023,"Kaling Institute, Bhubaneswar",Escherichia coli,Amikacin,232,48,21.0
+2023,"Kaling Institute, Bhubaneswar",Escherichia coli,Colistin,232,3,1.6
+2023,"Kaling Institute, Bhubaneswar",Klebsiella pneumoniae,Imipenem,288,137,47.7
+2023,"Kaling Institute, Bhubaneswar",Klebsiella pneumoniae,Meropenem,288,125,43.6
+2023,"Kaling Institute, Bhubaneswar",Klebsiella pneumoniae,Ceftriaxone,288,200,69.7
+2023,"Kaling Institute, Bhubaneswar",Klebsiella pneumoniae,Ciprofloxacin,288,113,39.4
+2023,"Kaling Institute, Bhubaneswar",Klebsiella pneumoniae,Amikacin,288,141,49.2
+2023,"Kaling Institute, Bhubaneswar",Klebsiella pneumoniae,Colistin,288,12,4.4
+2023,"Kaling Institute, Bhubaneswar",Staphylococcus aureus,Penicillin,616,194,31.5
+2023,"Kaling Institute, Bhubaneswar",Staphylococcus aureus,Ciprofloxacin,616,203,33.1
+2023,"Kaling Institute, Bhubaneswar",Staphylococcus aureus,Erythromycin,616,250,40.7
+2023,"Kaling Institute, Bhubaneswar",Staphylococcus aureus,Clindamycin,616,182,29.7
+2023,"Kaling Institute, Bhubaneswar",Staphylococcus aureus,Vancomycin,616,238,38.7
+2023,"Kaling Institute, Bhubaneswar",Staphylococcus aureus,Linezolid,616,190,30.9
+2023,"Kaling Institute, Bhubaneswar",Acinetobacter baumannii,Imipenem,398,141,35.6
+2023,"Kaling Institute, Bhubaneswar",Acinetobacter baumannii,Meropenem,398,209,52.6
+2023,"Kaling Institute, Bhubaneswar",Acinetobacter baumannii,Ceftriaxone,398,274,68.9
+2023,"Kaling Institute, Bhubaneswar",Acinetobacter baumannii,Ciprofloxacin,398,177,44.6
+2023,"Kaling Institute, Bhubaneswar",Acinetobacter baumannii,Amikacin,398,169,42.5
+2023,"Kaling Institute, Bhubaneswar",Acinetobacter baumannii,Colistin,398,18,4.7
+2023,"Kaling Institute, Bhubaneswar",Pseudomonas aeruginosa,Imipenem,644,127,19.7
+2023,"Kaling Institute, Bhubaneswar",Pseudomonas aeruginosa,Meropenem,644,115,17.9
+2023,"Kaling Institute, Bhubaneswar",Pseudomonas aeruginosa,Ceftriaxone,644,168,26.1
+2023,"Kaling Institute, Bhubaneswar",Pseudomonas aeruginosa,Ciprofloxacin,644,131,20.4
+2023,"Kaling Institute, Bhubaneswar",Pseudomonas aeruginosa,Amikacin,644,140,21.9
+2023,"Kaling Institute, Bhubaneswar",Pseudomonas aeruginosa,Colistin,644,12,1.9
+2023,"Amrita Institute, Kochi",Escherichia coli,Imipenem,669,107,16.1
+2023,"Amrita Institute, Kochi",Escherichia coli,Meropenem,669,117,17.6
+2023,"Amrita Institute, Kochi",Escherichia coli,Ceftriaxone,669,186,27.8
+2023,"Amrita Institute, Kochi",Escherichia coli,Ciprofloxacin,669,127,19.1
+2023,"Amrita Institute, Kochi",Escherichia coli,Amikacin,669,131,19.7
+2023,"Amrita Institute, Kochi",Escherichia coli,Colistin,669,12,1.9
+2023,"Amrita Institute, Kochi",Klebsiella pneumoniae,Imipenem,590,265,45.0
+2023,"Amrita Institute, Kochi",Klebsiella pneumoniae,Meropenem,590,301,51.1
+2023,"Amrita Institute, Kochi",Klebsiella pneumoniae,Ceftriaxone,590,392,66.5
+2023,"Amrita Institute, Kochi",Klebsiella pneumoniae,Ciprofloxacin,590,247,41.9
+2023,"Amrita Institute, Kochi",Klebsiella pneumoniae,Amikacin,590,313,53.1
+2023,"Amrita Institute, Kochi",Klebsiella pneumoniae,Colistin,590,26,4.5
+2023,"Amrita Institute, Kochi",Staphylococcus aureus,Penicillin,301,103,34.5
+2023,"Amrita Institute, Kochi",Staphylococcus aureus,Ciprofloxacin,301,101,33.7
+2023,"Amrita Institute, Kochi",Staphylococcus aureus,Erythromycin,301,118,39.3
+2023,"Amrita Institute, Kochi",Staphylococcus aureus,Clindamycin,301,98,32.7
+2023,"Amrita Institute, Kochi",Staphylococcus aureus,Vancomycin,301,116,38.6
+2023,"Amrita Institute, Kochi",Staphylococcus aureus,Linezolid,301,93,31.2
+2023,"Amrita Institute, Kochi",Acinetobacter baumannii,Imipenem,566,284,50.3
+2023,"Amrita Institute, Kochi",Acinetobacter baumannii,Meropenem,566,261,46.2
+2023,"Amrita Institute, Kochi",Acinetobacter baumannii,Ceftriaxone,566,435,77.0
+2023,"Amrita Institute, Kochi",Acinetobacter baumannii,Ciprofloxacin,566,242,42.8
+2023,"Amrita Institute, Kochi",Acinetobacter baumannii,Amikacin,566,207,36.7
+2023,"Amrita Institute, Kochi",Acinetobacter baumannii,Colistin,566,22,4.1
+2023,"Amrita Institute, Kochi",Pseudomonas aeruginosa,Imipenem,884,155,17.6
+2023,"Amrita Institute, Kochi",Pseudomonas aeruginosa,Meropenem,884,178,20.2
+2023,"Amrita Institute, Kochi",Pseudomonas aeruginosa,Ceftriaxone,884,244,27.6
+2023,"Amrita Institute, Kochi",Pseudomonas aeruginosa,Ciprofloxacin,884,165,18.8
+2023,"Amrita Institute, Kochi",Pseudomonas aeruginosa,Amikacin,884,167,19.0
+2023,"Amrita Institute, Kochi",Pseudomonas aeruginosa,Colistin,884,16,1.8
+2023,"Sams Hospital, Hyderabad",Escherichia coli,Imipenem,165,29,18.2
+2023,"Sams Hospital, Hyderabad",Escherichia coli,Meropenem,165,30,18.3
+2023,"Sams Hospital, Hyderabad",Escherichia coli,Ceftriaxone,165,47,28.6
+2023,"Sams Hospital, Hyderabad",Escherichia coli,Ciprofloxacin,165,25,15.3
+2023,"Sams Hospital, Hyderabad",Escherichia coli,Amikacin,165,29,18.0
+2023,"Sams Hospital, Hyderabad",Escherichia coli,Colistin,165,2,1.7
+2023,"Sams Hospital, Hyderabad",Klebsiella pneumoniae,Imipenem,154,77,50.2
+2023,"Sams Hospital, Hyderabad",Klebsiella pneumoniae,Meropenem,154,64,41.8
+2023,"Sams Hospital, Hyderabad",Klebsiella pneumoniae,Ceftriaxone,154,103,67.3
+2023,"Sams Hospital, Hyderabad",Klebsiella pneumoniae,Ciprofloxacin,154,81,53.0
+2023,"Sams Hospital, Hyderabad",Klebsiella pneumoniae,Amikacin,154,64,42.2
+2023,"Sams Hospital, Hyderabad",Klebsiella pneumoniae,Colistin,154,8,5.3
+2023,"Sams Hospital, Hyderabad",Staphylococcus aureus,Penicillin,96,36,37.8
+2023,"Sams Hospital, Hyderabad",Staphylococcus aureus,Ciprofloxacin,96,36,37.9
+2023,"Sams Hospital, Hyderabad",Staphylococcus aureus,Erythromycin,96,30,32.1
+2023,"Sams Hospital, Hyderabad",Staphylococcus aureus,Clindamycin,96,37,39.3
+2023,"Sams Hospital, Hyderabad",Staphylococcus aureus,Vancomycin,96,28,29.7
+2023,"Sams Hospital, Hyderabad",Staphylococcus aureus,Linezolid,96,38,40.1
+2023,"Sams Hospital, Hyderabad",Acinetobacter baumannii,Imipenem,70,31,44.7
+2023,"Sams Hospital, Hyderabad",Acinetobacter baumannii,Meropenem,70,33,47.8
+2023,"Sams Hospital, Hyderabad",Acinetobacter baumannii,Ceftriaxone,70,48,68.7
+2023,"Sams Hospital, Hyderabad",Acinetobacter baumannii,Ciprofloxacin,70,27,39.0
+2023,"Sams Hospital, Hyderabad",Acinetobacter baumannii,Amikacin,70,32,46.7
+2023,"Sams Hospital, Hyderabad",Acinetobacter baumannii,Colistin,70,3,4.8
+2023,"Sams Hospital, Hyderabad",Pseudomonas aeruginosa,Imipenem,189,38,20.3
+2023,"Sams Hospital, Hyderabad",Pseudomonas aeruginosa,Meropenem,189,37,19.9
+2023,"Sams Hospital, Hyderabad",Pseudomonas aeruginosa,Ceftriaxone,189,48,25.8
+2023,"Sams Hospital, Hyderabad",Pseudomonas aeruginosa,Ciprofloxacin,189,36,19.1
+2023,"Sams Hospital, Hyderabad",Pseudomonas aeruginosa,Amikacin,189,28,15.3
+2023,"Sams Hospital, Hyderabad",Pseudomonas aeruginosa,Colistin,189,3,1.8
+2023,"King George Medical Univ, Lucknow",Escherichia coli,Imipenem,378,98,26.0
+2023,"King George Medical Univ, Lucknow",Escherichia coli,Meropenem,378,91,24.3
+2023,"King George Medical Univ, Lucknow",Escherichia coli,Ceftriaxone,378,142,37.6
+2023,"King George Medical Univ, Lucknow",Escherichia coli,Ciprofloxacin,378,88,23.5
+2023,"King George Medical Univ, Lucknow",Escherichia coli,Amikacin,378,100,26.7
+2023,"King George Medical Univ, Lucknow",Escherichia coli,Colistin,378,8,2.4
+2023,"King George Medical Univ, Lucknow",Klebsiella pneumoniae,Imipenem,349,229,65.6
+2023,"King George Medical Univ, Lucknow",Klebsiella pneumoniae,Meropenem,349,198,56.9
+2023,"King George Medical Univ, Lucknow",Klebsiella pneumoniae,Ceftriaxone,349,317,90.9
+2023,"King George Medical Univ, Lucknow",Klebsiella pneumoniae,Ciprofloxacin,349,199,57.2
+2023,"King George Medical Univ, Lucknow",Klebsiella pneumoniae,Amikacin,349,200,57.4
+2023,"King George Medical Univ, Lucknow",Klebsiella pneumoniae,Colistin,349,20,5.8
+2023,"King George Medical Univ, Lucknow",Staphylococcus aureus,Penicillin,121,52,43.0
+2023,"King George Medical Univ, Lucknow",Staphylococcus aureus,Ciprofloxacin,121,65,54.1
+2023,"King George Medical Univ, Lucknow",Staphylococcus aureus,Erythromycin,121,56,46.7
+2023,"King George Medical Univ, Lucknow",Staphylococcus aureus,Clindamycin,121,58,48.6
+2023,"King George Medical Univ, Lucknow",Staphylococcus aureus,Vancomycin,121,60,50.0
+2023,"King George Medical Univ, Lucknow",Staphylococcus aureus,Linezolid,121,46,38.7
+2023,"King George Medical Univ, Lucknow",Acinetobacter baumannii,Imipenem,333,220,66.2
+2023,"King George Medical Univ, Lucknow",Acinetobacter baumannii,Meropenem,333,170,51.1
+2023,"King George Medical Univ, Lucknow",Acinetobacter baumannii,Ceftriaxone,333,307,92.4
+2023,"King George Medical Univ, Lucknow",Acinetobacter baumannii,Ciprofloxacin,333,217,65.3
+2023,"King George Medical Univ, Lucknow",Acinetobacter baumannii,Amikacin,333,201,60.5
+2023,"King George Medical Univ, Lucknow",Acinetobacter baumannii,Colistin,333,22,6.6
+2023,"King George Medical Univ, Lucknow",Pseudomonas aeruginosa,Imipenem,377,101,26.9
+2023,"King George Medical Univ, Lucknow",Pseudomonas aeruginosa,Meropenem,377,84,22.4
+2023,"King George Medical Univ, Lucknow",Pseudomonas aeruginosa,Ceftriaxone,377,128,34.2
+2023,"King George Medical Univ, Lucknow",Pseudomonas aeruginosa,Ciprofloxacin,377,67,18.0
+2023,"King George Medical Univ, Lucknow",Pseudomonas aeruginosa,Amikacin,377,98,26.2
+2023,"King George Medical Univ, Lucknow",Pseudomonas aeruginosa,Colistin,377,9,2.5
+2023,"IPGMER, Kolkata",Escherichia coli,Imipenem,386,67,17.5
+2023,"IPGMER, Kolkata",Escherichia coli,Meropenem,386,64,16.8
+2023,"IPGMER, Kolkata",Escherichia coli,Ceftriaxone,386,122,31.7
+2023,"IPGMER, Kolkata",Escherichia coli,Ciprofloxacin,386,70,18.3
+2023,"IPGMER, Kolkata",Escherichia coli,Amikacin,386,69,18.0
+2023,"IPGMER, Kolkata",Escherichia coli,Colistin,386,6,1.8
+2023,"IPGMER, Kolkata",Klebsiella pneumoniae,Imipenem,333,156,47.0
+2023,"IPGMER, Kolkata",Klebsiella pneumoniae,Meropenem,333,160,48.3
+2023,"IPGMER, Kolkata",Klebsiella pneumoniae,Ceftriaxone,333,189,56.8
+2023,"IPGMER, Kolkata",Klebsiella pneumoniae,Ciprofloxacin,333,159,47.9
+2023,"IPGMER, Kolkata",Klebsiella pneumoniae,Amikacin,333,146,43.9
+2023,"IPGMER, Kolkata",Klebsiella pneumoniae,Colistin,333,13,4.1
+2023,"IPGMER, Kolkata",Staphylococcus aureus,Penicillin,241,91,38.0
+2023,"IPGMER, Kolkata",Staphylococcus aureus,Ciprofloxacin,241,73,30.5
+2023,"IPGMER, Kolkata",Staphylococcus aureus,Erythromycin,241,93,39.0
+2023,"IPGMER, Kolkata",Staphylococcus aureus,Clindamycin,241,88,36.7
+2023,"IPGMER, Kolkata",Staphylococcus aureus,Vancomycin,241,85,35.5
+2023,"IPGMER, Kolkata",Staphylococcus aureus,Linezolid,241,81,33.6
+2023,"IPGMER, Kolkata",Acinetobacter baumannii,Imipenem,619,295,47.8
+2023,"IPGMER, Kolkata",Acinetobacter baumannii,Meropenem,619,264,42.7
+2023,"IPGMER, Kolkata",Acinetobacter baumannii,Ceftriaxone,619,400,64.7
+2023,"IPGMER, Kolkata",Acinetobacter baumannii,Ciprofloxacin,619,275,44.5
+2023,"IPGMER, Kolkata",Acinetobacter baumannii,Amikacin,619,292,47.3
+2023,"IPGMER, Kolkata",Acinetobacter baumannii,Colistin,619,31,5.0
+2023,"IPGMER, Kolkata",Pseudomonas aeruginosa,Imipenem,290,65,22.5
+2023,"IPGMER, Kolkata",Pseudomonas aeruginosa,Meropenem,290,54,18.8
+2023,"IPGMER, Kolkata",Pseudomonas aeruginosa,Ceftriaxone,290,64,22.4
+2023,"IPGMER, Kolkata",Pseudomonas aeruginosa,Ciprofloxacin,290,53,18.3
+2023,"IPGMER, Kolkata",Pseudomonas aeruginosa,Amikacin,290,42,14.7
+2023,"IPGMER, Kolkata",Pseudomonas aeruginosa,Colistin,290,6,2.4
+2023,"SMS Hospital, Jaipur",Escherichia coli,Imipenem,1020,299,29.4
+2023,"SMS Hospital, Jaipur",Escherichia coli,Meropenem,1020,228,22.4
+2023,"SMS Hospital, Jaipur",Escherichia coli,Ceftriaxone,1020,284,27.9
+2023,"SMS Hospital, Jaipur",Escherichia coli,Ciprofloxacin,1020,223,21.9
+2023,"SMS Hospital, Jaipur",Escherichia coli,Amikacin,1020,240,23.6
+2023,"SMS Hospital, Jaipur",Escherichia coli,Colistin,1020,20,2.0
+2023,"SMS Hospital, Jaipur",Klebsiella pneumoniae,Imipenem,313,197,63.0
+2023,"SMS Hospital, Jaipur",Klebsiella pneumoniae,Meropenem,313,184,58.8
+2023,"SMS Hospital, Jaipur",Klebsiella pneumoniae,Ceftriaxone,313,256,81.8
+2023,"SMS Hospital, Jaipur",Klebsiella pneumoniae,Ciprofloxacin,313,206,65.8
+2023,"SMS Hospital, Jaipur",Klebsiella pneumoniae,Amikacin,313,183,58.6
+2023,"SMS Hospital, Jaipur",Klebsiella pneumoniae,Colistin,313,18,6.1
+2023,"SMS Hospital, Jaipur",Staphylococcus aureus,Penicillin,717,375,52.4
+2023,"SMS Hospital, Jaipur",Staphylococcus aureus,Ciprofloxacin,717,345,48.2
+2023,"SMS Hospital, Jaipur",Staphylococcus aureus,Erythromycin,717,408,57.0
+2023,"SMS Hospital, Jaipur",Staphylococcus aureus,Clindamycin,717,372,51.9
+2023,"SMS Hospital, Jaipur",Staphylococcus aureus,Vancomycin,717,382,53.3
+2023,"SMS Hospital, Jaipur",Staphylococcus aureus,Linezolid,717,348,48.6
+2023,"SMS Hospital, Jaipur",Acinetobacter baumannii,Imipenem,884,588,66.6
+2023,"SMS Hospital, Jaipur",Acinetobacter baumannii,Meropenem,884,533,60.4
+2023,"SMS Hospital, Jaipur",Acinetobacter baumannii,Ceftriaxone,884,744,84.3
+2023,"SMS Hospital, Jaipur",Acinetobacter baumannii,Ciprofloxacin,884,505,57.2
+2023,"SMS Hospital, Jaipur",Acinetobacter baumannii,Amikacin,884,505,57.2
+2023,"SMS Hospital, Jaipur",Acinetobacter baumannii,Colistin,884,47,5.4
+2023,"SMS Hospital, Jaipur",Pseudomonas aeruginosa,Imipenem,474,103,21.8
+2023,"SMS Hospital, Jaipur",Pseudomonas aeruginosa,Meropenem,474,120,25.4
+2023,"SMS Hospital, Jaipur",Pseudomonas aeruginosa,Ceftriaxone,474,188,39.7
+2023,"SMS Hospital, Jaipur",Pseudomonas aeruginosa,Ciprofloxacin,474,112,23.8
+2023,"SMS Hospital, Jaipur",Pseudomonas aeruginosa,Amikacin,474,116,24.6
+2023,"SMS Hospital, Jaipur",Pseudomonas aeruginosa,Colistin,474,11,2.4
+2023,"RIMS, Ranchi",Escherichia coli,Imipenem,908,163,18.1
+2023,"RIMS, Ranchi",Escherichia coli,Meropenem,908,184,20.3
+2023,"RIMS, Ranchi",Escherichia coli,Ceftriaxone,908,249,27.5
+2023,"RIMS, Ranchi",Escherichia coli,Ciprofloxacin,908,164,18.1
+2023,"RIMS, Ranchi",Escherichia coli,Amikacin,908,141,15.6
+2023,"RIMS, Ranchi",Escherichia coli,Colistin,908,17,1.9
+2023,"RIMS, Ranchi",Klebsiella pneumoniae,Imipenem,762,394,51.7
+2023,"RIMS, Ranchi",Klebsiella pneumoniae,Meropenem,762,350,46.0
+2023,"RIMS, Ranchi",Klebsiella pneumoniae,Ceftriaxone,762,528,69.3
+2023,"RIMS, Ranchi",Klebsiella pneumoniae,Ciprofloxacin,762,329,43.2
+2023,"RIMS, Ranchi",Klebsiella pneumoniae,Amikacin,762,361,47.4
+2023,"RIMS, Ranchi",Klebsiella pneumoniae,Colistin,762,34,4.5
+2023,"RIMS, Ranchi",Staphylococcus aureus,Penicillin,532,203,38.2
+2023,"RIMS, Ranchi",Staphylococcus aureus,Ciprofloxacin,532,195,36.7
+2023,"RIMS, Ranchi",Staphylococcus aureus,Erythromycin,532,182,34.4
+2023,"RIMS, Ranchi",Staphylococcus aureus,Clindamycin,532,195,36.7
+2023,"RIMS, Ranchi",Staphylococcus aureus,Vancomycin,532,212,39.9
+2023,"RIMS, Ranchi",Staphylococcus aureus,Linezolid,532,171,32.3
+2023,"RIMS, Ranchi",Acinetobacter baumannii,Imipenem,316,116,36.9
+2023,"RIMS, Ranchi",Acinetobacter baumannii,Meropenem,316,155,49.3
+2023,"RIMS, Ranchi",Acinetobacter baumannii,Ceftriaxone,316,203,64.3
+2023,"RIMS, Ranchi",Acinetobacter baumannii,Ciprofloxacin,316,144,45.6
+2023,"RIMS, Ranchi",Acinetobacter baumannii,Amikacin,316,147,46.7
+2023,"RIMS, Ranchi",Acinetobacter baumannii,Colistin,316,13,4.3
+2023,"RIMS, Ranchi",Pseudomonas aeruginosa,Imipenem,282,58,20.8
+2023,"RIMS, Ranchi",Pseudomonas aeruginosa,Meropenem,282,50,17.9
+2023,"RIMS, Ranchi",Pseudomonas aeruginosa,Ceftriaxone,282,71,25.5
+2023,"RIMS, Ranchi",Pseudomonas aeruginosa,Ciprofloxacin,282,60,21.4
+2023,"RIMS, Ranchi",Pseudomonas aeruginosa,Amikacin,282,43,15.4
+2023,"RIMS, Ranchi",Pseudomonas aeruginosa,Colistin,282,3,1.4
+2023,"GMCH, Guwahati",Escherichia coli,Imipenem,138,23,17.0
+2023,"GMCH, Guwahati",Escherichia coli,Meropenem,138,27,19.6
+2023,"GMCH, Guwahati",Escherichia coli,Ceftriaxone,138,38,28.3
+2023,"GMCH, Guwahati",Escherichia coli,Ciprofloxacin,138,26,19.0
+2023,"GMCH, Guwahati",Escherichia coli,Amikacin,138,23,17.1
+2023,"GMCH, Guwahati",Escherichia coli,Colistin,138,2,1.7
+2023,"GMCH, Guwahati",Klebsiella pneumoniae,Imipenem,193,90,46.9
+2023,"GMCH, Guwahati",Klebsiella pneumoniae,Meropenem,193,88,46.1
+2023,"GMCH, Guwahati",Klebsiella pneumoniae,Ceftriaxone,193,125,65.2
+2023,"GMCH, Guwahati",Klebsiella pneumoniae,Ciprofloxacin,193,100,52.0
+2023,"GMCH, Guwahati",Klebsiella pneumoniae,Amikacin,193,77,40.0
+2023,"GMCH, Guwahati",Klebsiella pneumoniae,Colistin,193,7,4.0
+2023,"GMCH, Guwahati",Staphylococcus aureus,Penicillin,170,56,33.2
+2023,"GMCH, Guwahati",Staphylococcus aureus,Ciprofloxacin,170,65,38.3
+2023,"GMCH, Guwahati",Staphylococcus aureus,Erythromycin,170,63,37.4
+2023,"GMCH, Guwahati",Staphylococcus aureus,Clindamycin,170,65,38.5
+2023,"GMCH, Guwahati",Staphylococcus aureus,Vancomycin,170,54,31.8
+2023,"GMCH, Guwahati",Staphylococcus aureus,Linezolid,170,76,45.2
+2023,"GMCH, Guwahati",Acinetobacter baumannii,Imipenem,141,60,43.1
+2023,"GMCH, Guwahati",Acinetobacter baumannii,Meropenem,141,60,42.8
+2023,"GMCH, Guwahati",Acinetobacter baumannii,Ceftriaxone,141,110,78.5
+2023,"GMCH, Guwahati",Acinetobacter baumannii,Ciprofloxacin,141,47,33.8
+2023,"GMCH, Guwahati",Acinetobacter baumannii,Amikacin,141,66,47.3
+2023,"GMCH, Guwahati",Acinetobacter baumannii,Colistin,141,6,4.4
+2023,"GMCH, Guwahati",Pseudomonas aeruginosa,Imipenem,209,37,17.7
+2023,"GMCH, Guwahati",Pseudomonas aeruginosa,Meropenem,209,32,15.6
+2023,"GMCH, Guwahati",Pseudomonas aeruginosa,Ceftriaxone,209,48,23.1
+2023,"GMCH, Guwahati",Pseudomonas aeruginosa,Ciprofloxacin,209,39,19.1
+2023,"GMCH, Guwahati",Pseudomonas aeruginosa,Amikacin,209,32,15.3
+2023,"GMCH, Guwahati",Pseudomonas aeruginosa,Colistin,209,3,1.9

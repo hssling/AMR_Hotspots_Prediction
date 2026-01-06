@@ -1,0 +1,45 @@
+Organism,Specimen Type,Clinical Setting (OPD/Ward/ICU),Resistance Mechanism/Gene Detected,Antibiotic Susceptibility (%),Total Culture Positive Isolates,Report Year,Source
+Escherichia coli,Blood,Not in source,"TEM (29.58%), IMP (27.97%), VIM (19.29%), NDM-1 (14.47%)","Amikacin (72.5), Ceftazidime (27.5), Imipenem (57.6), Meropenem (62.9)",25994,2024,1
+Klebsiella pneumoniae,Not in source,Not in source,"TEM (33.66%), OXA-48 (25.57%), SHV (22.98%)","Piperacillin-tazobactam (26), Imipenem (31.2), Meropenem (35.1), Amikacin (39.9)",17413,2024,1
+Pseudomonas aeruginosa,Not in source,Not in source,"MBL genes (NDM, VIM)","Imipenem (43), Meropenem (38), Ciprofloxacin (57)",11419,2024,1
+Acinetobacter baumannii,LRT,ICU,"blaOXA-23 (predominant), blaNDM","Meropenem (9), Minocycline (~70)",10351,2024,1
+Staphylococcus aureus  (MRSA),Not in source,Not in source,Not in source,"Vancomycin (~100), Teicoplanin (~100)",4253,2024,1
+Enterococcus faecium,Not in source,Ward/ICU,Not in source,Vancomycin (65.8),3002,2024,1
+Salmonella Typhi,Blood,Not in source,Not in source,"Ceftriaxone (98), Cefixime (97.9), TMP-SMX (97.7), Azithromycin (99.5), Ciprofloxacin (1.3)",841,2024,1
+Candida auris,Not in source,Not in source,Not in source,"Echinocandins (~90), Fluconazole (40.8), Voriconazole (11.8)",293,2024,1
+Escherichia coli,Blood,OPD,Not in source,"Amikacin (78.6), Ceftriaxone (28.3), Ciprofloxacin (14.2), Colistin (99.8), Ertapenem (77.2), Fosfomycin (97.5), Imipenem (72.8), Levofloxacin (13.8), Meropenem (75.1), Minocycline (83.7), Piperacillin-tazobactam (40.8), Trimethoprim-sulfamethoxazole (32.6)",947,2022,2
+Klebsiella pneumoniae,Blood,Ward,Not in source,"Amikacin (36.1), Ceftriaxone (24.8), Ciprofloxacin (18.4), Colistin (94.4), Ertapenem (35.4), Fosfomycin (61.5), Imipenem (34.6), Levofloxacin (19.6), Meropenem (35.1), Minocycline (54.9), Piperacillin-tazobactam (17.6), Trimethoprim-sulfamethoxazole (29.7)",1868,2022,2
+Staphylococcus aureus,Pus/Exudates,OPD,Not in source,"Cefoxitin (60.3), Ciprofloxacin (26.7), Clindamycin (79.2), Daptomycin (91.7), Erythromycin (38.3), Linezolid (97.9), Oxacillin (55.2), Teicoplanin (99.4), Tetracycline (85.3), Tigecycline (100), Trimethoprim-sulfamethoxazole (72.7), Vancomycin (99.2)",1196,2022,2
+Acinetobacter baumannii,LRT,Not in source,Not in source,"Amikacin (13), Cefepime (7.3), Ceftazidime (6.3), Colistin (98.1), Imipenem (8.5), Levofloxacin (10.6), Meropenem (9.8), Minocycline (53.6), Piperacillin-tazobactam (9.8)",5216,2022,2
+Salmonella Typhi,Blood,OPD,Not in source,"Ampicillin (95.3), Azithromycin (97.4), Cefixime (94.9), Cefotaxime (94.4), Ceftriaxone (96.1), Chloramphenicol (95), Ciprofloxacin (2.2), Levofloxacin (4.5), Trimethoprim-sulfamethoxazole (92)",317,2022,2
+Candida auris,All Specimens,Not in source,Not in source,"Anidulafungin (83.5), Caspofungin (75.6), Fluconazole (1.9), Micafungin (94.9), Voriconazole (23.1)",164,2022,2
+Escherichia coli,Not in source,Not in source,"CTXM-15 (34%), OXA-1 (28%), CTXM-1 (19%), NDM-1 (19%), TEM (17%), OXA-48 (17%), IMP (12%), VIM (9%), SHV (9%), KPC (3%)",Not in source,716,2022,2
+Klebsiella pneumoniae,Not in source,Not in source,"SHV (49%), CTXM-15 (34%), OXA-48 (31%), CTXM-1 (23%), OXA-1 (22%), NDM (19%), TEM (18%)",Not in source,556,2022,2
+Acinetobacter baumannii,Not in source,Not in source,blaOXA-23 like (predominant contributing to 76% of carbapenem resistance),Not in source,738,2022,2
+Escherichia coli,Blood,OPD/Ward/ICU,Not in source,"Imipenem (OPD: 75.6-72.8, Ward: 71.2, ICU: 55.9)",3244,2023,3
+Klebsiella pneumoniae,Blood,OPD/Ward/ICU,Not in source,"Imipenem (OPD: 37.9, Ward: 31.6, ICU: 23.6)",2909,2023,3
+Escherichia coli,Blood,Not in source,NDM-1,Not in source,569,2023,3
+Acinetobacter baumannii,Not in source,Not in source,blaOXA-23-like,Not in source,Not in source,2023,3
+Candida auris,Not in source,ICU,Not in source,Not in source,Not in source,2023,3
+Salmonella Typhi,Blood,Not in source,"gyrA S83F, D87N; parC S80I",19.6,293,2021,4
+Enterococcus faecium,BSI,ICU,Not in source,62.5,Not in source,2021,4
+Escherichia coli,Not in source,Not in source,Not in source,64,Not in source,2021,4
+Klebsiella pneumoniae,BSI / Not in source,ICU / Not in source,Not in source,50 / 43,Not in source,2021,4
+Acinetobacter baumannii,BSI / Not in source,ICU / Not in source,blaOXA-23,33 / 12.5,563,2021,4
+Staphylococcus aureus  (MRSA),Not in source,Not in source,Not in source,Not in source,42.6%,2021,4
+Candida auris,Not in source,Not in source,Not in source,2.6,Not in source,2021,4
+Candida krusei,Not in source,Not in source,Not in source,2.9,Not in source,2021,4
+Klebsiella pneumoniae,LRT,ICU,OXA-48 (48%),Imipenem (45),11810,2020,5
+Acinetobacter baumannii,Blood,ICU,OXA-23 like,Minocycline (49),6851,2020,5
+Candida auris,Blood,ICU,Y132F mutation (ERG11),Fluconazole (4.2),121,2020,5
+Salmonella Typhi,Blood,OPD,gyrA (S83F/Y),Ampicillin (97.5),206,2020,5
+Pseudomonas aeruginosa,LRT,ICU,"NDM, VIM",Ceftazidime (53.9),7843,2020,5
+Candida tropicalis,Blood,ICU,ERG11 mutation (Y132F),Fluconazole (95.2),500,2020,5
+Enterococcus faecium,CSF,ICU,vanA,Vancomycin (78.6),1994,2020,5
+Staphylococcus aureus  (MRSA),Superficial Infection / Blood,Not in source,mecA,Vancomycin (100),7729,2019/2020,5
+Escherichia coli,Urine,Not in source,"TEM, CTX-M-15","Ceftazidime (19), Fosfomycin (98)",46954,2019/2020,5
+Acinetobacter baumannii,LRT,ICU,"OXA-23, NDM",Minocycline (49.8),9529,2019,5
+Shigella flexneri,Faeces,Not in source,"dhfrA, sulII, blaOXA",Cefixime (79.3),96,2019,5
+Salmonella Typhi,Blood,Not in source,DNA gyrase mutations,Ciprofloxacin (15-18),Not in source,2017,3
+Staphylococcus aureus  (MRSA),Not in source,ICU,mecA,Not in source,Not in source,2017,3
+Candida tropicalis,Not in source,Not in source,Overexpression of efflux pumps,Not in source,Not in source,2017,3

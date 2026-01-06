@@ -1,0 +1,158 @@
+RC_Code,Center_Name,Pathogen,Antibiotic_Gene,Resistance_Percentage,Latitude,Longitude
+RC1,AIIMS New Delhi,S. aureus,MRSA (Phenotypic),58.2,28.5672,77.21
+RC3,JIPMER Puducherry,S. aureus,MRSA (Phenotypic),58.5,11.9546,79.8
+RC4,PGIMER Chandigarh,S. aureus,MRSA (Phenotypic),76.2,30.7628,76.7774
+RC5,AFMC Pune,S. aureus,MRSA (Phenotypic),65.4,18.502,73.88
+RC6,AIIMS Bhopal,S. aureus,MRSA (Phenotypic),48.3,23.2599,77.4126
+RC7,AIIMS Jodhpur,S. aureus,MRSA (Phenotypic),43.1,26.2389,73.0243
+RC8,Apollo Chennai,S. aureus,MRSA (Phenotypic),72.3,13.0645,80.2565
+RC9,Assam Medical College,S. aureus,MRSA (Phenotypic),52.8,27.4728,94.912
+RC10,IPGMER Kolkata,S. aureus,MRSA (Phenotypic),59.1,22.5354,88.3424
+RC11,JPN Apex Trauma Center,S. aureus,MRSA (Phenotypic),42.4,28.568,77.2
+RC12,KGMU Lucknow,S. aureus,MRSA (Phenotypic),60.4,26.8679,80.9174
+RC13,KMC Manipal,S. aureus,MRSA (Phenotypic),43.1,13.353,74.785
+RC14,LTMMC Mumbai,S. aureus,MRSA (Phenotypic),62.6,19.0305,72.859
+RC15,MGIMS Wardha,S. aureus,MRSA (Phenotypic),51.4,20.728,78.58
+RC16,NIMS Hyderabad,S. aureus,MRSA (Phenotypic),33.4,17.4116,78.455
+RC17,PD Hinduja Mumbai,S. aureus,MRSA (Phenotypic),46.5,19.033,72.839
+RC18,RIMS Imphal,S. aureus,MRSA (Phenotypic),13.7,24.817,93.936
+RC19,Sir Ganga Ram Delhi,S. aureus,MRSA (Phenotypic),37.2,28.638,77.194
+RC20,Tata Medical Center,S. aureus,MRSA (Phenotypic),14.7,22.569,88.472
+RC21,SKIMS Srinagar,S. aureus,MRSA (Phenotypic),91.7,34.137,74.809
+RC1,AIIMS New Delhi,E. coli,TEM,55.0,28.5672,77.21
+RC1,AIIMS New Delhi,E. coli,OXA1,30.0,28.5672,77.21
+RC1,AIIMS New Delhi,E. coli,KPC,23.0,28.5672,77.21
+RC2,CMC Vellore,E. coli,TEM,24.0,12.9248,79.1352
+RC2,CMC Vellore,E. coli,OXA1,4.0,12.9248,79.1352
+RC2,CMC Vellore,E. coli,KPC,12.0,12.9248,79.1352
+RC5,AFMC Pune,E. coli,TEM,35.0,18.502,73.88
+RC5,AFMC Pune,E. coli,OXA1,4.0,18.502,73.88
+RC5,AFMC Pune,E. coli,KPC,4.0,18.502,73.88
+RC6,AIIMS Bhopal,E. coli,TEM,67.0,23.2599,77.4126
+RC6,AIIMS Bhopal,E. coli,OXA1,14.0,23.2599,77.4126
+RC6,AIIMS Bhopal,E. coli,KPC,0.0,23.2599,77.4126
+RC8,Apollo Chennai,E. coli,TEM,39.0,13.0645,80.2565
+RC8,Apollo Chennai,E. coli,OXA1,15.0,13.0645,80.2565
+RC8,Apollo Chennai,E. coli,KPC,28.0,13.0645,80.2565
+RC9,Assam Medical College,E. coli,TEM,8.0,27.4728,94.912
+RC9,Assam Medical College,E. coli,OXA1,12.0,27.4728,94.912
+RC9,Assam Medical College,E. coli,KPC,24.0,27.4728,94.912
+RC12,KGMU Lucknow,E. coli,TEM,32.0,26.8679,80.9174
+RC12,KGMU Lucknow,E. coli,OXA1,67.0,26.8679,80.9174
+RC12,KGMU Lucknow,E. coli,KPC,42.0,26.8679,80.9174
+RC15,MGIMS Wardha,E. coli,TEM,57.0,20.728,78.58
+RC15,MGIMS Wardha,E. coli,OXA1,16.0,20.728,78.58
+RC15,MGIMS Wardha,E. coli,KPC,16.0,20.728,78.58
+RC16,NIMS Hyderabad,E. coli,TEM,26.0,17.4116,78.455
+RC16,NIMS Hyderabad,E. coli,OXA1,6.0,17.4116,78.455
+RC16,NIMS Hyderabad,E. coli,KPC,6.0,17.4116,78.455
+RC19,Sir Ganga Ram Delhi,E. coli,TEM,9.0,28.638,77.194
+RC19,Sir Ganga Ram Delhi,E. coli,OXA1,9.0,28.638,77.194
+RC19,Sir Ganga Ram Delhi,E. coli,KPC,9.0,28.638,77.194
+RC21,SKIMS Srinagar,E. coli,TEM,46.0,34.137,74.809
+RC21,SKIMS Srinagar,E. coli,OXA1,19.0,34.137,74.809
+RC21,SKIMS Srinagar,E. coli,KPC,27.0,34.137,74.809
+RC1,AIIMS New Delhi,K. pneumoniae,TEM,72.0,28.5672,77.21
+RC1,AIIMS New Delhi,K. pneumoniae,NDM,61.0,28.5672,77.21
+RC1,AIIMS New Delhi,K. pneumoniae,SHV,11.0,28.5672,77.21
+RC1,AIIMS New Delhi,K. pneumoniae,OXA1,26.0,28.5672,77.21
+RC1,AIIMS New Delhi,K. pneumoniae,IMP,63.0,28.5672,77.21
+RC1,AIIMS New Delhi,K. pneumoniae,VIM,26.0,28.5672,77.21
+RC1,AIIMS New Delhi,K. pneumoniae,KPC,15.0,28.5672,77.21
+RC1,AIIMS New Delhi,K. pneumoniae,CTXM1,24.0,28.5672,77.21
+RC2,CMC Vellore,K. pneumoniae,TEM,39.0,12.9248,79.1352
+RC2,CMC Vellore,K. pneumoniae,NDM,31.0,12.9248,79.1352
+RC2,CMC Vellore,K. pneumoniae,SHV,16.0,12.9248,79.1352
+RC2,CMC Vellore,K. pneumoniae,OXA1,0.0,12.9248,79.1352
+RC2,CMC Vellore,K. pneumoniae,IMP,0.0,12.9248,79.1352
+RC2,CMC Vellore,K. pneumoniae,VIM,0.0,12.9248,79.1352
+RC2,CMC Vellore,K. pneumoniae,KPC,0.0,12.9248,79.1352
+RC2,CMC Vellore,K. pneumoniae,CTXM1,0.0,12.9248,79.1352
+RC3,JIPMER Puducherry,K. pneumoniae,TEM,47.0,11.9546,79.8
+RC3,JIPMER Puducherry,K. pneumoniae,NDM,0.0,11.9546,79.8
+RC3,JIPMER Puducherry,K. pneumoniae,SHV,27.0,11.9546,79.8
+RC3,JIPMER Puducherry,K. pneumoniae,OXA1,7.0,11.9546,79.8
+RC3,JIPMER Puducherry,K. pneumoniae,IMP,80.0,11.9546,79.8
+RC3,JIPMER Puducherry,K. pneumoniae,VIM,13.0,11.9546,79.8
+RC3,JIPMER Puducherry,K. pneumoniae,KPC,7.0,11.9546,79.8
+RC3,JIPMER Puducherry,K. pneumoniae,CTXM1,0.0,11.9546,79.8
+RC5,AFMC Pune,K. pneumoniae,TEM,29.0,18.502,73.88
+RC5,AFMC Pune,K. pneumoniae,NDM,9.0,18.502,73.88
+RC5,AFMC Pune,K. pneumoniae,SHV,15.0,18.502,73.88
+RC5,AFMC Pune,K. pneumoniae,OXA1,18.0,18.502,73.88
+RC5,AFMC Pune,K. pneumoniae,IMP,74.0,18.502,73.88
+RC5,AFMC Pune,K. pneumoniae,VIM,29.0,18.502,73.88
+RC5,AFMC Pune,K. pneumoniae,KPC,0.0,18.502,73.88
+RC5,AFMC Pune,K. pneumoniae,CTXM1,18.0,18.502,73.88
+RC6,AIIMS Bhopal,K. pneumoniae,TEM,67.0,23.2599,77.4126
+RC6,AIIMS Bhopal,K. pneumoniae,NDM,33.0,23.2599,77.4126
+RC6,AIIMS Bhopal,K. pneumoniae,SHV,0.0,23.2599,77.4126
+RC6,AIIMS Bhopal,K. pneumoniae,OXA1,0.0,23.2599,77.4126
+RC6,AIIMS Bhopal,K. pneumoniae,IMP,38.0,23.2599,77.4126
+RC6,AIIMS Bhopal,K. pneumoniae,VIM,42.0,23.2599,77.4126
+RC6,AIIMS Bhopal,K. pneumoniae,KPC,25.0,23.2599,77.4126
+RC6,AIIMS Bhopal,K. pneumoniae,CTXM1,4.0,23.2599,77.4126
+RC7,AIIMS Jodhpur,K. pneumoniae,TEM,0.0,26.2389,73.0243
+RC7,AIIMS Jodhpur,K. pneumoniae,NDM,0.0,26.2389,73.0243
+RC7,AIIMS Jodhpur,K. pneumoniae,SHV,0.0,26.2389,73.0243
+RC7,AIIMS Jodhpur,K. pneumoniae,OXA1,0.0,26.2389,73.0243
+RC7,AIIMS Jodhpur,K. pneumoniae,IMP,71.0,26.2389,73.0243
+RC7,AIIMS Jodhpur,K. pneumoniae,VIM,0.0,26.2389,73.0243
+RC7,AIIMS Jodhpur,K. pneumoniae,KPC,0.0,26.2389,73.0243
+RC7,AIIMS Jodhpur,K. pneumoniae,CTXM1,0.0,26.2389,73.0243
+RC10,IPGMER Kolkata,K. pneumoniae,TEM,50.0,22.5354,88.3424
+RC10,IPGMER Kolkata,K. pneumoniae,NDM,0.0,22.5354,88.3424
+RC10,IPGMER Kolkata,K. pneumoniae,SHV,100.0,22.5354,88.3424
+RC10,IPGMER Kolkata,K. pneumoniae,OXA1,0.0,22.5354,88.3424
+RC10,IPGMER Kolkata,K. pneumoniae,IMP,50.0,22.5354,88.3424
+RC10,IPGMER Kolkata,K. pneumoniae,VIM,0.0,22.5354,88.3424
+RC10,IPGMER Kolkata,K. pneumoniae,KPC,0.0,22.5354,88.3424
+RC10,IPGMER Kolkata,K. pneumoniae,CTXM1,0.0,22.5354,88.3424
+RC12,KGMU Lucknow,K. pneumoniae,TEM,34.0,26.8679,80.9174
+RC12,KGMU Lucknow,K. pneumoniae,NDM,49.0,26.8679,80.9174
+RC12,KGMU Lucknow,K. pneumoniae,SHV,31.0,26.8679,80.9174
+RC12,KGMU Lucknow,K. pneumoniae,OXA1,29.0,26.8679,80.9174
+RC12,KGMU Lucknow,K. pneumoniae,IMP,53.0,26.8679,80.9174
+RC12,KGMU Lucknow,K. pneumoniae,VIM,31.0,26.8679,80.9174
+RC12,KGMU Lucknow,K. pneumoniae,KPC,0.0,26.8679,80.9174
+RC12,KGMU Lucknow,K. pneumoniae,CTXM1,7.0,26.8679,80.9174
+RC13,KMC Manipal,K. pneumoniae,TEM,27.0,13.353,74.785
+RC13,KMC Manipal,K. pneumoniae,NDM,13.0,13.353,74.785
+RC13,KMC Manipal,K. pneumoniae,SHV,0.0,13.353,74.785
+RC13,KMC Manipal,K. pneumoniae,OXA1,33.0,13.353,74.785
+RC13,KMC Manipal,K. pneumoniae,IMP,0.0,13.353,74.785
+RC13,KMC Manipal,K. pneumoniae,VIM,7.0,13.353,74.785
+RC13,KMC Manipal,K. pneumoniae,KPC,0.0,13.353,74.785
+RC13,KMC Manipal,K. pneumoniae,CTXM1,0.0,13.353,74.785
+RC15,MGIMS Wardha,K. pneumoniae,TEM,82.0,20.728,78.58
+RC15,MGIMS Wardha,K. pneumoniae,NDM,6.0,20.728,78.58
+RC15,MGIMS Wardha,K. pneumoniae,SHV,24.0,20.728,78.58
+RC15,MGIMS Wardha,K. pneumoniae,OXA1,6.0,20.728,78.58
+RC15,MGIMS Wardha,K. pneumoniae,IMP,76.0,20.728,78.58
+RC15,MGIMS Wardha,K. pneumoniae,VIM,47.0,20.728,78.58
+RC15,MGIMS Wardha,K. pneumoniae,KPC,41.0,20.728,78.58
+RC15,MGIMS Wardha,K. pneumoniae,CTXM1,18.0,20.728,78.58
+RC16,NIMS Hyderabad,K. pneumoniae,TEM,33.0,17.4116,78.455
+RC16,NIMS Hyderabad,K. pneumoniae,NDM,14.0,17.4116,78.455
+RC16,NIMS Hyderabad,K. pneumoniae,SHV,10.0,17.4116,78.455
+RC16,NIMS Hyderabad,K. pneumoniae,OXA1,0.0,17.4116,78.455
+RC16,NIMS Hyderabad,K. pneumoniae,IMP,5.0,17.4116,78.455
+RC16,NIMS Hyderabad,K. pneumoniae,VIM,24.0,17.4116,78.455
+RC16,NIMS Hyderabad,K. pneumoniae,KPC,10.0,17.4116,78.455
+RC16,NIMS Hyderabad,K. pneumoniae,CTXM1,5.0,17.4116,78.455
+RC19,Sir Ganga Ram Delhi,K. pneumoniae,TEM,11.0,28.638,77.194
+RC19,Sir Ganga Ram Delhi,K. pneumoniae,NDM,11.0,28.638,77.194
+RC19,Sir Ganga Ram Delhi,K. pneumoniae,SHV,11.0,28.638,77.194
+RC19,Sir Ganga Ram Delhi,K. pneumoniae,OXA1,11.0,28.638,77.194
+RC19,Sir Ganga Ram Delhi,K. pneumoniae,IMP,16.0,28.638,77.194
+RC19,Sir Ganga Ram Delhi,K. pneumoniae,VIM,11.0,28.638,77.194
+RC19,Sir Ganga Ram Delhi,K. pneumoniae,KPC,5.0,28.638,77.194
+RC19,Sir Ganga Ram Delhi,K. pneumoniae,CTXM1,5.0,28.638,77.194
+RC21,SKIMS Srinagar,K. pneumoniae,TEM,47.0,34.137,74.809
+RC21,SKIMS Srinagar,K. pneumoniae,NDM,50.0,34.137,74.809
+RC21,SKIMS Srinagar,K. pneumoniae,SHV,24.0,34.137,74.809
+RC21,SKIMS Srinagar,K. pneumoniae,OXA1,11.0,34.137,74.809
+RC21,SKIMS Srinagar,K. pneumoniae,IMP,37.0,34.137,74.809
+RC21,SKIMS Srinagar,K. pneumoniae,VIM,32.0,34.137,74.809
+RC21,SKIMS Srinagar,K. pneumoniae,KPC,3.0,34.137,74.809
+RC21,SKIMS Srinagar,K. pneumoniae,CTXM1,0.0,34.137,74.809
