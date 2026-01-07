@@ -1,0 +1,7 @@
+Pathogen,NDM,OXA-48,OXA-23,CTX-M-15,VIM,mecA,vanA
+Escherichia coli,Detected,Detected,-,Detected,14.1%,-,-
+Klebsiella pneumoniae,Detected,Detected,-,Detected,-,-,-
+Acinetobacter baumannii,Detected,-,Detected,-,-,-,-
+Pseudomonas aeruginosa,Detected,-,-,-,Detected,-,-
+Staphylococcus aureus (MRSA),-,-,-,-,-,Detected,-
+Enterococcus faecium,-,-,-,-,-,-,Detected

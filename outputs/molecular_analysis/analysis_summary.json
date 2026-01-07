@@ -1,0 +1,23 @@
+{
+  "total_gene_detections": 39,
+  "unique_genes": 11,
+  "unique_pathogens": 6,
+  "years_covered": [
+    "2017",
+    "2019",
+    "2019/2020",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "key_findings": {
+    "OXA-23_A_baumannii": "Predominant carbapenemase in A. baumannii (76%)",
+    "NDM_Enterobacteriaceae": "Rising in E. coli and K. pneumoniae (14-19%)",
+    "CTX-M-15": "Most common ESBL variant (34%)",
+    "mecA_MRSA": "Primary methicillin resistance determinant",
+    "colistin_susceptibility": "Retained >94% for most Gram-negatives"
+  },
+  "susceptibility_data_points": 19
+}

@@ -1,0 +1,7 @@
+Pathogen,Colistin,Fosfomycin,Linezolid,Minocycline,Tigecycline,Vancomycin
+Acinetobacter baumannii,98.1,,,55.6,,
+Enterococcus faecium,,,,,,72.2
+Escherichia coli,99.8,97.8,,83.7,,
+Klebsiella pneumoniae,94.4,61.5,,54.9,,
+Staphylococcus aureus,,,97.9,,100.0,99.2
+Staphylococcus aureus  (MRSA),,,,,,100.0
