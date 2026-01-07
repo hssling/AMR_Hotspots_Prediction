@@ -287,15 +287,15 @@ def create_manuscript():
         p.paragraph_format.line_spacing = 1.5
     
     # Save
-    output_path = os.path.join(SUBMISSION_DIR, 'Manuscript_5_Molecular_IJMM.docx')
+    output_path = os.path.join(SUBMISSION_DIR, 'Manuscript_5_Molecular_IJMM_v2.docx')
     doc.save(output_path)
-    print(f"\nSaved manuscript: {output_path}")
+    print(f"\\nSaved manuscript: {output_path}")
     
     return output_path
 
 def create_figures_document():
     """Create figures document."""
-    print("\nCreating figures document...")
+    print("\\nCreating figures document...")
     doc = Document()
     doc.add_heading('Figures - Manuscript 5', level=1)
     
@@ -319,13 +319,13 @@ def create_figures_document():
     if os.path.exists(fig3):
         doc.add_picture(fig3, width=Inches(6))
     
-    output_path = os.path.join(SUBMISSION_DIR, 'Manuscript_5_Molecular_Figures.docx')
+    output_path = os.path.join(SUBMISSION_DIR, 'Manuscript_5_Molecular_Figures_v2.docx')
     doc.save(output_path)
     print(f"Saved: {output_path}")
 
 def create_tables_document():
     """Create tables document."""
-    print("\nCreating tables document...")
+    print("\\nCreating tables document...")
     import pandas as pd
     doc = Document()
     doc.add_heading('Tables - Manuscript 5', level=1)
@@ -358,13 +358,13 @@ def create_tables_document():
         for j, val in enumerate(row):
             table.cell(i+1, j).text = str(val)
     
-    output_path = os.path.join(SUBMISSION_DIR, 'Manuscript_5_Molecular_Tables.docx')
+    output_path = os.path.join(SUBMISSION_DIR, 'Manuscript_5_Molecular_Tables_v2.docx')
     doc.save(output_path)
     print(f"Saved: {output_path}")
 
 def create_cover_letter():
     """Create cover letter."""
-    print("\nCreating cover letter...")
+    print("\\nCreating cover letter...")
     doc = Document()
     
     doc.add_paragraph("Date: January 7, 2026")
@@ -394,7 +394,7 @@ def create_cover_letter():
     doc.add_paragraph("Dr. Siddalingaiah H S")
     doc.add_paragraph("Corresponding Author")
     
-    output_path = os.path.join(SUBMISSION_DIR, 'Cover_Letter_IJMM_MS5.docx')
+    output_path = os.path.join(SUBMISSION_DIR, 'Cover_Letter_IJMM_MS5_v2.docx')
     doc.save(output_path)
     print(f"Saved: {output_path}")
 

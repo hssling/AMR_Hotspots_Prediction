@@ -32,7 +32,14 @@ def load_and_process_data():
     
     print(f"Total records: {len(df)}")
     print(f"Columns: {df.columns.tolist()}")
-    print(f"Years: {sorted(df['Report Year'].dropna().unique())}")
+    print(f"Years (raw): {sorted(df['Report Year'].dropna().unique())}")
+    
+    # Clean Year column - handle '2019/2020' etc
+    df['Report Year'] = df['Report Year'].astype(str).str.extract(r'(\d{4})').astype(float)
+    df = df.dropna(subset=['Report Year'])
+    df['Report Year'] = df['Report Year'].astype(int)
+    
+    print(f"Years (cleaned): {sorted(df['Report Year'].unique())}")
     print(f"Organisms: {df['Organism'].unique().tolist()}")
     
     return df
