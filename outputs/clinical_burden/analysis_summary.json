@@ -1,0 +1,25 @@
+{
+  "overall_mortality_mean": 36.37142857142858,
+  "overall_mortality_range": [
+    20.4,
+    44.3
+  ],
+  "overall_los_mean": 26.107142857142858,
+  "overall_los_range": [
+    15.0,
+    55.5
+  ],
+  "n_records": 14,
+  "years_covered": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "key_findings": {
+    "highest_mortality_pathogen": "A. baumannii",
+    "highest_resistance": "A. baumannii (88-91%)",
+    "mortality_trend": "Slight decline from 44.3% (2022) to 36.6% (2024)",
+    "los_improvement": "Decreased from 55.5 days (2021) to 15 days (2024)"
+  }
+}

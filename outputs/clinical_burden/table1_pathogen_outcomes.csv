@@ -1,0 +1,6 @@
+Pathogen,Resistance,Antibiotic_Tested,BSI_Mortality_%,Median_LOS_days,N_observations
+K. pneumoniae,75-80%,Imipenem,39.1,31,3
+A. baumannii,88-91%,Imipenem,39.1,31,3
+S. aureus (MRSA),63-87%,Oxacillin,39.6,18,2
+E. faecium (VRE),42%,Vancomycin,39.6,18,2
+E. coli,28-51%,Imipenem,29.4,38,2
