@@ -141,3 +141,9 @@ if __name__ == "__main__":
         os.path.join(base_dir, "Cover_Letter_IJMR.md"), 
         os.path.join(base_dir, "Cover_Letter.docx")
     )
+
+    # 6. Submission Forms
+    create_docx(
+        os.path.join(base_dir, "Submission_Forms_ICMR.md"), 
+        os.path.join(base_dir, "Submission_Forms.docx")
+    )
