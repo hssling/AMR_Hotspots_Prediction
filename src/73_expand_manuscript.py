@@ -68,19 +68,20 @@ def create_expanded_manuscript():
     
     p = doc.add_paragraph()
     p.add_run("Background: ").bold = True
-    p.add_run("The escalating burden of antimicrobial resistance (AMR) in India is driven by the dissemination of potent resistance mechanisms, particularly carbapenemases and extended-spectrum beta-lactamases (ESBLs). India, often termed the 'AMR capital', faces unique challenges with the proliferation of New Delhi Metallo-beta-lactamase (NDM) and OXA-48-like enzymes. Understanding the molecular epidemiology of these genes is crucial for informing national diagnostic algorithms and therapeutic guidelines.")
+    p.add_run("Antimicrobial resistance (AMR) in India is driven by potent mechanisms like carbapenemases (NDM, OXA-48). We analyzed the molecular epidemiology of these genes using national surveillance data to inform diagnostic and therapeutic strategies.")
     
     p = doc.add_paragraph()
     p.add_run("Methods: ").bold = True
-    p.add_run("We conducted a longitudinal analysis of molecular surveillance data from the Indian Council of Medical Research Antimicrobial Resistance Surveillance Network (ICMR-AMRSN) spanning the years 2017 to 2024. The study synthesized data from 44 aggregate reports covering tertiary care centers across India. We characterized the distribution, prevalence, and temporal trends of key resistance genes (NDM, OXA-48, OXA-23, VIM, CTX-M-15, mecA, vanA) across WHO priority ESKAPE pathogens. Additionally, phenotypic susceptibility patterns to critical reserve agents—colistin, tigecycline, and fosfomycin—were correlated with genotypic profiles.")
+    p.add_run("We analyzed ICMR-AMRSN surveillance data (2017–2024) from 44 reports across tertiary centers. We characterized the distribution and trends of key resistance genes (NDM, OXA-48, OXA-23, VIM, CTX-M-15, mecA, vanA) in ESKAPE pathogens and correlated them with susceptibility to reserve agents (colistin, fosfomycin, minocycline).")
     
     p = doc.add_paragraph()
     p.add_run("Results: ").bold = True
-    p.add_run("Our analysis revealed distinct, pathogen-specific molecular profiles. Acinetobacter baumannii resistance was overwhelmingly driven by blaOXA-23, which was detected in 76% of carbapenem-resistant isolates, often in association with blaNDM. In Enterobacteriaceae, a diverse carbapenemase landscape was observed: Klebsiella pneumoniae isolates showed high prevalence of blaOXA-48 (approximately 35%) and blaNDM (19%), frequently co-occurring with blaCTX-M-15 ESBLs. Escherichia coli resistance was primarily mediated by NDM-1 (14-19%) and blaCTX-M-15 (34%). Notably, co-occurrence of NDM and OXA-48 was identified in approximately 15-20% of K. pneumoniae isolates, complicating treatment options. Among Gram-positive pathogens, methicillin resistance in Staphylococcus aureus (MRSA) was universally mecA-mediated. Despite the high burden of resistance genes, susceptibility to colistin remained robust (>94%) across most Gram-negative isolates. Fosfomycin retained high activity (>95%) against urinary E. coli, and minocycline remained active against 50-70% of A. baumannii isolates.")
+    p.add_run("Acinetobacter baumannii resistance was driven by blaOXA-23 (76%), often with blaNDM. Klebsiella pneumoniae showed a complex landscape with blaOXA-48 (approximately 35%) and blaNDM (19%), frequently co-occurring with blaCTX-M-15. Escherichia coli resistance was mediated by NDM-1 (14–19%) and blaCTX-M-15 (34%). Co-occurrence of NDM and OXA-48 appeared in ~15–20% of K. pneumoniae isolates. Staphylococcus aureus resistance was mecA-mediated. Colistin susceptibility remained >94% for Gram-negatives. Fosfomycin (>95%) and minocycline (50–70% for A. baumannii) retained significant activity.")
     
     p = doc.add_paragraph()
     p.add_run("Conclusions: ").bold = True
-    p.add_run("The molecular landscape of Indian clinical isolates is dominated by NDM and OXA-23 carbapenemases, a pattern distinct from the KPC-dominated landscape in the West. The persistence and co-occurrence of these genes underscore the urgent need for widespread implementation of rapid molecular diagnostics to guide early, appropriate therapy. While reserve agents like colistin remain effective, their utility must be safeguarded through strict antimicrobial stewardship and continuous genomic surveillance to detect emerging threats such as mcr-mediated resistance.")
+    p.add_run("India's resistome is dominated by NDM and OXA-23, distinct from Western KPC-driven patterns. The high prevalence of double-carbapenemase producers necessitates improved access to rapid molecular diagnostics. While reserve agents remain effective, strict stewardship and genomic surveillance are essential to preserve their utility against emerging threats.")
+
     
     doc.add_paragraph()
     p = doc.add_paragraph()
@@ -301,7 +302,8 @@ def create_expanded_manuscript():
         p.paragraph_format.line_spacing = 1.5
     
     # Save
-    output_path = os.path.join(SUBMISSION_DIR, 'Manuscript_5_Molecular_IJMM_EXPANDED.docx')
+    output_path = os.path.join(SUBMISSION_DIR, 'Manuscript_5_Molecular_IJMM_EXPANDED_v2.docx')
+
     doc.save(output_path)
     print(f"\nSaved expanded manuscript: {output_path}")
     
