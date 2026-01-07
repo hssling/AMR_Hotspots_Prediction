@@ -78,12 +78,15 @@ def extract_gene_prevalence(df):
         for gene_name, pattern in genes_of_interest.items():
             if re.search(pattern, mechanism_text, re.IGNORECASE):
                 # Try to extract prevalence percentage
-                prev_match = re.search(rf'{pattern}[^,]*?[\(\[]\s*(\d+\.?\d*)\s*%', mechanism_text, re.IGNORECASE)
+                # Fixed regex: handle operator precedence (?:pattern) and text inside brackets (?:[^)\d]*?)
                 try:
-                    prevalence = float(prev_match.group(1)) if prev_match and prev_match.group(1) else None
+                    regex = rf'(?:{pattern})[^,]*?[\(\[]\s*(?:[^)\d]*?)(\d+\.?\d*)\s*%'
+                    prev_match = re.search(regex, mechanism_text, re.IGNORECASE)
+                    prevalence = float(prev_match.group(1)) if prev_match else None
                 except (ValueError, TypeError, AttributeError):
                     prevalence = None
                 
+
                 gene_data.append({
                     'Organism': organism,
                     'Year': year,
@@ -191,8 +194,12 @@ def generate_figure_2_temporal(gene_df):
     # Filter for genes with prevalence data
     prev_df = gene_df[gene_df['Prevalence'].notna()].copy()
     
+    print(f"  Prevalence data points available: {len(prev_df)}")
+    if len(prev_df) > 0:
+        print(prev_df[['Year', 'Gene', 'Prevalence']])
+
     if len(prev_df) < 5:
-        print("  Insufficient prevalence data. Creating detection count plot instead...")
+        print("  Insufficient prevalence data (<5 points). Creating detection count plot instead...")
         # Use detection counts by year
         yearly_counts = gene_df.groupby(['Year', 'Gene']).size().unstack(fill_value=0)
         
@@ -203,6 +210,7 @@ def generate_figure_2_temporal(gene_df):
         
         for gene, color in zip(key_genes, colors):
             if gene in yearly_counts.columns:
+                print(f"  Plotting detection count for {gene}: {yearly_counts[gene].sum()} total")
                 ax.plot(yearly_counts.index, yearly_counts[gene], 'o-', 
                         label=gene, color=color, linewidth=2, markersize=8)
         
@@ -211,22 +219,27 @@ def generate_figure_2_temporal(gene_df):
         ax.set_title('Temporal Trends in Key Carbapenemase Gene Detection\nICMR-AMRSN Surveillance (2017-2024)', 
                      fontsize=14, fontweight='bold')
         ax.legend(title='Resistance Gene', loc='upper left')
-        ax.set_xlim(2016.5, 2024.5)
+        ax.set_xlim(min(yearly_counts.index)-0.5, max(yearly_counts.index)+0.5)
         
     else:
         # Use actual prevalence values
+        print("  Using numeric prevalence values for plotting.")
         fig, ax = plt.subplots(figsize=(10, 6))
         
-        for gene in ['NDM', 'OXA-48', 'OXA-23', 'CTX-M-15']:
+        for gene in ['NDM', 'OXA-48', 'OXA-23', 'CTX-M-15', 'VIM']:
             gene_data = prev_df[prev_df['Gene'] == gene]
             if len(gene_data) > 0:
-                ax.scatter(gene_data['Year'], gene_data['Prevalence'], label=gene, s=100)
+                print(f"  Plotting prevalence for {gene}: {len(gene_data)} points")
+                ax.plot(gene_data['Year'], gene_data['Prevalence'], 'o-', label=gene, linewidth=2, markersize=8)
         
         ax.set_xlabel('Year', fontsize=12, fontweight='bold')
         ax.set_ylabel('Prevalence (%)', fontsize=12, fontweight='bold')
         ax.set_title('Temporal Trends in Carbapenemase Gene Prevalence', 
                      fontsize=14, fontweight='bold')
         ax.legend()
+        ax.set_ylim(0, 100)
+    
+
     
     plt.tight_layout()
     fig.savefig(os.path.join(OUTPUT_DIR, 'fig2_temporal_trends.png'), dpi=300, bbox_inches='tight')
