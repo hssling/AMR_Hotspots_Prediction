@@ -1,0 +1,6 @@
+Analysis,Slope Change (%/year),p-value,N (years)
+K. pneumoniae,0.271,0.8481,8
+E. coli,1.260,0.0482,9
+A. baumannii,6.733,0.0732,6
+S. aureus (MRSA),2.975,0.0347,8
+Excluding_COVID,3.488,0.0014,7

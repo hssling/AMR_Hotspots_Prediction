@@ -1,0 +1,41 @@
+{
+  "analysis_date": "2026-01-07",
+  "intervention_year": 2016,
+  "campaign_name": "Red Line Campaign",
+  "primary_results": {
+    "pre_slope": 2.5143563457152154,
+    "level_change": 11.60669119404034,
+    "slope_change": 2.5143563457152167,
+    "slope_change_pval": 0.004183661634213527,
+    "r_squared": 0.7130872682476566,
+    "durbin_watson": 0.5602275068369135
+  },
+  "sensitivity_results": {
+    "K. pneumoniae": {
+      "slope_change": 0.2707671957671829,
+      "slope_change_pval": 0.8481215744007438,
+      "n_years": 8
+    },
+    "E. coli": {
+      "slope_change": 1.2597592592592597,
+      "slope_change_pval": 0.048163574822923994,
+      "n_years": 9
+    },
+    "A. baumannii": {
+      "slope_change": 6.732857142857146,
+      "slope_change_pval": 0.07319257598416044,
+      "n_years": 6
+    },
+    "S. aureus (MRSA)": {
+      "slope_change": 2.9746428571428494,
+      "slope_change_pval": 0.034743833728845305,
+      "n_years": 8
+    },
+    "Excluding_COVID": {
+      "slope_change": 3.488479437229438,
+      "slope_change_pval": 0.0014020136592916882,
+      "n_years": 7
+    }
+  },
+  "interpretation": "Analysis pending - see output files"
+}

@@ -1,0 +1,121 @@
+Year,Pathogen,Antibiotic,Resistance_Pct,Source,Pathogen_Standard
+2024,Escherichia coli,Piperacillin-tazobactam,35.0,Epidemiology,E. coli
+2024,Escherichia coli,Piperacillin-tazobactam,40.1,Epidemiology,E. coli
+2024,Escherichia coli,Piperacillin-tazobactam,48.7,Epidemiology,E. coli
+2024,Klebsiella pneumoniae,Meropenem,24.2,Epidemiology,K. pneumoniae
+2024,Acinetobacter baumannii,Meropenem,91.0,Epidemiology,A. baumannii
+2024,Pseudomonas aeruginosa,Imipenem,43.0,Epidemiology,P. aeruginosa
+2024,Salmonella Typhi,Ciprofloxacin,95.0,Epidemiology,S. Typhi
+2024,Staphylococcus aureus (MRSA),Methicillin,53.0,Epidemiology,S. aureus (MRSA)
+2023,Acinetobacter baumannii,Imipenem,5.4,Epidemiology,A. baumannii
+2023,Pseudomonas aeruginosa,Piperacillin-tazobactam,57.6,Epidemiology,P. aeruginosa
+2023,Escherichia coli,Piperacillin-tazobactam,34.8,Epidemiology,E. coli
+2023,Escherichia coli,Cefotaxime,5.3,Epidemiology,E. coli
+2023,Escherichia coli,Amikacin,52.2,Epidemiology,E. coli
+2023,Klebsiella pneumoniae,Imipenem,54.3,Epidemiology,K. pneumoniae
+2023,Salmonella Typhi,Ciprofloxacin,1.6,Epidemiology,S. Typhi
+2022,Acinetobacter baumannii,Imipenem,11.7,Epidemiology,A. baumannii
+2022,Enterococcus faecium,Vancomycin,63.2,Epidemiology,E. faecium
+2022,Staphylococcus aureus,Oxacillin,56.6,Epidemiology,S. aureus (MRSA)
+2022,Escherichia coli,Imipenem,66.1,Epidemiology,E. coli
+2022,Candida auris,Fluconazole,1.9,Epidemiology,C. auris
+2021,Salmonella Typhi,Ciprofloxacin,88.9,Epidemiology,S. Typhi
+2021,Salmonella Typhi,Ampicillin,96.0,Epidemiology,S. Typhi
+2021,Salmonella Typhi,Ampicillin,100.0,Epidemiology,S. Typhi
+2021,Salmonella Typhi,Ampicillin,95.58,Epidemiology,S. Typhi
+2021,Salmonella Typhi,Azithromycin,100.0,Epidemiology,S. Typhi
+2021,Salmonella Typhi,Azithromycin,98.8,Epidemiology,S. Typhi
+2021,Staphylococcus aureus,Methicillin / Cefoxitin,42.6,Epidemiology,S. aureus (MRSA)
+2021,Enterococcus faecium,Vancomycin,37.5,Epidemiology,E. faecium
+2021,Acinetobacter baumannii,Carbapenems,87.5,Epidemiology,A. baumannii
+2021,Klebsiella pneumoniae,Imipenem,31.0,Epidemiology,K. pneumoniae
+2021,Klebsiella pneumoniae,Imipenem,59.0,Epidemiology,K. pneumoniae
+2021,Klebsiella pneumoniae,Imipenem,43.0,Epidemiology,K. pneumoniae
+2021,Escherichia coli,Imipenem,64.0,Epidemiology,E. coli
+2020,Staphylococcus aureus (MRSA),Vancomycin,100.0,Epidemiology,S. aureus (MRSA)
+2020,Salmonella Typhi,Ciprofloxacin,4.9,Epidemiology,S. Typhi
+2020,Escherichia coli,Imipenem,72.0,Epidemiology,E. coli
+2020,Klebsiella pneumoniae,Imipenem,45.0,Epidemiology,K. pneumoniae
+2020,Acinetobacter baumannii,Carbapenems,11.1,Epidemiology,A. baumannii
+2020,Pseudomonas aeruginosa,Ciprofloxacin,57.6,Epidemiology,P. aeruginosa
+2020,Enterococcus faecium,Vancomycin,78.5,Epidemiology,E. faecium
+2020,Candida auris,Fluconazole,32.0,Epidemiology,C. auris
+2020,Candida tropicalis,Fluconazole,95.2,Epidemiology,Candida tropicalis
+2019,Candida auris,Caspofungin,69.4,Epidemiology,C. auris
+2018,Salmonella Typhi,Ciprofloxacin,5.0,Epidemiology,S. Typhi
+2018,Pseudomonas aeruginosa,Ciprofloxacin,52.2,Epidemiology,P. aeruginosa
+2018,Escherichia coli,Amikacin,80.0,Epidemiology,E. coli
+2018,Klebsiella pneumoniae,Imipenem,53.0,Epidemiology,K. pneumoniae
+2018,Acinetobacter baumannii,Meropenem,22.8,Epidemiology,A. baumannii
+2017,Staphylococcus aureus (MRSA),Methicillin,31.9,Epidemiology,S. aureus (MRSA)
+2017,Salmonella Typhi,Ciprofloxacin,15.0,Epidemiology,S. Typhi
+2022,Escherichia coli,Mixed,19.0,Granular,E. coli
+2021,Escherichia coli,Mixed,37.0,Granular,E. coli
+2021,Klebsiella pneumoniae,Mixed,57.0,Granular,K. pneumoniae
+2021,Escherichia coli,Mixed,36.0,Granular,E. coli
+2021,Staphylococcus aureus (MRSA),Mixed,42.6,Granular,S. aureus (MRSA)
+2018,Escherichia coli,Mixed,20.0,Granular,E. coli
+2019,Staphylococcus aureus (MRSA),Mixed,29.4,Granular,S. aureus (MRSA)
+2018,Staphylococcus aureus (MRSA),Mixed,21.0,Granular,S. aureus (MRSA)
+2017,Staphylococcus aureus (MRSA),Mixed,23.5,Granular,S. aureus (MRSA)
+2017,Enterococcus faecium (VRE),Mixed,4.0,Granular,E. faecium (VRE)
+2021,Escherichia coli,Mixed,35.9,Granular,E. coli
+2021,Klebsiella pneumoniae,Mixed,57.0,Granular,K. pneumoniae
+2020,Escherichia coli,Mixed,28.0,Granular,E. coli
+2019,Escherichia coli,Mixed,36.6,Granular,E. coli
+2019,Klebsiella pneumoniae,Mixed,54.0,Granular,K. pneumoniae
+2018,Escherichia coli,Mixed,27.3,Granular,E. coli
+2017,Escherichia coli,Mixed,18.6,Granular,E. coli
+2017,Klebsiella pneumoniae,Mixed,41.5,Granular,K. pneumoniae
+2017,Staphylococcus aureus (MRSA),Mixed,33.0,Granular,S. aureus (MRSA)
+2016,Escherichia coli,Mixed,14.0,Granular,E. coli
+2024,Staphylococcus aureus (MRSA),Mixed,52.4,Granular,S. aureus (MRSA)
+2023,Klebsiella pneumoniae,Mixed,80.0,Granular,K. pneumoniae
+2023,Acinetobacter baumannii,Mixed,91.0,Granular,A. baumannii
+2023,Staphylococcus aureus,Mixed,63.0,Granular,S. aureus (MRSA)
+2023,Enterococcus faecium,Mixed,42.7,Granular,E. faecium
+2022,Klebsiella pneumoniae,Mixed,75.0,Granular,K. pneumoniae
+2022,Acinetobacter baumannii,Mixed,88.0,Granular,A. baumannii
+2022,Staphylococcus aureus (MRSA),Mixed,87.0,Granular,S. aureus (MRSA)
+2022,Enterococcus faecium,Mixed,42.0,Granular,E. faecium
+2021,Klebsiella pneumoniae,Mixed,73.4,Granular,K. pneumoniae
+2021,Acinetobacter baumannii,Mixed,85.8,Granular,A. baumannii
+2021,Escherichia coli,Mixed,51.0,Granular,E. coli
+2020,Staphylococcus aureus (MRSA),Mixed,74.7,Granular,S. aureus (MRSA)
+2020,Staphylococcus aureus (MRSA),Mixed,26.8,Granular,S. aureus (MRSA)
+2020,Salmonella Typhi,Mixed,95.0,Granular,S. Typhi
+2022,Escherichia coli,Mixed,19.0,Excel,E. coli
+2021,Escherichia coli,Mixed,37.0,Excel,E. coli
+2021,Klebsiella pneumoniae,Mixed,57.0,Excel,K. pneumoniae
+2021,Escherichia coli,Mixed,36.0,Excel,E. coli
+2021,Staphylococcus aureus (MRSA),Mixed,42.6,Excel,S. aureus (MRSA)
+2018,Escherichia coli,Mixed,20.0,Excel,E. coli
+2019,Staphylococcus aureus (MRSA),Mixed,29.4,Excel,S. aureus (MRSA)
+2018,Staphylococcus aureus (MRSA),Mixed,21.0,Excel,S. aureus (MRSA)
+2017,Staphylococcus aureus (MRSA),Mixed,23.5,Excel,S. aureus (MRSA)
+2017,Enterococcus faecium (VRE),Mixed,4.0,Excel,E. faecium (VRE)
+2021,Escherichia coli,Mixed,35.9,Excel,E. coli
+2021,Klebsiella pneumoniae,Mixed,57.0,Excel,K. pneumoniae
+2020,Escherichia coli,Mixed,28.0,Excel,E. coli
+2019,Escherichia coli,Mixed,36.6,Excel,E. coli
+2019,Klebsiella pneumoniae,Mixed,54.0,Excel,K. pneumoniae
+2018,Escherichia coli,Mixed,27.3,Excel,E. coli
+2017,Escherichia coli,Mixed,18.6,Excel,E. coli
+2017,Klebsiella pneumoniae,Mixed,41.5,Excel,K. pneumoniae
+2017,Staphylococcus aureus (MRSA),Mixed,33.0,Excel,S. aureus (MRSA)
+2016,Escherichia coli,Mixed,14.0,Excel,E. coli
+2024,Staphylococcus aureus (MRSA),Mixed,52.4,Excel,S. aureus (MRSA)
+2023,Klebsiella pneumoniae,Mixed,80.0,Excel,K. pneumoniae
+2023,Acinetobacter baumannii,Mixed,91.0,Excel,A. baumannii
+2023,Staphylococcus aureus,Mixed,63.0,Excel,S. aureus (MRSA)
+2023,Enterococcus faecium,Mixed,42.7,Excel,E. faecium
+2022,Klebsiella pneumoniae,Mixed,75.0,Excel,K. pneumoniae
+2022,Acinetobacter baumannii,Mixed,88.0,Excel,A. baumannii
+2022,Staphylococcus aureus (MRSA),Mixed,87.0,Excel,S. aureus (MRSA)
+2022,Enterococcus faecium,Mixed,42.0,Excel,E. faecium
+2021,Klebsiella pneumoniae,Mixed,73.4,Excel,K. pneumoniae
+2021,Acinetobacter baumannii,Mixed,85.8,Excel,A. baumannii
+2021,Escherichia coli,Mixed,51.0,Excel,E. coli
+2020,Staphylococcus aureus (MRSA),Mixed,74.7,Excel,S. aureus (MRSA)
+2020,Staphylococcus aureus (MRSA),Mixed,26.8,Excel,S. aureus (MRSA)
+2020,Salmonella Typhi,Mixed,95.0,Excel,S. Typhi

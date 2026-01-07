@@ -1,0 +1,4 @@
+Parameter,Estimate,95% CI Lower,95% CI Upper,p-value
+Pre-intervention slope (β₁),2.514,1.089,3.940,0.0042
+Level change at intervention (β₂),11.607,4.820,18.393,0.0049
+Slope change post-intervention (β₃),2.514,1.089,3.940,0.0042
